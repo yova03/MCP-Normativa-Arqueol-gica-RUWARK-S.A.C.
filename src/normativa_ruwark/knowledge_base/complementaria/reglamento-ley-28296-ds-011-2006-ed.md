@@ -1,0 +1,63 @@
+# Reglamento de la Ley N° 28296 — D.S. N° 011-2006-ED
+
+> **Tipo:** Decreto Supremo
+> **Número:** D.S. N° 011-2006-ED
+> **Fecha:** 02/12/2004
+> **Estado:** Vigente — con modificatorias
+
+---
+
+VISTOS: el Proveído N° 014411-2024-VMPCIC/MC del Despacho Viceministerial de Patrimonio Cultural e Industrias Culturales; el Informe N° 000945-2024-DGPA-VMPCIC/MC de la Direccin General de Patrimonio Arqueolgico Inmueble y el Informe N° 001777-2024-OGAJ­SG/MC, de la Oficina General de Asesoría Jurídica; y,
+
+CONSIDERANDO:
+
+Que, por la Ley N° 29565, Ley de creacin del Ministerio de Cultura y su modificatoria, se crea el Ministerio de Cultura, como organismo del Poder Ejecutivo con personería jurídica de derecho pblico, estableciéndose las áreas programáticas vinculadas al Patrimonio Cultural de la Nacin, sobre las cuales ejerce competencia, funciones y atribuciones;
+
+Que, de acuerdo con el literal b) del artículo 7 de la citada ley, el Ministerio de Cultura tiene como funcin exclusiva respecto de otros niveles de gobierno, realizar acciones de declaraci, generaci de catastro, delimitaci, actualizacin catastral, investigacin, protecci, conservaci, puesta en valor, promoci y difusin del Patrimonio Cultural de la Nacin;
+
+Que, de conformidad con lo dispuesto en el numeral 9.4 del artículo 9 del Reglamento de Organizaci y Funciones del Ministerio de Cultura, aprobado mediante Decreto Supremo N° 005-2013-MC, el Despacho Viceministerial de Patrimonio Cultural e Industrias Culturales tiene entre sus funciones la de coordinar, orientar y supervisar la gesti, defensa, declaracin, protecci, investigacin y promoci de los bienes del patrimonio cultural a cargo del Estado;
+
+Que, el artículo 5 del Decreto Supremo N° 009-2024-JUS, Reglamento que establece disposiciones sobre publicacin y difusi de normas jurídicas de carácter general, resoluciones y proyectos normativos, sela que la publicaci oficial de las normas jurídicas de carácter general es esencial para su entrada en vigencia y que las entidades de la Administraci Plica emisoras son responsables de disponer su publicaci obligatoria en los términos y condiciones que establece dicho Reglamento;
+
+Que, el numeral 20.1 del artículo 20 del Reglamento sela que la publicaci de proyectos normativos debe contener, entre otros, los siguientes elementos: el nombre de la entidad de la Administraci Plica que propone el proyecto normativo, el documento que contiene el proyecto normativo y la exposici de motivos, cuando sea obligatorio que la norma cuente con exposici de motivos, el plazo para la recepci de los comentarios, aportes u opiniones, que no debe ser menor a quince (15) días calendario contados desde el día siguiente de su publicacin, salvo disposici normativa de rango superior que establezca lo contrario;
+
+Que, en ese contexto se ha elaborado la propuesta de Decreto Supremo que modifica el Reglamento de Intervenciones Arqueolicas, aprobado por Decreto Supremo N° 011-2022­MC;
+
+Esta es una copia auténtica imprimible de un documento electrnico archivado por el Ministerio de Cultura, aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposicin Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente direccin web: https://tramitedocumentario.cultura.gob.pe:8181/validadorDocumental/inicio/detalle.jsf e ingresando la siguiente clave: LT3AWJY
+
+Que, mediante Proveído N° 014411-2024-VMPCIC/MC del Despacho Viceministerial de Patrimonio Cultural e Industrias Culturales, y el Informe N° 0000945-2024-DGPA-VMPCIC/MC de la Direccin General de Patrimonio Arqueolico Inmueble, se sustenta que resulta pertinente disponer la publicacin de dicho proyecto de Decreto Supremo, a fin de que las personas interesadas formulen comentarios, sugerencias y/o recomendaciones;
+
+Que, a través del Informe N° 001777-2024-OGAJ-SG/MC, la Oficina General de Asesoría Jurídica considera jurídicamente viable la publicacin del proyecto de Decreto Supremo;
+
+Que, en el marco de lo establecido en el artículo 14 de la Ley N° 29158, Ley Orgánica del Poder Ejecutivo y, conforme con lo dispuesto en el Reglamento que establece disposiciones sobre publicaci y difusi de normas jurídicas de carácter general, resoluciones y proyectos normativos, aprobado con Decreto Supremo N° 009-2024-JUS; resulta pertinente disponer la publicaci del proyecto de Decreto Supremo que modifica el Reglamento de Intervenciones Arqueolicas, aprobado por Decreto Supremo N° 011-2022-MC, con la finalidad de recibir las sugerencias, comentarios o recomendaciones que pudieran contribuir a su mejoramiento;
+
+Con los vistos del Despacho Viceministerial de Patrimonio Cultural e Industrias Culturales, de la Direcci General de Patrimonio Arqueolico Inmueble, y de la Oficina General de Asesoría Jurídica;
+
+De conformidad con la Ley N° 29158, Ley Orgánica del Poder Ejecutivo y sus modificatorias; La Ley N° 29565, Ley de creaci del Ministerio de Cultura y su modificatoria; el Decreto Supremo N° 005-2013-MC, que aprueba el Reglamento de Organizacin y Funciones del Ministerio de Cultura; y, el Decreto Supremo N° 009-2024-JUS, Reglamento que establece disposiciones sobre publicaci y difusin de normas jurídicas de carácter general, resoluciones y proyectos normativos;
+
+SE RESUELVE:
+
+#### Artículo 1.-Publicacin del proyecto de Decreto Supremo que modifica el Reglamento de Intervenciones Arqueolgicas, aprobado por Decreto Supremo N° 011­2022-MC
+
+Disponer la publicaci del proyecto de Decreto Supremo que modifica el Reglamento de Intervenciones Arqueolgicas, aprobado por Decreto Supremo N° 011-2022-MC. Dicha publicaci se realiza en el portal institucional del Ministerio de Cultura (www.gob.pe/cultura), a fin de conocer las opiniones, comentarios y/o sugerencias de la ciudadanía en general, durante el plazo de quince (15) días calendario, contados a partir de la publicaci de la presente resoluci en el diario oficial El Peruano.
+
+#### Artículo 2.-Recepci de opiniones, comentarios y/o sugerencias
+
+Las opiniones, comentarios y/o sugerencias que se reciban al proyecto de Decreto Supremo que modifica el Reglamento de Intervenciones Arqueolgicas, aprobado por Decreto Supremo N° 011-2022-MC deben ser remitidos a la direcci electrnica: gcordova@cultura.gob.pe, o en su defecto a la mesa de partes física o virtual del Ministerio de Cultura.
+
+Esta es una copia auténtica imprimible de un documento electrnico archivado por el Ministerio de Cultura, aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposicin Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente direccin web: https://tramitedocumentario.cultura.gob.pe:8181/validadorDocumental/inicio/detalle.jsf e ingresando la siguiente clave: LT3AWJY
+
+#### Artículo 3.-Consolidaci de informacin
+
+Encargar a la Direccin General de Patrimonio Arqueolico Inmueble, la consolidaci de las opiniones, comentarios y/o sugerencias que se presenten en el marco de la presente resoluci.
+
+Regístrese, comuníquese y publíquese.
+
+Documento firmado digitalmente
+
+FABRICIO ALFREDO VALENCIA GIBAJA
+
+Ministro de Cultura
+
+Esta es una copia auténtica imprimible de un documento electrnico archivado por el Ministerio de Cultura, aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposicin Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente direccin web: https://tramitedocumentario.cultura.gob.pe:8181/validadorDocumental/inicio/detalle.jsf e ingresando la siguiente clave: LT3AWJY
+

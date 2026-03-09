@@ -1,0 +1,665 @@
+# Formatos para Intervenciones Arqueológicas — Anexo 1
+
+> **Tipo:** Resolución Ministerial
+> **Número:** R.M. N° 000439-2024-MC
+> **Fecha de publicación:** 2024
+> **Estado:** Vigente
+
+---
+
+DECRETO SUPREMO QUE MODIFICA EL REGLAMENTO DE INTERVENCIONES ARQUEOLÓGICAS, APROBADO POR DECRETO SUPREMO Nº 011-2022-MC
+
+LA PRESIDENTA DE LA REPÚBLICA
+
+CONSIDERANDO:
+
+Que, el artículo 21 de la Constitucin Política del Per, seala que los yacimientos y restos arqueolgicos, construcciones, monumentos, lugares, documentos bibliográficos y de archivo, objetos artísticos y testimonios de valor histrico, expresamente declarados bienes culturales, y provisionalmente los que se presumen como tales, son patrimonio cultural de la Nacin, independientemente de su condicin de propiedad privada o pblica. Están protegidos por el Estado;
+
+Que, el artículo 4 de la Ley N° 29565, Ley de creacin del Ministerio de Cultura, establece entre las áreas programáticas de accin del Ministerio de Cultura, las vinculadas con el Patrimonio Cultural de la Nacin, sobre las cuales ejerce competencia, funciones y atribuciones;
+
+Que, conforme con lo dispuesto en el artículo 5 de la citada norma es competencia exclusiva del Ministerio de Cultura en su condicin de organismo rector en materia de cultura, respecto de otros niveles de gobierno en todo el territorio nacional, el dictado de normas y lineamientos técnicos para la adecuada ejecucin y supervisin de la política sectorial, así como la aplicacin de las políticas nacionales en materia de cultura considerando a los gobiernos regionales, gobiernos locales y organismos privados que operan en el campo de la cultura;
+
+Que, además, la referida norma dispone en el artículo 7 que es funcin exclusiva del Ministerio de Cultura, respecto de otros niveles de gobierno, entre otras, realizar acciones de declaracin, generacin de catastro, delimitacin, actualizacin catastral, investigacin, proteccin, conservacin, puesta en valor, promocin y difusin del Patrimonio Cultural de la Nacin; así como cumplir y hacer cumplir el marco normativo relacionado con el ámbito de su competencia;
+
+Que, el artículo II del Título Preliminar de la Ley Nº 28296, Ley General del Patrimonio Cultural de la Nacin, define el bien integrante del Patrimonio Cultural de la Nacin como toda manifestacin del quehacer humano, material o inmaterial, que por su importancia, valor y significado arqueolgico, arquitectnico, histrico, artístico, militar, social, antropolgico, tradicional, religioso, etnolgico, científico, tecnolgico o intelectual, sea expresamente declarado como tal o sobre el que exista la presuncin legal de serlo, teniendo dichos bienes la condicin de propiedad pblica o privada con las limitaciones que establece la citada Ley;
+
+Que, asimismo, el artículo IV del Título Preliminar de la Ley Nº 28296, Ley General del Patrimonio Cultural de la Nacin, dispone que es de interés social y de necesidad pblica la identificacin, generacin de catastro, delimitacin, actualizacin catastral, registro, inventario, declaracin, proteccin, restauracin, investigacin, conservacin, puesta en valor y difusin del Patrimonio Cultural de la Nacin y su restitucin en los casos pertinentes;
+
+Que, a través de la Política Nacional de Cultura al 2030, aprobada mediante el Decreto Supremo Nº 009-2020-MC, se han establecido objetivos prioritarios que concretarán las intervenciones del sector, siendo uno de ellos el Objetivo Prioritario Nº
+
+5 vinculado a fortalecer la proteccin y salvaguardia del patrimonio cultural para su uso social;
+
+Que, el artículo 5 del Reglamento de la Ley Nº 28296, Ley General del Patrimonio Cultural de la Nacin, aprobado por Decreto Supremo Nº 011-2006-ED, establece que el Ministerio de Cultura tiene entre sus atribuciones, la prerrogativa para dictar las normas necesarias para la gestin y uso sostenible del patrimonio cultural y, en consecuencia, para el registro, declaracin, proteccin, identificacin, inventario, inscripcin, investigacin, conservacin, difusin, puesta en valor, promocin y restitucin en los casos que corresponda, y aprobar las normas administrativas necesarias para ello;
+
+Que, mediante el Decreto Supremo Nº 011-2022-MC, se aprueba el Reglamento de Intervenciones Arqueolgicas, con el objeto de regular los aspectos técnicos y administrativos referidos a la ejecucin de intervenciones arqueolgicas a nivel nacional en sus diversas modalidades, la emisin del Certificado de Inexistencia de Restos Arqueolgicos en Superficie – CIRAS, entre otros;
+
+Que, mediante el Decreto Legislativo N° 1680, se establece el Diagnstico Arqueolgico de Superficie -DAS, como una medida alternativa al Certificado de Inexistencia de Restos Arqueolgicos en Superficie – CIRAS, con la finalidad de cautelar el patrimonio cultural de la Nacin, facilitando, a su vez, la inversin pblica y privada;
+
+Que, la segunda disposicin complementaria final del Decreto Legislativo N° 1680 seala que el Ministerio de Cultura, en un plazo máximo de sesenta (60) días hábiles, modifica el Reglamento de Intervenciones Arqueolgicas, aprobado por Decreto Supremo Nº 011-2022-MC, conforme con lo dispuesto en dicho Decreto Legislativo. Para asegurar la debida implementacin del Diagnstico Arqueolgico de Superficie ­DAS, en el mencionado Reglamento, el Ministerio de Cultura modifica los procedimientos de intervencin arqueolgica correspondientes, unificándolos y simplificando sus requisitos y etapas, así como estableciendo plazos para su atencin;
+
+Que, en tal sentido, es necesario modificar el Reglamento de Intervenciones Arqueolgicas, aprobado por Decreto Supremo Nº 011-2022-MC, para asegurar la debida implementacin del Diagnstico Arqueolgico de Superficie -DAS creado por el Decreto Legislativo N° 1680;
+
+De conformidad con lo dispuesto en la Constitucin Política del Per; el Texto Único Ordenado de la Ley Nº 27444, Ley General del Procedimiento Administrativo General, aprobado mediante el Decreto Supremo Nº 004-2019-JUS; la Ley Nº 28296, Ley General del Patrimonio Cultural de la Nacin; la Ley Nº 29565, Ley de creacin del Ministerio de Cultura; y el Decreto Supremo Nº 005-2013-MC, Decreto Supremo que aprueba el Reglamento de Organizacin y Funciones del Ministerio de Cultura;
+
+DECRETA:
+
+#### Artículo 1. Objeto
+
+El presente Decreto Supremo tiene por objeto modificar el Reglamento de Intervenciones Arqueolgicas, aprobado por Decreto Supremo Nº 011-2022-MC, a fin de asegurar la debida implementacin del Diagnstico Arqueolgico de Superficie – DAS creado por el Decreto Legislativo N° 1680, Decreto Legislativo que establece el Diagnostico Arqueolgico de Superficie.
+
+#### Artículo 2. Modificaci de la denominaci del Título II del Reglamento de Intervenciones Arqueolicas, aprobado por Decreto Supremo Nº 011-2022-MC
+
+Modificar la denominacin del Título II "Certificado de Inexistencia de Restos arqueolgicos en Superficie CIRAS" del Reglamento de Intervenciones Arqueolgicas, aprobado por Decreto Supremo Nº 011-2022-MC, por el siguiente título:
+
+"TÍTULO II DE LA EVALUACIÓN ARQUEOLÓGICA DE SUPERFICIE"
+
+#### Artículo 3. Modificaci de los artículos V, 1, 11, 23, 24, 25, 27, 28 y 34 del Reglamento de Intervenciones Arqueolicas, aprobado por Decreto Supremo Nº 011-2022-MC
+
+Modificar los artículos V, 1, 11, 23, 24, 25, 27, 28 y 34 del Reglamento de Intervenciones Arqueolgicas, aprobado por Decreto Supremo Nº 011-2022-MC, por los siguientes títulos:
+
+"Artículo V. Definiciones
+
+Para efectos de la aplicacin de las disposiciones contenidas en el presente reglamento, se entiende por:
+
+1.
+
+Acta de inspecci.-(...)
+
+2.
+
+Bienes inmuebles prehispánicos de Categoría A.-Conformado por los bienes inmuebles prehispánicos cuyo Alto Potencial Arqueolico constituye un recurso para el desarrollo de actividades que fortalecen la identidad nacional y contribuyen al crecimiento econico. El Ministerio de Cultura promueve su investigaci, conservaci y puesta en valor. Dichos bienes son categorizados mediante Resoluci Directoral, aprobada por el Ministerio de Cultura, en cumplimiento de lo establecido en el inciso 1.1. del numeral 1 del artículo 1 de la Ley N° 28296, Ley General del Patrimonio Cultural.
+
+3.
+
+Bienes inmuebles prehispánicos de Categoría B.-Conformado por los bienes inmuebles prehispánicos que no constituyen un recurso para el desarrollo de actividades. Las intervenciones arqueológicas permiten la obtención de información científica e histórica referida a su caracterización cultural, funcional y/o cronológica. El Ministerio de Cultura promueve su investigación y conservación.
+
+Dichos bienes son categorizados mediante Resoluci Directoral, aprobada por el Ministerio de Cultura, en cumplimiento de lo establecido en el inciso 1.1. del numeral 1 del artículo 1 de la Ley N° 28296, Ley General del Patrimonio Cultural.
+
+4.
+
+Bienes inmuebles prehispánicos de Categoría C.-Conformado por los bienes inmuebles prehispánicos, cuyas condiciones actuales limitan la obtención de información científica e histórica referida a su caracterización cultural, funcional y/o cronológica. Dichos bienes son categorizados mediante Resolución Directoral, aprobada por el Ministerio de Cultura, en cumplimiento de lo establecido en el inciso 1.1. del numeral 1 del artículo 1 de la Ley N° 28296, Ley General del Patrimonio Cultural.
+
+5.
+
+Carácter ineludible.-(...)
+
+6.
+
+Delimitaci.-(...)
+
+7.
+
+Director.-(...).
+
+8.
+
+Frente de trabajo.-Es el área, terreno o espacio geográfico al interior de una obra o proyecto que cuenta con un Plan de Monitoreo Arqueolico autorizado por el Ministerio de Cultura, donde se realiza remoci de suelos, de acuerdo con el cronograma de trabajo propuesto y que debe contar con un arquelogo residente colegiado y habilitado por el Colegio Profesional de Arqueogos del Per.
+
+9.
+
+Impactos al patrimonio arqueolico.-(...)
+
+10.
+
+Infraestructura preexistente.-(...)
+
+11.
+
+Intangible.-(...)
+
+12.
+
+Marco Circundante.-(...)
+
+13.
+
+Medidas de mitigaci.-(...)
+
+14.
+
+Potencial arqueolico.-(...)
+
+15.
+
+Puesta en valor.-(...)
+
+16.
+
+Retiro de condici de Patrimonio Cultural de la Naci de los bienes inmuebles prehispánicos.-(...).
+
+17.
+
+Titular.-(...)
+
+18.
+
+Uso compatible.-(...)
+
+19.
+
+Uso tradicional.-(...)"
+
+"Artículo 1. Generalidades
+
+(...)
+
+**1.7** Los proyectos de inversin pblica y privada e inversiones IOARR que se planifiquen ejecutar con fines de gesti, conservaci, restauraci, puesta en valor y/o uso social, al interior de los bienes inmuebles prehispánicos, requieren de la opinin favorable de la Direccin General de Patrimonio Arqueolgico Inmueble, de forma previa a la tramitacin de la autorizacin de las modalidades de intervencin arqueolgica que se requieran
+
+(...)"
+
+"Artículo 11. Direcci y participacin
+
+(...)
+
+**11.2** El director, debidamente colegiado y habilitado por el Colegio Profesional de Arquelogos del Perpodrá dirigir de forma simultánea más de una intervencin arqueolgica, siempre que este acompado de uno o más arquelogos residentes colegiados y habilitados durante la etapa de trabajo de campo en cada intervenci arqueolica o frente de trabajo, de corresponder, de manera continua y permanente. Para estos casos, la participaci de los arqueogos residentes no se superpondrá a los cronogramas de la fase de trabajo de campo contenidos en otros programas, proyectos y planes autorizados donde participan.
+
+**11.3** El director permanece durante la totalidad de la fase del trabajo de campo de la intervencin arqueolgica si ésta no cuenta con un arquelogo residente.
+
+**11.4** Es procedente la participacin de un profesional con estudios en el extranjero como codirector en los procedimientos de intervenci arqueolica, siempre que se cuente con un arquelogo peruano como director; ambos deben estar colegiados y habilitados ante el Colegio Profesional de Arqueogos del Per. Ambos son responsables en la formulacin y ejecucin integral de los procedimientos de intervenci arqueolica, tanto en campo como gabinete, así como en la elaboracin del informe de resultados."
+
+"Artículo 23. Autorización para la ejecución de un Proyecto de Evaluación
+
+Arqueolica -PEA
+
+(...)
+
+**23.2** Cuando un PEA determina mediante excavaciones la existencia de bienes inmuebles prehispánicos que sean de categoría C, éstos pueden ser rescatados en el marco del PEA, en el cual fueron intervenidos o, pueden ser materia de un PRA, no siendo necesario el sustento técnico de ingeniería explicando el carácter ineludible de la obra, ni la declaratoria de necesidad y utilidad pblica.
+
+(...)
+
+**23.4** No se autoriza PEA en los bienes culturales incluidos en la Lista del Patrimonio Mundial y otros sitios que sean de categoría A.
+
+Excepcionalmente, se podrá autorizar un PEA, en los bienes referidos en el párrafo precedente, cuando dicha intervenci sea necesaria para su gesti, protecci y/o promoci, previa opini favorable de la Direcci de Gesti de Monumentos o la que haga sus veces en las Direcciones Desconcentradas de Cultura, segn el ámbito de sus competencias
+
+**23.5** La autorizacin para la ejecucin de un PEA en el ámbito de bienes culturales inmuebles del periodo posterior al prehispánico, no implica la autorizacin de obra pblica o privada, o cualquier intervencin civil en dichos bienes culturales.
+
+**23.6** Los PEA se tramitan en cualquiera de los siguientes supuestos:
+
+1.
+
+Cuando el acto administrativo con el que se resuelve la solicitud de un CIRAS así lo recomienda.
+
+2.
+
+Cuando el informe del Diagntico Arqueolico de Superficie (DAS) así lo recomienda.
+
+3.
+
+A solicitud del administrado.
+
+**23.7** La solicitud de autorizacin para la ejecucin de un PEA debe presentarse en la plataforma de los servicios en línea del Ministerio de Cultura, o por mesa de partes en versin impresa o digital (CD o DVD); de acuerdo con los siguientes requisitos:
+
+1. Solicitud presentada mediante formulario o documento que contenga la misma informacin, en el que se detalla lo siguiente:
+
+a)
+
+Datos generales del solicitante (Nombres y apellidos completos, domicilio y nmero de Documento Nacional de Identidad o carné de extranjería. En el caso de personas jurídicas, dicha solicitud debe estar suscrita por su representante legal, indicando el nmero de RUC y el nmero de la partida registral).
+
+b)
+
+Declaracin jurada suscrita por el director y el residente del proyecto, indicando nmero de colegiatura, habilitacin, y compromiso de no afectacin al patrimonio cultural.
+
+c)
+
+Declaracin jurada suscrita por el titular del proyecto, indicando el compromiso de financiamiento, y de no afectacin al patrimonio cultural.
+
+d) Nmero de partida registral, o nmero de resolucin que otorga la adjudicacin o concesin, o cdigo nico de inversiones (o cdigo SNIP) que acredite la titularidad de la viabilidad del proyecto de inversin o se debe acreditar la condici de propietario o poseedor, en forma documental, presentando copia simple de la escritura pblica, o minuta, o contrato de compraventa o cualquier otro documento que acredite el legítimo interés
+
+e) Nmero de constancia y fecha de pago.
+
+2. Informacin técnica mediante formulario o documento suscrito por el director propuesto que contenga:
+
+a)
+
+Nombre del PEA.
+
+b)
+
+Ubicacin del proyecto.
+
+c)
+
+Extensin del área del proyecto.
+
+d)
+
+Cuadro de datos técnicos del área de intervencin del proyecto.
+
+e)
+
+Metodología de campo y gabinete.
+
+f)
+
+Descripcin técnica resumida del proyecto materia del PEA.
+
+g)
+
+Personal del proyecto y cronograma.
+
+h)
+
+Presupuesto general (monto econmico dispuesto para la intervencin arqueolgica).
+
+3. Plano perimétrico del área de la intervencin arqueolgica, presentado en formato .dwg, correctamente georreferenciado en coordenadas UTM, Datum WGS 84, conteniendo la siguiente informacin: escalas numérica y gráfica, las cuales deben guardar relacin con el grillado, membrete, cuadro de datos técnicos, ya sea en área o longitud (con vértice, lado o progresiva, distancia, coordenadas este y norte, área, perímetro, longitud, y servidumbre), suscrito por el profesional competente, en versin impresa y digital, de acuerdo a los modelos aprobados, segn correspondan.
+
+**23.8** La Direccin de Calificacin de Intervenciones Arqueolgicas o la autoridad delegada para dicho efecto otorga la autorizacin para la ejecucin de un PEA, en el plazo de veinticinco días hábiles contados desde el primer día hábil posterior a la presentacin de la solicitud, y se sujeta a las normas del
+
+silencio administrativo negativo."
+
+"Artículo 24. Informe de resultados
+
+(...)
+
+**24.2** El acto administrativo que comunica la conformidad al informe de resultados correspondiente a un PEA es emitido por la Direccin de Calificacin de Intervenciones Arqueolgicas. Dicho acto administrativo se materializa mediante una Resoluci Directoral, mediante la cual se dispone el procedimiento a seguir ante el Ministerio de Cultura.
+
+Si como resultado de esta intervenci no se registran restos arqueolicos, dicho acto administrativo tiene efectos equivalentes al CIRAS, lo cual es precisado de manera expresa en dicha resoluci."
+
+"Artículo 25. Autorizaci para la ejecuci de un Proyecto de Rescate Arqueolico – PRA
+
+(...)
+
+**25.5** Los PRA se tramitan:
+
+1.
+
+Durante o luego de la ejecucin de un PEA, de ser el caso.
+
+2.
+
+Durante la ejecucin de un PMAR, de ser el caso.
+
+**25.6** Los PRA que provienen de PEA deben ser solicitados durante o luego de la ejecuci de un PEA, y deben ser desarrollados antes del inicio de la obra.
+
+**25.7** La solicitud de autorizacin para un PRA debe presentarse en la plataforma de los servicios en línea del Ministerio de Cultura, o por mesa de partes en versin impresa o digital (CD o DVD); de acuerdo con los requisitos que se mencionan en los numerales a continuacin:
+
+(...)
+
+2.
+
+Informacin técnica mediante formulario o documento suscrito por el director propuesto que contenga:
+
+3.
+
+Documento técnico de ingeniería que sustente el carácter ineludible de la obra o la declaratoria de necesidad y utilidad plica.
+
+(...)
+
+k)  Personal del proyecto.
+
+l)  Cronograma.
+
+m)  Presupuesto  general  (monto  econmico  dispuesto  para  la
+
+intervencin arqueolgica).
+
+(...)
+
+**25.8** El PRA que procede de un PMAR o un PEA en curso. La solicitud de autorizacin para un PRA durante la ejecucin de un PMAR
+
+o un PEA debe adjuntar el siguiente requisito adicional:
+
+(...)
+
+**25.9** La Direccin de Calificacin de Intervenciones Arqueolgicas o la autoridad delegada para dicho efecto otorga la autorizacin para un PRA, en el plazo de veinticinco días hábiles contados desde el primer día hábil posterior a la presentacin de la solicitud, y se sujeta a las normas del silencio
+
+administrativo negativo."
+
+"Artículo 27. Autorización para la ejecución de un Plan de Monitoreo
+
+Arqueolico -PMAR (...)
+
+**27.3** El titular, director, codirector y residente de un PMAR deben adoptar e implementar las acciones dispuestas por el Ministerio de Cultura, en caso de encontrar hallazgos de evidencias culturales bajo superficie en el área de intervencin, o de existir colindancia y/o proximidad de la obra a un bien del patrimonio cultural.
+
+**27.4** Por la naturaleza y/o extensin del proyecto, que implique la ejecucin simultánea de dos o más frentes de trabajo, se debe contar con la participacin de un arqueogo residente colegiado y habilitado en el Colegio de Arqueogos del Per por frente de trabajo, para garantizar el monitoreo permanente. Para tal efecto, el cronograma de ejecucin de obra debe especificar las labores que impliquen la remocin de suelos, su tiempo de duracin, y la distribucin de los diferentes frentes de trabajo.
+
+**27.5** Para obras de infraestructura subterránea, cuyo trazo atraviesa el subsuelo de bienes inmuebles prehispánicos o para el cruce aéreo cuyo trazo se encuentre en los aires del bien inmueble prehispánico, se puede autorizar la ejecuci de un PMAR, siempre que dichas obras sean de interés pblico.
+
+**27.6** Se podrá autorizar un PMAR en ámbitos correspondientes a zonas arqueolicas en emergencia derivadas del Decreto Supremo N° 017­98-PCM incluyendo como medida de mitigaci el rescate de las evidencias arqueolicas que pudieran conservarse en el subsuelo.
+
+**27.7** El PMAR es de implementacin obligatoria, teniendo el Ministerio de Cultura la competencia para disponer la paralizacin de la obra en caso de incumplimiento, así como para dictar las medidas correctivas que estime pertinentes en salvaguarda del Patrimonio Cultural de la Nacin
+
+**27.8** Cuando un PMAR se ejecute en infraestructura preexistente se verifica tal condicin mediante documentaci gráfica remitida por el administrado o, en caso sea necesario, a través de una inspecci realizada por la Direccin de Certificaciones o la que haga sus veces en las Direcciones Desconcentradas de Cultura, segn el ámbito de sus competencias. El administrado acredita la infraestructura preexistente mediante documentaci gráfica que contenga fecha, hora y coordenadas UTM.
+
+**27.9** En el caso de la ejecucin de una obra que involucre un bien inmueble integrante del Patrimonio Cultural de la Nacin del periodo posterior al prehispánico, se requiere la autorizacin de la Direccin General de Patrimonio Cultural o de las Direcciones Desconcentradas de Cultura, u opinin favorable del delegado ad hoc del Ministerio de Cultura, segn corresponda.
+
+**27.10** En el caso de la ejecucin de una obra que se desarrolle en un medio subacuático, se requiere de manera previa la opinin favorable de la Direccin General de Patrimonio Cultural.
+
+**27.11** En el caso de proyectos u obras desarrolladas en medios subacuáticos, la implementacin de un PMAR debe contemplar una metodología de trabajo para la zona intermareal, y otra para la zona subacuática.
+
+**27.12** Los PMAR proceden de:
+
+1.
+
+Un PIA cuando se necesite infraestructura para la gestin, proteccin, y/o promocin del bien inmueble prehispánico.
+
+2.
+
+Un PEA cuando el acto administrativo que da conformidad al informe de resultados así lo indique o cuando dicho acto declare que los resultados equivalen a un CIRAS
+
+3.
+
+Un PRA.
+
+4. Del CIRAS.
+
+5. Del DAS.
+
+6. De infraestructura preexistente y en medios subacuáticos hasta la línea de marea alta o zona inundable.
+
+**27.13** La solicitud de autorizacin para la ejecucin de un PMAR debe presentarse en la plataforma de los servicios en línea del Ministerio de Cultura, o por mesa de partes en versin impresa y digital (CD o DVD); de acuerdo con los requisitos que se mencionan en los numerales 27.15, 27.17, 27.19, 27.21 y 27.23.
+
+**27.14** La Direccin de Certificaciones o la Direccin Desconcentrada de Cultura otorgan la autorizacin de un PMAR, de acuerdo al ámbito de sus competencias.
+
+**27.15** El PMAR sin infraestructura preexistente. La solicitud de autorizacin para un PMAR sin infraestructura preexistente, debe contener los siguientes requisitos:
+
+1. Solicitud presentada mediante formulario o documento que contenga la misma informacin, en el que se detalla lo siguiente:
+
+(...)
+
+b) Declaracin jurada suscrita por el director y el residente del proyecto, indicando nmero de colegiatura, habilitacin, y compromiso de no afectacin al patrimonio cultural.
+
+(...)
+
+2. Informacin técnica, mediante formulario o documento suscrito por el director que contenga:
+
+a) Informacin general del proyecto (nombre del proyecto, procedencia de acuerdo con lo sealado en el artículo 27.12, tipo de obra a ejecutarse y ubicaci política).
+
+b) Descripcin técnica del PMAR (descripcin específica de la obra a ejecutar indicando el componente del proyecto relacionado a la remoci del suelo, en cuyo marco se aplica esta intervenci arqueolica; en el caso de patrimonio cultural subacuático se deberá adjuntar la metodología para las zonas intermareal y subacuática; extensin a monitorear; personal del proyecto y cronograma del proyecto).
+
+3. Plano perimétrico del área de la intervencin arqueolgica, presentado en formato vectorial .dwg o .shp (con su respectivo archivo.mxd) correctamente georreferenciado en coordenadas UTM, Datum WGS 84
+
+y zona de proyecci, suscrito por un ingeniero o arquitecto, indicando el nmero de colegiatura, en versin impresa y digital.
+
+Los planos deben representarse en unidades de medida de acuerdo con la naturaleza de la obra. Para casos como la implementacin de líneas de transmisin, carreteras, tuberías de agua y desage, gasoductos, canales, y obras semejantes, debe expresarse longitudinalmente en metros (m) o kilmetros (km), indicando su respectiva servidumbre en metros. Tratándose de predios, áreas de concesin minera, represas, y otros que lo requieran, las áreas se expresarán en metros cuadrados (m²) o hectáreas (ha).
+
+4. Plano de obras programadas, en versi impresa o digital cuando:
+
+(i) el área de la intervenci es colindante o prima al bien inmueble prehispánico; (ii) en el caso de cruces aéreos, cuando su trazo se encuentre en los aires del bien inmueble prehispánico; (iii) cuando su trazo se encuentre en el subsuelo de bienes inmuebles prehispánicos. Estos planos deben ser presentados en formato vectorial .dwg o .shp (con su respectivo archivo.mxd) correctamente georreferenciado en coordenadas UTM, Datum WGS 84 y zona de proyecci, suscrito por un arquelogo, ingeniero o arquitecto, indicando el nmero de colegiatura.
+
+**27.16** El plazo máximo para otorgar la autorizacin para la ejecucin de un PMAR sin infraestructura preexistente no debe exceder los diez días hábiles, contados desde el primer día hábil posterior a la presentacin de la solicitud, y se sujeta a las normas del silencio administrativo negativo.
+
+**27.17** El PMAR con infraestructura preexistente.
+
+(...)
+
+1. Documentación gráfica (fotografías panorámicas, fotografías de detalles e imágenes satelitales que contengan fecha, hora y coordenadas UTM) que permitan el reconocimiento de la infraestructura prexistente.
+
+(...)
+
+**27.18** El plazo máximo para otorgar la autorizacin para la ejecucin de un PMAR con infraestructura preexistente no debe exceder los veinte días hábiles, contados desde el primer día hábil posterior a la presentacin de la solicitud, y se sujeta a las normas del silencio administrativo negativo.
+
+**27.19** El PMAR en medio subacuático.
+
+(...)
+
+**27.20** El plazo máximo para otorgar la autorizacin para la ejecucin de un PMAR en medio subacuático no debe exceder los veinte días hábiles, contados desde el primer día hábil posterior a la presentacin de la solicitud, y se sujeta a las normas del silencio administrativo negativo.
+
+**27.21** El PMAR en un bien inmueble integrante del Patrimonio Cultural de la Nacin del periodo posterior al prehispánico.
+
+(...)
+
+**27.22** El plazo máximo para otorgar la autorizacin para la ejecucin de un PMAR de un bien inmueble integrante del Patrimonio Cultural de la Nacin del periodo posterior al prehispánico no debe exceder de los veinte días hábiles, contados desde el primer día hábil posterior a la presentacin de la solicitud, y se sujeta a las normas del silencio administrativo negativo."
+
+**27.23** El PMAR que proviene de un DAS La solicitud de autorizaci para la ejecuci de un PMAR que proviene de un DAS, además de los requisitos previstos en el numeral
+
+**27.15** debe adjuntar el nero de DAS y la fecha de su emisi.
+
+**27.24** Durante el proceso de calificaci de un PMAR que proviene de un DAS se debe realizar una inspecci ocular a cargo de la Direcci de Certificaciones o la que haga sus veces en las Direcciones Desconcentradas de Cultura, segn el ámbito de sus competencias.
+
+**27.25** La solicitud de PMAR que proviene de un DAS será declarada infundada, entre otros: (i) cuando se advierta que la informaci técnica o el plano perimétrico difiera de los resultados del DAS y (ii) cuando se advierta que los resultados del DAS difieran de lo verificado en la inspecci ocular realizada durante la evaluaci del PMAR.
+
+**27.26** El plazo máximo para otorgar la autorizaci para la ejecuci de un PMAR que proviene de un DAS no debe exceder los veinte días hábiles, contados desde el primer día hábil posterior a la presentaci de la solicitud, y se sujeta a las normas del silencio administrativo negativo."
+
+"Artículo 28. Acciones en caso de hallazgos
+
+(...)
+
+**28.2** Se pueden efectuar excavaciones con la finalidad de determinar la extensin del hallazgo, su potencial arqueolgico, su delimitacin y sealizacin, de acuerdo a lo establecido en el PMAR, entendiéndose que dichos trabajos no constituyen un rescate arqueolgico. Se procede de la siguiente manera en funcin al tipo de hallazgo:
+
+1.
+
+Cuando se trata de bienes inmuebles prehispánicos de la categoría C, segn lo establecido en el artículo V del presente Reglamento, el director y/o el residente procede a su registro, recoleccin y/o inventario bajo su responsabilidad. Durante las inspecciones oculares, el director y/o residente da cuenta de las evidencias halladas, presentando el registro de excavacin de las mismas.
+
+2.
+
+Cuando se trata de bienes inmuebles prehispánicos de la categoría B, segn lo establecido en el artículo V del presente Reglamento, el director y/o el residente procede a su registro, excavaci para delimitar la extensi del hallazgo, y de corresponder, selizaci física. En caso de considerar un rescate, se debe excavar para
+
+determinar el potencial arqueológico."
+
+"Artículo 34. Requisitos
+
+La solicitud de expedicin del CIRAS debe presentarse en la plataforma de los servicios en línea del Ministerio de Cultura, o por mesa de partes en versin impresa y digital (CD o DVD), debiendo adjuntar los siguientes requisitos:
+
+1. Solicitud presentada mediante formulario o documento que contenga la misma informacin, en el que se detalla lo siguiente:
+
+(...)
+
+b) Nmero de partida registral, o nmero de resolucin que otorga la adjudicacin o concesin, o cdigo nico de inversiones (o cdigo SNIP) que acredite la titularidad de la viabilidad del proyecto de inversin, o se debe acreditar la condici de propietario o poseedor, en forma documental, presentando copia simple de la escritura pblica, o minuta, o contrato de compraventa o cualquier otro documento que acredite el legítimo interés.
+
+(...)"
+
+#### Artículo 4. Modificaci de la denominaci de los Capítulos I y II del Título II del Reglamento de Intervenciones Arqueolicas, aprobado por Decreto Supremo Nº 011-2022-MC
+
+Modificar la denominacin de los Capítulos I y II del Título II del Reglamento de Intervenciones Arqueolgicas, aprobado por Decreto Supremo Nº 011-2022-MC, por los siguientes títulos:
+
+"CAPÍTULO I
+
+CERTIFICADO DE INEXISTENCIA DE RESTOS ARQUEOLÓGICOS EN SUPERFICIE -CIRAS"
+
+(...)
+
+#### Artículo 35. DE LA CALIFICACIÓN
+
+(....)
+
+CAPÍTULO II DIAGNÓSTICO ARQUEOLÓGICO DE SUPERFICIE (DAS)"
+
+#### Artículo 5. Incorporaci de los artículos 29-A, 35-A, 35-B, 35-C, 35-D, 35-E, 35-F y los Anexos I y II al Reglamento de Intervenciones Arqueolicas, aprobado por Decreto Supremo Nº 011-2022-MC
+
+Incorporar los artículos 35-A, 35-B, 35-C, 35-D, 35-E, 35-F y los Anexos I y II al Reglamento de Intervenciones Arqueolgicas, aprobado por Decreto Supremo Nº 011­2022-MC, en los siguientes términos:
+
+"CAPÍTULO II DIAGNÓSTICO ARQUEOLÓGICO DE SUPERFICIE (DAS)
+
+#### Artículo 35. A. Definici
+
+El DAS es el documento privado que contiene el análisis arqueolgico integral de un área geográfica determinada, realizado con el objeto de acreditar si en dicha área se presentan o no evidencias arqueolgicas en superficie."
+
+"Artículo 35-B. Aspectos generales
+
+**35.1** El DAS es elaborado por un arquelogo colegiado y habilitado, previa visita de prospeccin realizada en el área de estudio.
+
+**35.2** La elaboracin del DAS debe realizarse conforme al contenido detallado en el Anexo I del presente Reglamento.
+
+**35.3** No se establecen límites para la extensin del área sobre el cual se ejecuta el DAS. La extensin del área es definida por las características del proyecto para el cual dicho diagnstico es requerido.
+
+"Artículo 35-C. Sobre la comunicaci de inicio y las visitas
+
+**35.1** Los administrados deben comunicar al Ministerio de Cultura el inicio del DAS, con una anticipacin no menor de tres (3) días hábiles previos a realizar la prospeccin en el área de estudio a cargo del arquelogo contratado para estos efectos.
+
+**35.2** Dicha comunicacin se realiza conforme al contenido detallado en el Anexo II del presente Reglamento y mediante la "Plataforma Digital Especializada (PDE) para el registro del Diagnstico Arqueolgico de Superficie" o la mesa de partes física o virtual del Ministerio de Cultura.
+
+**35.3** Para la ejecucin del DAS no se requiere de una autorizacin previa por parte del Ministerio de Cultura.
+
+**35.4** Durante la elaboracin del DAS, el Ministerio de Cultura queda facultado a coordinar el desarrollo de visitas y la emisin de recomendaciones orientadas a garantizar la proteccin del patrimonio cultural."
+
+"Artículo 35-D. Efectos
+
+**35.1** Los efectos del DAS son los sealados en el numeral 4.2 del Decreto Legislativo N° 1680.
+
+**35.3** El DAS surte efectos, previo registro del informe de resultados, por parte del
+
+administrado en la "Plataforma digital especializada para el registro del Diagnóstico Arqueológico de Superficie", o en la mesa de partes física o
+
+virtual del Ministerio de Cultura. Dicho registro se realiza en un plazo máximo de cinco (5) días hábiles contado desde su emisin, de acuerdo con lo establecido en el Anexo I del presente reglamento. En caso no se realice el registro en dicho plazo, el diagnstico no surte efectos para su uso en los trámites o procedimientos administrativos.
+
+**35.4** A partir de la informacin que se presenta en el DAS, el Ministerio de Cultura actualiza el Sistema de Informacin Geográfica de Arqueología – SIGDA, cuando corresponda, en los casos en los que se registren bienes inmuebles prehispánicos que al inicio del diagnstico no se encontraban registrados en el SIGDA."
+
+"Artículo 35-E. Indicios de informaci falsa Si el marco de los procedimientos de intervencin arqueolgica donde se presente un DAS, se detectan indicios de falsedad en dicho documento, el área competente que está tramitando dicho procedimiento administrativo debe comunicar dicha situacin a la Direccin General de Defensa del Patrimonio Cultural para que efecte las acciones que correspondan.
+
+Los actos administrativos que hayan emitido teniendo como sustento un DAS que contenga informacin falsa deben ser declarados nulos conforme al artículo 213 del Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General.
+
+"Artículo 35-F. Direcci de las intervenciones arqueolicas
+
+Las intervenciones arqueolgicas que provengan de un DAS no necesariamente deben ser dirigidas por el mismo arquelogo que elaboro el DAS."
+
+"ANEXO I CONTENIDO DEL INFORME DE RESULTADOS DEL DIAGNÓSTICO ARQUEOLÓGICO DE SUPERFICIE (DAS)
+
+El resultado del Diagnstico Arqueolgico de Superficie se presenta al Ministerio de Cultura mediante un informe de resultados, a través de la PDE o a través de la mesa de partes física o virtual del Ministerio de Cultura en versin impresa y digital en formato PDF (CD o USB), el cual debe contener la siguiente informacin:
+
+1. Informaci general:
+
+
+
+El número de expediente obtenido de la comunicación de inicio de la ejecución del DAS.
+
+
+
+Descripción de los antecedentes arqueológicos catastrales del área requerida para el diagnóstico, el cual debe acreditarse con la constancia de Búsqueda de Antecedentes Catastrales Arqueológicos emitida por la Dirección de Catastro y Saneamiento Físico Legal del Ministerio de Cultura, así como revisión del Sistema de Información Geográfica de Arqueología – SIGDA, registros o inventarios de sitios arqueológicos del área de estudio y bibliografía especializada, entre otros.
+
+
+
+Descripción del área donde se realizó la prospección arqueológica, como parte del diagnóstico requerido, precisando las áreas que contienen o no restos arqueológicos. El registro debe contener, además, fotografías en las cuales se indique la fecha en la cual fue tomada la vista, y las coordenadas de ubicación.
+
+
+
+Información en formato nativo producido por los equipos que se utilicen en la recolección de datos cartográficos de campo, pudiendo ser, estos equipos, Navegadores GNSS, receptores GNSS Diferencial u otro equipamiento que garantice la correcta georreferenciación combinados o de modo autónomo. Toda data geoespacial proporcionada debe estar referida al sistema de referencia espacial WGS 84 con sistema de coordenadas UTM en su respectiva Zona UTM.
+
+
+
+Para los equipos Navegadores GNSS, los archivos son presentados en formatos GPX, GDB o LOC; que contenga la información original y completa de Track (TRK), Waypoint (WPT), o su equivalente en otras tecnologías, esta información debe corresponder a datos cartográficos de las zonas prospectadas que se correlacionen con el contenido del o los planos perimétricos presentados al momento de la comunicación de inicio del diagnóstico.
+
+
+
+Para los equipos receptores GNSS diferenciales, los archivos y/o la información recopilada se presentan en las extensiones Job, CSV, TXT, T01, T02 o RINEX, tanto del rover como de la base. Adjuntar la copia simple de la ficha de la estación de rastreo permanente del IGN utilizada.
+
+
+
+Para los equipos LiDAR (de ser el caso), los archivos y/o la información recopilada se presenta en la extensión LAS o LAZ. Adjuntar la copia simple de la ficha de la estación de rastreo permanente del IGN utilizada.
+
+
+
+Ortofotos aéreas de la zona requerida para el DAS, esta debe cubrir el ámbito descrito en el plano perimétrico presentado al momento de la comunicación de inicio del diagnóstico; estas ortofotos deben estar debidamente georreferenciada y presentarse en formato TIF o PNG con metadatos que permitan la georreferenciación, su resolución espacial debe estar entre 50 cm/pixel y 25 cm/Pixel, asimismo, debe presentarse ortofoto de mapas en formatos PDF, en el que debe describirse e indicarse los ámbitos libres de restos arqueológicos en superficie y/o los bienes inmuebles prehispánicos (BIP) identificados al interior de la zona efectiva del proyecto.
+
+
+
+Los planos que se elaboren con los resultados del Diagnóstico Arqueológico de Superficie deben ser presentados en formato vectorial .dwg o SHP (con el proyecto de mapa del software gis usado, ARCGIS o QGIS) en ambos casos, deben estar georreferenciados sobre la base del sistema de referencia espacial WGS84 y en el sistema de coordenadas UTM, detallando la zona UTM correspondiente y el o los cuadros de datos técnicos que describan a los ámbitos encontrados, suscritos por el arqueólogo responsable del DAS e ingeniero competente.
+
+2. Informaci segn resultados obtenidos:
+
+2.1. Diagntico Arqueolico de Superficie con evidencia arqueolica en superficie.
+
+-En caso el Diagnóstico Arqueológico de Superficie registre restos arqueológicos en superficie, el informe de resultados debe contener, además, la siguiente información:
+
+
+
+Evaluación de los impactos de la obra para la cual fue requerido el diagnóstico sobre los bienes inmuebles prehispánicos registrados y las medidas de mitigación.
+
+
+
+Metodología aplicada en la prospección del terreno requerido.
+
+
+
+Presentación del registro arqueológico completo que incluye: Fichas de campo, planos con la ubicación de los bienes inmuebles prehispánicos registrados, fotografías y ortofotos con una resolución de 25cm/pixel como mínimo.
+
+
+
+Cada folio del Diagnóstico Arqueológico de Superficie debe contar con la firma y sello del arqueólogo responsable de su elaboración. También se podrá hacer uso de la firma digital, tanto para la presentación del Informe de Resultados por la mesa de partes física o virtual, así como por la PDE.
+
+2.2. Diagntico Arqueolico de Superficie sin evidencia arqueolica en superficie.
+
+-En caso el Diagnóstico Arqueológico de Superficie no registre restos arqueológicos en superficie, el informe de resultados debe contener, además, la siguiente información:
+
+
+
+Metodología aplicada en la prospección del terreno requerido.
+
+
+
+Presentación del registro de prospección completo que incluye: Fichas de campo, planos con la ubicación del terreno requerido, fotografías y ortofotos con una resolución de 50cm/pixel como mínimo.
+
+
+
+Cada folio del Diagnóstico Arqueológico de Superficie debe contar con la firma y sello del arqueólogo responsable de su elaboración. También se podrá hacer uso de la firma digital, tanto para la presentación del Informe de Resultados por la mesa de partes física o virtual, así como por la PDE."
+
+"ANEXO II CONTENIDO DE LA COMUNICACIÓN DE INICIO DE LA EJECUCIÓN DEL DIAGNÓSTICO ARQUEOLÓGICO DE SUPERFICIE (DAS)
+
+La comunicación para el inicio de la ejecución del Diagnóstico Arqueológico de Superficie debe contener:
+
+1. De la persona natural o jurídica que solicita el Diagnóstico Arqueológico de Superficie:
+
+
+
+Nombres y apellidos completos o razón social de la empresa.
+
+
+
+Domicilio legal
+
+
+
+Número de Documento nacional de identidad – DNI, Carné de Extranjería o Registro Único de Contribuyente – RUC, según corresponda.
+
+
+
+En caso de persona jurídica, además, considerar datos del representante legal y número de partida registral.
+
+2. Del arqueólogo responsable de ejecutar el Diagnóstico Arqueológico de Superficie:
+
+
+
+Nombres y apellidos del arqueólogo responsable de ejecutar el Diagnóstico Arqueológico de Superficie.
+
+
+
+Documento Nacional de Identidad – DNI o Carné de Extranjería.
+
+
+
+Número de colegiatura del Colegio Profesional de Arqueólogos del Perú.
+
+
+
+Adjuntar Constancia de habilitación del Colegio de Arqueólogos del Perú (formato PDF).
+
+
+
+Correo electrónico.
+
+
+
+La información personal del arqueólogo contratado para el ejecutar el Diagnóstico Arqueológico de Superficie deberá contener, además, la firma digital o física del profesional a cargo.
+
+3. Del proyecto para el que es requerido el Diagnóstico Arqueológico de Superficie:
+
+
+
+Ubicación: Departamento, provincia, distrito, según corresponda.
+
+
+
+Nombre del proyecto.
+
+
+
+Plano perimétrico georreferenciado en formato vectorial .dwg o SHP y Datum WGS84, en su respectiva zona geográfica, del ámbito del Diagnóstico Arqueológico de Superficie, el cual se debe adjuntar en la PDE, o en la mesa de partes física o virtual del Ministerio de Cultura en versión impresa y digital (CD o USB), suscritos por el arqueólogo responsable del DAS e ingeniero competente.
+
+
+
+Fecha(s) de visita de prospección."
+
+### DISPOSICIONES COMPLEMENTARIAS FINALES
+
+PRIMERA: Disposiciones reglamentarias
+
+Mediante Resolucin Viceministerial, se aprueban las directivas, guías, formatos y otros instrumentos requeridos para instrumentalizar los procedimientos de intervencin arqueolgica establecidos en el Reglamento de Intervenciones Arqueolgicas, aprobado por Decreto Supremo Nº 011-2022-MC.
+
+SEGUNDA: Categorizaci de bienes inmuebles prehispánicos
+
+Mediante Resolucin Ministerial, aprobada en un plazo máximo de treinta días hábiles, contado desde la publicacin de la presente norma, se aprueba la Directiva que establece las categorizaciones para la intervencin de los bienes del Patrimonio Cultural de la Nacin y dicta medidas de proteccin diferenciadas.
+
+TERCERA: Optimizaci de sistemas informáticos
+
+Se dispone que la Oficina General de Estadística y Tecnologías de la Informacin y Comunicaciones del Ministerio de Cultura, en un plazo máximo de sesenta días hábiles, gestione los recursos informáticos necesarios a efectos de que se pueda almacenar, custodiar o resguardar la informacin digital que se presente en el marco de los procedimientos de intervencin arqueolgica establecidos en el Reglamento de Intervenciones Arqueolgicas, aprobado por Decreto Supremo Nº 011-2022-MC.
+

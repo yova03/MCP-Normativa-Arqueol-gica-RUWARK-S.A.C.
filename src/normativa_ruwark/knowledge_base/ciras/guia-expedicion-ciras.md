@@ -1,0 +1,1547 @@
+# Guía para la Expedición del Certificado de Inexistencia de Restos Arqueológicos en Superficie (CIRAS)
+
+> **Tipo:** Guía Administrativa
+> **Número:** R.M. N° 000439-2024-MC (Anexo)
+> **Fecha de publicación:** 2024
+> **Estado:** Vigente
+
+---
+
+Guía para la Expedici del Certificado de Inexistencia de Restos Arqueológicos en Superficie (CIRAS)
+
+1. OBJETIVO
+
+Establecer las pautas que deben seguir los administrados (personas naturales o jurídicas) para elaborar y presentar el expediente técnico a fin de solicitar la expedición del Certificado de Inexistencia de Restos Arqueológicos en Superficie
+
+– CIRAS. Así como establecer criterios técnicos que debe observar el personal del Ministerio de Cultura durante la evaluación de la documentación presentada, a fin de uniformizar la evaluación de solicitudes y brindar predictibilidad durante el proceso de calificacin de una solicitud de expedición del CIRAS.
+
+2. ALCANCE
+
+La presente guía es de aplicación obligatoria para las personas naturales y/o jurídicas que soliciten la expedición de un CIRAS ante el Ministerio de Cultura. Así como para el personal de la Dirección de Certificaciones de la Dirección General de Patrimonio Arqueológico Inmueble de la sede central y en el que haga sus veces en las Direcciones Desconcentradas de Cultura que tienen a su cargo la expedición del CIRAS.
+
+3. BASE LEGAL
+
+3.1. Ley n.° 28296, Ley General del Patrimonio Cultural de la Nación.
+
+3.2. Ley n.° 29565, Ley de Creación del Ministerio de Cultura.
+
+3.3. Decreto Supremo n.° 011-2016-ED, que aprueba el Reglamento de la Ley n.° 28296.
+
+3.4. Decreto Supremo n.° 004-2019-JUS, que aprueba el Texto Único Ordenado de la Ley n.° 27444, Ley del Procedimiento Administrativo General.
+
+3.5. Decreto Supremo n.° 011-2022-MC, que aprueba el Reglamento de Intervenciones Arqueológicas.
+
+Las referidas normas incluyen sus respectivas disposiciones modificatorias, de ser el caso.
+
+4. RESPONSABILIDAD
+
+4.1. La Dirección General de Patrimonio Arqueológico Inmueble, a través de la Dirección de Certificaciones; así como, las áreas técnicas que hagan sus veces en las Direcciones Desconcentradas de Cultura que tienen a su cargo la expedición del CIRAS son responsables de la aplicación de la presente guía.
+
+4.2. Las personas naturales y/o jurídicas (en adelante, administrado) son responsables de tomar en consideraci las disposiciones de la presente guía cuando soliciten la expedición de un CIRAS ante el Ministerio de Cultura.
+
+DIRECCIÓN DE CERTIFICACIONES
+
+5. CRITERIOS PARA APLICAR POR EL PERSONAL TÉCNICO
+
+5.1. Durante la evaluación de la solicitud de un CIRAS, los criterios a aplicar por parte del personal de la Dirección de Certificaciones y de las Direcciones Desconcentradas de Cultura corresponden a las pautas que se han considerado para los administrados, de acuerdo a lo establecido en la presente guía, por lo que solo se puede solicitar a estos últimos que incluyan las especificaciones técnicas en el plano perimétrico del área a certificar o en la memoria descriptiva del terreno, indicadas en el presente documento.
+
+5.2. Debe tomarse en consideraci que solo puede exigirse al administrado los requisitos previstos en el TUPA.
+
+5.3. Asimismo, sin perjuicio de las observaciones a la documentación presentada que pudieran haber sido efectuadas por la unidad de recepción documentaria, conforme a lo establecido en el artículo 136 del Texto Único Ordenado de la Ley n.° 27444, Ley del Procedimiento Administrativo General, se debe realizar una revisión integral del cumplimiento de todos los requisitos de la solicitud de expedición del CIRAS y en una sola oportunidad y en un solo documento formular todas las observaciones y los requerimientos que correspondan para la subsanación documental correspondiente, de conformidad con lo dispuesto en el artículo 137 de la citada norma.
+
+5.4. Como parte de la revisión integral, participan los siguientes especialistas de la Dirección de Certificaciones o de las Áreas Técnicas que hagan sus veces en las Direcciones Desconcentradas de Cultura según correspondan:
+
+
+
+El especialista legal: encargado de la revisión legal de los requisitos del numeral 1 del artículo 34 del Reglamento de Intervenciones Arqueológicas.
+
+
+
+El especialista en ingeniería: encargado de la revisión de ingeniería de los requisitos del numeral 2 y 3 del artículo 34 del Reglamento de Intervenciones Arqueológicas, así como de realizar la superposición a Bienes Inmuebles Prehispánicos.
+
+
+
+El arqueólogo calificador: encargado de analizar la pertinencia de los informes y reportes previos, así como de evaluar la documentación e información de la solicitud.
+
+5.5.
+
+Así también, en aplicación del numeral 3 del artículo 35 del Reglamento de Intervenciones Arqueológicas (RIA) si las observaciones persisten, se mantiene la facultad de la administraci de requerir única y exclusivamente, la subsanación de las observaciones realizadas, sin posibilidad de agregar nuevas, en un plazo adicional de diez días hábiles, bajo apercibimiento de denegar la expedición del CIRAS.
+
+6.
+
+PAUTAS POR CONSIDERAR POR PARTE DE LOS ADMINISTRADOS
+
+Para la presentación del expediente técnico correspondiente a la solicitud del CIRAS, el administrado tiene en cuenta que el artículo 34 del Reglamento de Intervenciones Arqueológicas (RIA) y el Texto Único de Procedimientos
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Administrativos (TUPA) del Ministerio de Cultura señalan como requisitos para la solicitud de expedición del CIRAS los siguientes:
+
+6.1. Solicitud
+
+La solicitud debe ser presentada en la plataforma de los servicios en línea del Ministerio de Cultura, o por mesa de partes, mediante el formulario aprobado o documento que contenga la misma información que el formulario.
+
+Los datos del administrado deben ser consignados en el formulario en letra legible; asimismo, debe llenarse cada uno de los recuadros presentes del referido documento.
+
+Se debe consignar la modalidad de notificación y la dirección de notificación
+
+o correo eléctrico, de corresponder, para cuyo efecto se sugiere que el administrado verifique la dirección a notificar con la finalidad de remitir de manera oportuna la documentación generada por las áreas competentes encargadas de la expedición del CIRAS, siendo de su exclusiva responsabilidad cualquier error suscitado en la redacción. En caso de que el administrado cambie de dirección en el trascurso del procedimiento, debe comunicar dicho acto oportunamente.
+
+Así también se debe indicar un número telefico de contacto y persona a contactar con el objeto de coordinar la inspección ocular. En caso de corresponder a una central telefica se detalla, además, el nero de anexo.
+
+Finalmente, se debe indicar una breve descripción del pedido, número completo del comprobante de pago, fecha del comprobante de pago, monto pagado y número de resolución que aprueba el informe final del proyecto de intervención arqueológica (de ser el caso) y marcar la documentación que se adjunta.
+
+6.2. Memoria descriptiva del terreno (área a certificar)
+
+La información que debe contener la memoria descriptiva, a ser completada por el administrado, debe presentarse conforme al Formato n.° 6: Memoria descriptiva, según Anexo n.° 6.
+
+1. NOMBRE DEL PROYECTO: Debe corresponder a lo indicado en el plano perimétrico, según los formatos que correspondan:
+
+-Formato n.° 1: Plano perimétrico del área a certificar para áreas, según Anexo n.° 1. -Formato n.° 2: Plano perimétrico del área a certificar para longitudes, según Anexo n.° 2. -Formato n.° 3: Plano perimétrico del área a certificar para longitudes, según Anexo n.° 3. -Formato n.° 4: Plano perimétrico del área a certificar con exclusiones internas, según Anexo n.° 4.
+
+DIRECCIÓN DE CERTIFICACIONES
+
+2.
+
+UBICACIÓN POLÍTICA:
+
+2.1. Departamento:
+
+2.2. Provincia:
+
+2.3. Distrito:
+
+2.4. Dirección: Solamente en caso de que el proyecto de inversión se encuentre en el casco urbano.
+
+3.
+
+DESCRIPCIÓN DEL PROYECTO:
+
+3.1. Tipo de proyecto: (Indicar según corresponda).
+
+3.1.1. Para proyectos de inversión pública: Indicar según corresponda.
+
+Nivel de gobierno
+
+Nacional  Regional  Local
+
+3.1.2. Para proyectos de inversión pública: Indicar según corresponda.
+
+CUI o Código SNIP:______________________________
+
+3.2. Antecedentes:
+
+Indicar antecedentes del proyecto de inversión: actividades realizadas previamente en el ámbito de intervención.
+
+3.3. Tipo de obra:
+
+Por ejemplo: agrícola, antena/estaci base celular/macrocelda, campamento minero, canal de riego, cantera, carretera, concesión minera, depósitos, forestación, gas, habilitación urbana, infraestructura turística, infraestructura vial, infraestructura de recreación urbana, línea transmisión eléctrica, plata de tratamiento de residuos sólidos, predio rural, reservorio, saneamiento (agua, desag, alcantarillado), sistema de irrigación, unidad básica de saneamiento, otros.
+
+4. DESCRIPCIÓN TÉCNICA DEL PROYECTO:
+
+4.1. Longitud y servidumbre:
+
+Llenar de corresponder. En este caso, los documentos técnicos deberán expresarse y representarse en unidades de medida de acuerdo con la naturaleza de la obra. Para proyectos que involucren líneas de transmisión, carreteras, tuberías de agua y desag, gasoductos, canales, muros perimétricos y obras
+
+DIRECCIÓN DE CERTIFICACIONES
+
+semejantes deberá expresarse longitudinalmente, para lo cual se utilizarán metros (m) o kilómetros (km) como unidades de medida, y se indicará su respectiva servidumbre. Se debe considerar el apartado 6.3.b. y formatos correspondientes a los Anexos n.° 2 y n.° 3 para su elaboración y registro en el sistema de gestión del CIRAS.
+
+4.2. Área y perímetro: (Llenar de corresponder. En este caso, los documentos técnicos deberán expresarse y representarse en unidades de medida de acuerdo con la naturaleza de la obra. Para el caso de predios, áreas de concesión minera, represas y otros, las áreas se expresarán en metros cuadrados (m²) o hectáreas (ha), con su perímetro correspondiente. Se considerará el apartado 6.3.b. y formato correspondiente al Anexo n.° 1 y n.° 4 para su elaboración y registro en el sistema de gestión del CIRAS).
+
+4.3. Especificaciones geodésicas:
+
+
+
+Sistema de coordenadas: Planas
+
+
+
+Sistema de proyección cartográfica: Universal Transversal Mercator -UTM
+
+
+
+Datum: World Geodetic System 1984, Datum WGS84
+
+
+
+Zona de proyección: marcar según corresponda.
+
+
+
+Cuadrícula UTM: marcar según corresponda.
+
+17S  18S  19S
+
+K  L  M
+
+4.4. Cuadro de datos técnicos: Usar las unidades de medida según corresponda. Se considerará el apartado 6.3.b. para su elaboración y los formatos correspondientes a los Anexos n.° 7, 8, 9, 10, 11 y 12 permitirán su elaboración y registro en el sistema de gestión del CIRAS.
+
+Cuadro de datos técnicos
+
+Vértice  Lado  Distancia  Coordenada Este(X)  Coordenada Norte(Y)
+
+J  J-K
+
+K  K-L
+
+L  L-M
+
+M  M-J
+
+Área  28458.70 m² (2.8458 ha)
+
+Perímetro  775.65 m
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Cuadro de datos técnicos
+
+Vértice  Lado  Distancia  Coordenada Este(X)  Coordenada Norte(Y)
+
+J  J-K
+
+K  K-L
+
+L  L-M
+
+M  - -
+
+Longitud  1567 m (1.567 km)
+
+Servidumbre  10 m (5 metros a cada lado del eje)
+
+5. ACCESO:
+
+Indicar desde el área urbana más prima -capital de distrito, centro poblado-la ruta detallada a seguir para acceder hasta el área a certificar.
+
+6. COLINDANCIAS:
+
+Norte:
+
+Colindancia directa, las indicadas en el plano de intervención del proyecto.
+
+Sur:
+
+Colindancia directa, las indicadas en el plano de intervención del proyecto.
+
+Este:
+
+Colindancia directa, las indicadas en el plano de intervención del proyecto.
+
+Oeste:
+
+Colindancia directa, las indicadas en el plano de intervención del proyecto.
+
+7. PLANOS:
+
+Listado de los planos contenidos en el expediente: «Plano n.° X».
+
+6.3. Plano perimétrico del área a certificar
+
+a) De la información marginal
+
+El esquema de ubicación del ámbito de intervención debe ser presentado en escala y formato adecuados al área a representar; es decir, que permita su lectura ágilmente. Se debe añadir la representación gráfica del ámbito físico del proyecto y señalizarla con una flecha y/o llamada. Indicar escala gráfica y numérica, cuidando que ambas concuerden. Finalmente, se aade el norte de cuadrícula y grillado norte y este con sus respectivas etiquetas de coordenadas.
+
+La funci del esquema de localización es ubicar en el espacio el área a certificar y los accesos, a fin de localizar durante la inspección ocular el área materia de certificación, por lo que los datos ahí vertidos deben corresponder a la realidad. Por ello, se debe definir en él los accesos y la morfología del terreno. Se puede agregar una imagen de satélite de
+
+DIRECCIÓN DE CERTIFICACIONES
+
+fondo, de vías urbanas o la carta nacional y/o afines. En caso, el área del proyecto esté en área urbana, el esquema de localización debe tener un mapa base de calles o una imagen de satélite que muestre su ubicación con relaci al espacio primo.
+
+Las imágenes de satélite usadas para la elaboración del esquema de ubicación son referenciales, no corresponden a ortoimágenes, no se requiere una georreferenciación con equipos geodésicos o topográficos de campo, pudiendo existir un desplazamiento1 entre el área a certificar y el área mostrada en la imagen, por lo que la correcta localización del área a certificar se realizará en la inspección ocular del procedimiento.
+
+El tamaño de la letra y de los nmeros deben ser claros y legibles de modo que permita realizar una lectura óptima del plano.
+
+Ejemplo n.° 1: información mínima que debe contener el esquema de ubicación del plano georreferenciado del ámbito de intervención del proyecto
+
+1 Margen de error 10 metros.
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Diseño n.° 1: esquema de ubicacin con imagen de satélite de fondo
+
+Diseño n.° 2: esquema de ubicación con vías urbanas de fondo
+
+Diseño n.° 3: esquema de ubicacin básico
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Diseño n.° 4: esquema de ubicacin con carta nacional de fondo
+
+Diseño n.° 5: esquema de ubicacin con calles – área urbana
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Diseño n.° 6: esquema de ubicacin con imagen de satélite y calles – área urbana
+
+Membrete: Se debe indicar el nombre del proyecto, el cual debe ser el mismo al sealado en la memoria descriptiva. Indicar zona de proyección UTM, cuadrícula UTM, datum, sistema de proyección cartográfica, escala gráfica y numérica, ubicación política (departamento, provincia, distrito), fecha y número de plano.
+
+PROYECTO DE VIVIENDA LOS EUCALIPTOS IV
+
+Plano perimétrico del área a certificar
+
+Departamento: Lima  Provincia: Cate  Distrito: Asia
+
+Sistema de proyección cartográfica: UTM  Datum:   WGS84  Zona UTM: 18 Sur
+
+Cuadrícula: L  Plano: PP -01  Fecha:   Enero 2024
+
+Ejemplo n.° 2: información mínima que deberá contener el membrete
+
+El administrado puede distribuir y/o ubicar en el membrete los datos solicitados como estime conveniente e incluir otros de ser necesario; sin embargo, debe llenar todos los campos indicados en el membrete adjunto y presentes en los formatos correspondientes a los Anexos n.° 1, 2, 3, 4 y 5.
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Escala: Se debe indicar escala numérica y escala gráfica, las cuales deben concordar. Se debe escoger una escala idónea para representar las características físicas del terreno en el plano (papel y digital).
+
+Ejemplo n.° 3: escala numérica y escala gráfica
+
+Grillado: Se debe indicar el eje "x" e "y" correspondiente a las coordenadas UTM "Este" y "Norte" con su respectivo etiquetado. El grillado guarda coherencia con la escala grafica.
+
+Ejemplo n.° 4: presentación de grillado con etiquetado de coordenadas
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Leyenda: Informaci que explica el plano y que debe concordar con sus representaciones gráficas; es decir, es elaborada de manera que permita identificar los elementos geográficos representados.
+
+Ejemplo n.° 5: leyenda con descripción independiente para cada ítem
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Guía n.° 1: informacin marginal que debe contener el plano perimétrico del área a certificar
+
+b) Del cuadro de datos técnicos
+
+Para solicitudes que contengan información en área, tales como: predios, áreas de concesión minera, represas, reservorios, relaveras, antenas y otros cuya representación gráfica sea un polígono, la unidad de medida a utilizar para el llenado del área y perímetro será en metros cuadrados (m²) y/o hectáreas (ha), con el perímetro correspondiente expresado en metros (m); este último debe corresponder a la sumatoria de la distancia de los lados. Si se brinda información tanto en metros cuadros como en hectáreas, los valores decimales dados en hectáreas (ha) corresponden al valor entero a la izquierda del punto decimal indicado en metros cuadrados (m²), sin ser redondeado, en este caso la parte decimal debe contener 4 dígitos. Si solo se brinda informacin en hectáreas y esta contiene una parte decimal se coloca como mínimo cuatro decimales sin aplicar redondeos.
+
+El cuadro de datos técnicos debe contener: vértice, lado, distancia, coordenada Este (X), coordenada Norte (Y).
+
+Cuadro de datos técnicos
+
+Vértice  Lado  Distancia  Coordenada Este(X)  Coordenada Norte(Y)
+
+J  J-K
+
+K  K-L
+
+L  L-M
+
+M  M-J
+
+Área  10123.123 m² (1.0123 ha)
+
+Perímetro  303.70 m
+
+Ejemplo n.° 6: información mínima que deberá contener el cuadro de datos técnicos para áreas
+
+Ejemplos de valores decimales para áreas (m² y/o ha) y perímetros:
+
+m²  ha  Perímetro (m)
+
+**15926.30** 1.5926  1000.00
+
+**10123.125** 1.0123  501.25
+
+**28458.70** 2.8458  200.00
+
+**152562.81** 15.2562  18526.23
+
+**256.00** 0.0256  8562.00
+
+Para solicitudes que contengan información longitudinal, tales como líneas de electrificación, redes de agua potable y alcantarillado, fibra tica, gasoductos, veredas, carreteras, canales, muros y todo tipo de redes, la unidad de medida a utilizar para el llenado de la longitud y servidumbre es metros (m) y/o kilómetros (km), con la servidumbre
+
+DIRECCIÓN DE CERTIFICACIONES
+
+correspondiente expresada en metros (m). La extensión total debe corresponder a la sumatoria de las distancias.
+
+Si se brinda información tanto en metros como en kilómetros, los valores decimales dados en kilómetros (km) corresponden al valor entero a la izquierda del punto decimal indicado en metros (m), sin ser redondeado, en este caso la parte decimal debe contener 3 dígitos. Si solo se brinda información en kilómetros y esta contiene una parte decimal se indicar como mínimo 3 decimales sin aplicar redondeos.
+
+Si el proyecto contiene diferentes servidumbres debe elaborar tantos cuadros de datos técnicos como sean necesarios para representar gráficamente la variación de la servidumbre, con las indicaciones previstas en el presente documento.
+
+De ser el caso que la extensión del proyecto presente sinuosidades, el administrado debe añadir tantos vértices como sean necesarios, a fin de construir la curvatura con pequeos lados. En el plano debe observarse cada uno de los vértices, puede usarse vistas para ello (ver formato n.° 3).
+
+El cuadro de datos técnicos debe contener: vértice, lado, distancia, coordenada Este (X), coordenada Norte (Y).
+
+Cuadro de datos técnicos
+
+Vértice  Lado  Distancia  Coordenada Este(X)  Coordenada Norte(Y)
+
+J  J-K
+
+K  K-L
+
+L  L-M
+
+M  -
+
+Longitud  1563 m (1.563 km)
+
+Servidumbre  10.0 m (5 metros a cada lado del eje)
+
+Ejemplo n.° 7: información mínima que debe contener el cuadro de datos técnicos para longitudes
+
+Ejemplos de valores decimales para longitudes y servidumbres:
+
+m  km  Servidumbre
+
+**15926.30** 15.9263  11 m
+
+**8656.28** 8.6562  5 m
+
+**28458.70** 28.4587  10 m
+
+**152562.81** 152.5628  20 m
+
+**256.00** 0.256  2.5 m
+
+La georreferenciación se verifica con la información contenida en el cuadro de datos técnicos, grillado y escalas numérica y gráficas indicadas
+
+DIRECCIÓN DE CERTIFICACIONES
+
+en el plano; es decir, debe existir congruencia entre los datos del cuadro técnico y lo que se representa gráficamente (áreas, longitudes, distancias, perímetros y grillado). La escala numérica debe concordar con la escala gráfica. Asimismo, debe usarse un tamao de letra último, que permita la adecuada visualización de los datos consignados.
+
+Los datos indicados en el cuadro de datos técnicos del plano perimétrico deben ser los mismos que los indicados en la memoria descriptiva.
+
+Para la redacción de las áreas, perímetros, longitudes, servidumbres y coordenadas, el interesado está en la potestad de usar los decimales que estime conveniente; sin embargo, debe cuidar que la información presentada en el plano de intervención del proyecto sea concordante con la información indicada en la memoria descriptiva. No puede usarse indistintamente el punto o la coma decimales.
+
+La parte entera de las coordenadas UTM Este deben tener 6 dígitos, mientras que la parte entera de las coordenadas UTM norte deben tener 7 dígitos y los nmeros enteros no deben ir separados ni por espacios ni por comas ni por puntos. La parte decimal es separada por el punto decimal.
+
+COORDENADA  COORDENADA
+
+ESTE(X)  NORTE(Y)
+
+**406496.0097** 8653553.0244
+
+**406504.7620** 8653555.5286
+
+**406514.2845** 8653562.4555
+
+**406524.9805** 8653569.3664
+
+Ejemplo n.° 8: registro de coordenadas UTM
+
+Los formatos correspondientes a los Anexos n.° 7, 8, 9, 10, 11 y 12 permitirán su elaboracin y registro en el sistema de gestión del CIRAS.
+
+c) Del contenido principal
+
+Cada vértice debe estar representado y etiquetado con su valor correspondiente. Además, se coloca las colindancias inmediatas al predio (nombre de calles, avenidas, ríos, cerros, entre otros). Los datos indicados deben ser los mismos que los consignados en la memoria descriptiva. Cada uno de los vértices debe ser visualizado timamente; por tal, la escala a utilizar debe permitir una lectura adecuada del plano. En el plano debe observarse cada uno de los vértices, puede usarse vistas para ello (ver Anexo n.° 3: Formato n.° 3: Plano perimétrico del área a certificar para longitudes).
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Indicar escala gráfica y numérica, de manera que concuerden. La escala por utilizar debe permitir una lectura adecuada del plano.
+
+Añadir el norte de cuadrícula, grillado norte y este con sus respectivas etiquetas de coordenadas.
+
+El tamaño de letra y de nmeros debe permitir una lectura óptima del plano. El plano perimétrico del área a certificar debe ser elaborado a una escala adecuada que permita la correcta lectura del plano.
+
+En caso de que el plano perimétrico a elaborarse no pueda ser representado en una sola hoja, debe realizarse un mapa llave (Anexo n.°
+
+5: Formato n.° 5: Mapa llave) y cuantos planos perimétricos (según formatos contenidos en los Anexos n.° 1, 2, 3 y 4) sean necesarios, los cuales deben cumplir con todas las especificaciones técnicas dadas en la presente guía.
+
+Finalmente, debe contener la firma del profesional competente.
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Guía n.° 2: información que debe contener el plano perimétrico del área a certificar
+
+7. ANEXOS:
+
+Anexo n.° 1: Formato n.° 1: Plano perimétrico del área a certificar para áreas
+
+Anexo n.° 2: Formato n.° 2: Plano perimétrico del área a certificar para longitudes
+
+Anexo n.° 3: Formato n.° 3: Plano perimétrico del área a certificar para longitudes: redes
+
+(p. ej. alcantarillado)
+
+Anexo n.° 4: Formato n.° 4: Plano perimétrico del área a certificar con exclusiones internas
+
+Anexo n.° 5: Formato n.° 5: Mapa llave (se elabora cuando se cuentan con varios planos perimétricos que por la densidad de vértices no han podido ser representados en un solo plano
+
+Anexo n.° 6: Formato n.° 6: Memoria descriptiva
+
+Anexo n.° 7: Plantilla de cuadro de datos técnicos de áreas para elaboración de planos y llenado en el Sistema de Gestión del CIRAS
+
+Anexo n.° 8: Plantilla de cuadro de datos técnicos de longitudes para elaboración de planos y llenado en el Sistema de Gestión del CIRAS
+
+Anexo n.° 9: Plantilla de cuadro de datos técnicos para redes (p. ej. alcantarillado) para elaboración de planos y llenado en el Sistema de Gestión del CIRAS
+
+Anexo n.° 10: Plantilla de cuadro de datos técnicos de redes (p. ej. calles) para elaboración de planos y llenado en el Sistema de Gestión del CIRAS
+
+Anexo n.° 11: Plantilla de cuadro de datos técnicos de redes (p. ej. gasoducto) para elaboración de planos y llenado en el Sistema de Gestión del CIRAS
+
+Anexo n.° 12: Plantilla de cuadro de datos técnicos con exclusiones internas para elaboración de planos y llenado en el Sistema de Gestión del CIRAS
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Anexo n.° 1 -Formato n.° 1: Plano perimétrico del área a certificar para áreas
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Anexo n.° 3 -Formato n.° 3: Plano perimétrico del área a certificar para longitudes: redes (p. ej. alcantarillado)
+
+Anexo n.° 4 -Formato n.° 4: Plano perimétrico del área a certificar con exclusiones internas
+
+Anexo n.° 5: Formato n.° 5: Mapa llave (se elabora cuando se cuentan con varios planos perimétricos que por la densidad de vértices no han podido ser representados en un solo plano)
+
+Anexo n.° 6:
+
+Formato n.° 6: MEMORIA DESCRIPTIVA
+
+1.
+
+NOMBRE DEL PROYECTO:
+
+2.
+
+UBICACIÓN POLÍTICA:
+
+2.1. Departamento:
+
+2.2. Provincia:
+
+2.3. Distrito:
+
+2.4. Dirección:
+
+3.
+
+DESCRIPCIÓN DEL PROYECTO:
+
+3.1. Tipo de proyecto:
+
+3.1.1. Para proyectos de inversión pública: Nivel de gobierno
+
+3.1.2. Para proyectos de inversión pública: CUI o Código SNIP:___________________________________
+
+3.2. Antecedentes:
+
+3.3. Tipo de obra:
+
+4.
+
+DESCRIPCIÓN TÉCNICA DEL PROYECTO:
+
+4.1. Longitud y servidumbre:
+
+4.2. Área y perímetro:
+
+4.3. Especificaciones geodésicas:
+
+
+
+Sistema de coordenadas: Planas
+
+
+
+Sistema de proyección cartográfica: Universal Transversal Mercator -UTM
+
+
+
+Datum: World Geodetic System 1984, Datum WGS84
+
+
+
+Zona de proyección:
+
+
+
+Cuadrícula UTM:
+
+4.4. Cuadro de datos técnicos:
+
+5.
+
+ACCESO:
+
+6.
+
+COLINDANCIAS:
+
+Norte: Sur: Este: Oeste:
+
+7.
+
+PLANOS:
+
+Nacional  Regional  Local
+
+DIRECCIÓN DE CERTIFICACIONES DIRECCIÓN DE CERTIFICACIONES
+
+17S  18S  19S
+
+K  L  M
+
+Anexo n.° 7: Plantilla de cuadro de datos técnicos de áreas para elaboración de planos y llenado en el Sistema de Gestión del CIRAS
+
+Las imágenes de satélite usadas por el Sistema de Gestión del CIRA son referenciales, no corresponden a ortoimágenes, y son de uso libre, pudiendo existir un desplazamiento entre el área a certificar y el área mostrada en la imagen, por lo que la correcta localización del área a certificar se realiza en la inspección ocular del procedimiento. No obstante, ello no exime al administrado de verificar la correcta representación y ubicación del polígono o de la línea graficada. De otra parte, la información contenida en el presente cuadro es referencial, y se presenta para el correcto llenado, debiendo reemplazarla por los datos técnicos del área de certificación del interesado. En el Sistema de Gestin del CIRA se debe incluir zona de proyección.
+
+VÉRTICE  LADO  DISTANCIA  COORDENADA ESTE(X)  COORDENADA NORTE(Y)  ZONA DE PROYECCIÓN
+
+1  1-2  9.10  406496.0097  8653553.0244  18
+
+2  2-3  11.78  406504.7620  8653555.5286  18
+
+3  3-4  12.73  406514.2845  8653562.4555  18
+
+4  4-5  19.40  406524.9805  8653569.3664  18
+
+5  5-6  21.12  406544.3854  8653569.3688  18
+
+6  6-7  15.56  406565.0377  8653564.9434  18
+
+7  7-8  21.92  406580.1179  8653561.1288  18
+
+8  8-9  18.17  406595.6985  8653545.7078  18
+
+9  9-10  25.50  406608.8839  8653533.1994  18
+
+10  10-11  17.60  406621.5645  8653511.0718  18
+
+11  11-12  19.11  406628.0108  8653494.6912  18
+
+12  12-13  17.08  406622.6490  8653476.3528  18
+
+13  13-14  20.21  406615.9260  8653460.6467  18
+
+14  14-15  27.07  406596.7274  8653454.3461  18
+
+15  15-16  29.48  406569.8564  8653457.6372  18
+
+16  16-17  21.61  406549.0887  8653478.5639  18
+
+17  17-18  29.42  406534.9590  8653494.9139  18
+
+18  18-19  19.80  406506.4311  8653502.1028  18
+
+19  19-20  16.67  406490.2057  8653513.4528  18
+
+20  20-21  14.43  406485.8396  8653529.5437  18
+
+21  21-1  11.16  406491.3058  8653542.8994  18
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Anexo n.° 8: Plantilla de cuadro de datos técnicos de longitudes para elaboración de planos y llenado en el Sistema de Gestión del CIRAS
+
+Las imágenes de satélite usadas por el Sistema de Gestión del CIRA son referenciales, no corresponden a ortoimágenes, y son de uso libre, pudiendo existir un desplazamiento entre el área a certificar y el área mostrada en la imagen, por lo que la correcta localización del área a certificar se realiza en la inspección ocular del procedimiento. No obstante, ello no exime al administrado de verificar la correcta representación y ubicación del polígono o de la línea graficada. De otra parte, la información contenida en el presente cuadro es referencial, y se presenta para el correcto llenado, debiendo reemplazarla por los datos técnicos del área de certificación del interesado. En el Sistema de Gestin del CIRA se debe incluir zona de proyección.
+
+VÉRTICE  LADO  DISTANCIA  COORDENADA ESTE(X)  COORDENADA NORTE(Y)  ZONA DE PROYECCIÓN
+
+A  A-B  10  347273.3498  8673396.2062  18
+
+B  B-C  10  347268.1935  8673404.7743  18
+
+C  C-D  10  347263.0373  8673413.3425  18
+
+D  D-E  10  347257.8810  8673421.9106  18
+
+E  E-F  10  347252.7248  8673430.4788  18
+
+F  F-G  10  347247.9333  8673439.2561  18
+
+G  G-H  10  347245.8811  8673449.0433  18
+
+H  H-I  10  347247.1015  8673458.9685  18
+
+I  I-J  10  347249.4133  8673468.6976  18
+
+J  J-K  10  347251.7251  8673478.4267  18
+
+K  K-L  10  347254.0369  8673488.1558  18
+
+L  L-M  10  347256.3487  8673497.8850  18
+
+M  M-N  10  347258.6605  8673507.6141  18
+
+N  N-O  10  347260.9723  8673517.3432  18
+
+O  O-P  10  347263.2841  8673527.0723  18
+
+P  P-Q  10  347265.5959  8673536.8014  18
+
+Q  Q-R  10  347268.9832  8673546.2102  18
+
+R  R-S  10  347274.9049  8673554.2683  18
+
+S  S-T  10  347281.1661  8673562.0656  18
+
+T  T-U  10  347287.4273  8673569.8628  18
+
+U  U-V  10  347293.6886  8673577.6601  18
+
+V  V-W  10  347299.9498  8673585.4574  18
+
+W  W-X  10  347306.2110  8673593.2546  18
+
+X  X-Y  10  347312.4722  8673601.0519  18
+
+Y  Y-Z  10  347318.7334  8673608.8491  18
+
+Z  Z-A1  10  347324.9861  8673616.6532  18
+
+A1  A1-B1  10  347329.6227  8673625.5134  18
+
+B1  B1-C1  10  347332.4938  8673635.0923  18
+
+C1  C1-D1  10  347335.3564  8673644.6738  18
+
+D1  D1-E1  10  347338.2191  8673654.2553  18
+
+E1  E1-F1  10  347341.0817  8673663.8369  18
+
+F1  F1-G1  10  347343.9443  8673673.4184  18
+
+G1  G1-H1  10  347346.8069  8673682.9999  18
+
+H1  H1-I1  10  347349.6696  8673692.5814  18
+
+DIRECCIÓN DE CERTIFICACIONES DIRECCIÓN DE CERTIFICACIONES DIRECCIÓN DE CERTIFICACIONES DIRECCIÓN DE CERTIFICACIONES DIRECCIÓN DE CERTIFICACIONES
+
+I1  I1-J1  10  347352.5322  8673702.1629  18
+
+J1  J1-K1  10  347355.3948  8673711.7444  18
+
+K1  K1-L1  10  347358.2574  8673721.3259  18
+
+L1  L1-M1  10  347361.1201  8673730.9074  18
+
+M1  M1-N1  10  347363.9827  8673740.4890  18
+
+N1  N1-O1  10  347366.8453  8673750.0705  18
+
+O1  O1-P1  10  347370.7057  8673759.2953  18
+
+P1  P1-Q1  10  347376.6882  8673767.3084  18
+
+Q1  Q1-R1  10  347382.7886  8673775.2321  18
+
+R1  R1-S1  10  347388.8890  8673783.1558  18
+
+S1  S1-T1  10  347394.9895  8673791.0795  18
+
+T1  T1-U1  10  347401.0899  8673799.0031  18
+
+U1  U1-V1  10  347407.1904  8673806.9268  18
+
+V1  V1-W1  10  347413.2908  8673814.8505  18
+
+W1  W1-X1  10  347419.3913  8673822.7741  18
+
+X1  X1-Y1  10  347425.4917  8673830.6978  18
+
+Y1  Y1-Z1  10  347431.5921  8673838.6215  18
+
+Z1  Z1-A2  10  347437.6926  8673846.5452  18
+
+A2  A2-B2  10  347443.7930  8673854.4688  18
+
+B2  B2-C2  10  347449.8935  8673862.3925  18
+
+C2  C2-D2  10  347455.9939  8673870.3162  18
+
+D2  D2-E2  10  347462.0944  8673878.2399  18
+
+E2  E2-F2  10  347468.1948  8673886.1635  18
+
+F2  F2-G2  10  347473.0487  8673894.9065  18
+
+G2  G2-H2  10  347474.1273  8673904.8482  18
+
+H2  H2-I2  10  347471.2232  8673914.4172  18
+
+I2  I2-J2  10  347465.0492  8673922.2837  18
+
+J2  J2-K2  10  347458.3150  8673929.6763  18
+
+K2  K2-L2  10  347451.5807  8673937.0688  18
+
+L2  L2-M2  10  347444.8465  8673944.4614  18
+
+M2  M2-N2  10  347438.1122  8673951.8539  18
+
+N2  N2-O2  10  347431.3780  8673959.2465  18
+
+O2  O2-P2  10  347425.6398  8673967.4363  18
+
+P2  P2-Q2  10  347423.4874  8673977.2019  18
+
+Q2  Q2-R2  10  347425.3345  8673987.0299  18
+
+R2  R2-S2  10  347430.8855  8673995.3477  18
+
+S2  S2-T2  10  347439.2524  8674000.8245  18
+
+T2  T2-U2  9.78  347449.0964  8674002.5840  18
+
+U2  U2-V2  10  347458.6332  8674000.4389  18
+
+V2  V2-W2  10  347467.7721  8673996.3793  18
+
+W2  W2-X2  10  347476.9111  8673992.3198  18
+
+X2  X2-Y2  10  347486.0722  8673988.3107  18
+
+Y2  Y2-Z2  10  347495.8923  8673986.4224  18
+
+Z2  Z2-A3  10  347505.7875  8673987.8666  18
+
+A3  A3-B3  10  347514.6583  8673992.4828  18
+
+B3  B3-C3  10  347522.6478  8673998.4967  18
+
+C3  C3-D3  10  347530.6374  8674004.5106  18
+
+D3  D3-E3  10  347538.6269  8674010.5245  18
+
+E3  E3-F3  10  347546.4518  8674016.7512  18
+
+F3  F3-G3  10  347553.6649  8674023.6773  18
+
+G3  G3-H3  10  347560.1808  8674031.2631  18
+
+H3  H3-I3  10  347565.9395  8674039.4384  18
+
+I3  I3-J3  10  347570.8881  8674048.1282  18
+
+J3  J3-K3  10  347574.9808  8674057.2523  18
+
+K3  K3-L3  10  347578.1814  8674066.7263  18
+
+L3  L3-M3  10  347580.9705  8674076.3295  18
+
+M3  M3-N3  10  347583.7595  8674085.9327  18
+
+N3  N3-O3  10  347586.5486  8674095.5358  18
+
+O3  O3-P3  10  347589.3377  8674105.1390  18
+
+P3  P3-Q3  10  347592.1268  8674114.7422  18
+
+Q3  Q3-R3  10  347594.9159  8674124.3454  18
+
+R3  R3-S3  10  347597.7050  8674133.9485  18
+
+S3  S3-T3  10  347600.4941  8674143.5517  18
+
+T3  T3-U3  10  347603.2832  8674153.1549  18
+
+U3  U3-V3  10  347606.0723  8674162.7581  18
+
+V3  V3-W3  10  347608.8614  8674172.3612  18
+
+W3  W3-X3  10  347611.4653  8674182.0163  18
+
+X3  X3-Y3  10  347613.4742  8674191.8124  18
+
+Y3  Y3-Z3  10  347614.8661  8674201.7150  18
+
+Z3  Z3-A4  10  347615.6355  8674211.6854  18
+
+A4  A4-B4  10  347615.7999  8674221.6841  18
+
+B4  B4-C4  10  347615.7999  8674231.6841  18
+
+C4  C4-D4  10  347615.7820  8674241.6840  18
+
+D4  D4-E4  10  347615.7730  8674251.6840  18
+
+E4  E4-F4  10  347615.9268  8674261.6829  18
+
+F4  F4-G4  10  347620.9029  8674270.3569  18
+
+G4  G4-H4  10  347630.4169  8674273.4363  18
+
+H4  H4-I4  10  347639.5318  8674269.3230  18
+
+I4  I4-J4  10  347644.2027  8674260.4809  18
+
+J4  J4-K4  10  347647.8517  8674251.1704  18
+
+K4  K4-L4  10  347651.5008  8674241.8600  18
+
+L4  L4-M4  10  347655.0335  8674232.5048  18
+
+M4  M4-N4  10  347656.1857  8674222.5714  18
+
+N4  N4-O4  10  347655.8564  8674212.5768  18
+
+O4  O4-P4  10  347655.5271  8674202.5822  18
+
+P4  P4-Q4  10  347655.1978  8674192.5876  18
+
+Q4  Q4-R4  10  347654.8685  8674182.5931  18
+
+R4  R4-S4  10  347654.5392  8674172.5985  18
+
+S4  S4-T4  10  347654.2099  8674162.6039  18
+
+T4  T4-U4  10  347653.8806  8674152.6093  18
+
+U4  U4-V4  10  347653.5513  8674142.6148  18
+
+V4  V4-W4  10  347653.2220  8674132.6202  18
+
+W4  W4-X4  10  347656.0538  8674123.0295  18
+
+X4  X4-Y4  10  347665.6688  8674120.2813  18
+
+Y4  Y4-Z4  10  347674.8473  8674124.2505  18
+
+Z4  Z4-A5  10  347683.4780  8674129.3013  18
+
+A5  A5-B5  10  347689.0460  8674137.6078  18
+
+B5  B5-C5  10  347690.1526  8674147.5463  18
+
+C5  C5-D5  10  347687.4840  8674157.1837  18
+
+D5  D5-E5  10  347684.5158  8674166.7330  18
+
+E5  E5-F5  10  347681.5476  8674176.2823  18
+
+F5  F5-G5  10  347678.9158  8674185.9298  18
+
+G5  G5-H5  10  347678.4631  8674195.9196  18
+
+H5  H5-I5  10  347679.7770  8674205.8329  18
+
+I5  I5-J5  10  347680.5695  8674215.8014  18
+
+J5  J5-K5  10  347678.3073  8674225.5422  18
+
+K5  K5-L5  10  347673.0584  8674234.0539  18
+
+L5  L5-M5  10  347667.0308  8674242.0331  18
+
+M5  M5-N5  10  347664.0990  8674251.5937  18
+
+N5  N5-O5  10  347673.4733  8674255.0756  18
+
+O5  O5-P5  10  347681.4082  8674248.9898  18
+
+P5  P5-Q5  9.88  347689.2518  8674242.7868  18
+
+Q5  Q5-R5  10  347695.4542  8674235.0908  18
+
+R5  R5-S5  10  347699.2340  8674225.8327  18
+
+S5  S5-T5  10  347703.0137  8674216.5745  18
+
+T5  T5-U5  10  347706.7934  8674207.3163  18
+
+U5  U5-V5  10  347710.5732  8674198.0582  18
+
+V5  V5-W5  10  347714.1212  8674188.7088  18
+
+W5  W5-X5  10  347715.0322  8674178.7504  18
+
+X5  X5-Y5  10  347714.0995  8674168.7939  18
+
+Y5  Y5-Z5  10  347713.1621  8674158.8380  18
+
+Z5  Z5-A6  10  347712.2247  8674148.8820  18
+
+A6  A6-B6  10  347711.2873  8674138.9260  18
+
+B6  B6-C6  10  347710.5995  8674128.9497  18
+
+C6  C6-D6  10  347712.0446  8674119.0547  18
+
+D6  D6-E6  10  347713.7722  8674109.2051  18
+
+E6  E6-F6  10  347715.4999  8674099.3554  18
+
+F6  F6-G6  10  347717.2275  8674089.5058  18
+
+G6  G6-H6  10  347718.9552  8674079.6562  18
+
+H6  H6-I6  10  347720.8833  8674069.8438  18
+
+I6  I6-J6  10  347722.9473  8674060.0591  18
+
+J6  J6-K6  10  347725.0113  8674050.2745  18
+
+K6  K6-L6  10  347727.0753  8674040.4898  18
+
+L6  L6-M6  10  347729.1436  8674030.7060  18
+
+M6  M6-N6  10  347733.8498  8674021.8827  18
+
+N6  N6-O6  10  347742.3281  8674016.5799  18
+
+O6  O6-P6  10  347752.3213  8674016.2096  18
+
+P6  P6-Q6  10  347761.1688  8674020.8702  18
+
+Q6  Q6-R6  10  347766.5152  8674029.3210  18
+
+R6  R6-S6  10  347767.5354  8674039.2688  18
+
+S6  S6-T6  10  347765.3161  8674049.0194  18
+
+T6  T6-U6  10  347760.0153  8674057.4989  18
+
+U6  U6-V6  10  347752.8569  8674064.4815  18
+
+V6  V6-W6  10  347746.4655  8674072.1724  18
+
+W6  W6-X6  10  347742.8067  8674081.4790  18
+
+X6  X6-Y6  10  347740.0275  8674091.0850  18
+
+Y6  Y6-Z6  10  347737.2482  8674100.6911  18
+
+Z6  Z6-A7  10  347734.4140  8674110.2810  18
+
+A7  A7-B7  10  347731.4377  8674119.8279  18
+
+B7  B7-C7  10  347728.5794  8674129.4106  18
+
+C7  C7-D7  10  347727.8689  8674139.3854  18
+
+D7  D7-E7  10  347732.4357  8674148.2817  18
+
+E7  E7-F7  10  347742.3953  8674149.1798  18
+
+F7  F7-G7  10  347748.7466  8674141.4558  18
+
+G7  G7-H7  10  347752.6747  8674132.2596  18
+
+H7  H7-I7  10  347755.8653  8674122.7823  18
+
+I7  I7-J7  10  347758.5522  8674113.1500  18
+
+J7  J7-K7  10  347761.2377  8674103.5174  18
+
+K7  K7-L7  10  347763.8984  8674093.8778  18
+
+L7  L7-M7  10  347766.5592  8674084.2383  18
+
+M7  M7-N7  10  347769.2199  8674074.5988  18
+
+N7  N7-O7  10  347771.3231  8674064.8224  18
+
+O7  O7-P7  10  347773.0857  8674054.9790  18
+
+P7  P7-Q7  10  347775.6050  8674045.3015  18
+
+Q7  Q7-R7  10  347778.8523  8674035.8435  18
+
+R7  R7-S7  10  347782.8690  8674026.6856  18
+
+S7  S7-T7  10  347787.0589  8674017.6057  18
+
+T7  T7-U7  10  347790.4398  8674008.1946  18
+
+U7  U7-V7  10  347792.8848  8673998.4981  18
+
+V7  V7-W7  10  347795.3298  8673988.8016  18
+
+W7  W7-X7  10  347797.6205  8673979.0675  18
+
+X7  X7-Y7  10  347797.3912  8673969.0701  18
+
+Y7  Y7-Z7  10  347795.6690  8673959.2195  18
+
+Z7  Z7-A8  10  347793.9468  8673949.3690  18
+
+A8  A8-B8  10  347792.2247  8673939.5184  18
+
+B8  B8-C8  10  347790.5025  8673929.6678  18
+
+C8  C8-D8  10  347788.4992  8673919.8705  18
+
+D8  D8-E8  10  347785.0308  8673910.4912  18
+
+E8  E8-F8  10  347780.0528  8673901.8183  18
+
+F8  F8-G8  10  347774.0824  8673893.7962  18
+
+G8  G8-H8  10  347768.0732  8673885.8031  18
+
+H8  H8-I8  10  347762.4472  8673877.5358  18
+
+I8  I8-J8  10  347759.2561  8673868.0586  18
+
+J8  J8-K8  10  347756.3391  8673858.4935  18
+
+K8  K8-L8  10  347750.8522  8673850.1333  18
+
+L8  L8-M8  10  347742.9513  8673844.0034  18
+
+M8  M8-N8  10  347734.3955  8673838.8266  18
+
+N8  N8-O8  10  347725.8398  8673833.6499  18
+
+O8  O8-P8  10  347717.6104  8673827.9685  18
+
+P8  347714.4013  8673818.4974  18
+
+Anexo n.° 9: Plantilla de cuadro de datos técnicos para redes (p. ej. alcantarillado) para elaboración de planos y llenado en el Sistema de Gestión del CIRAS
+
+Las imágenes de satélite usadas por el Sistema de Gestión del CIRA son referenciales, no corresponden a ortoimágenes, y son de uso libre, pudiendo existir un desplazamiento entre el área a certificar y el área mostrada en la imagen, por lo que la correcta localización del área a certificar se realiza en la inspección ocular del procedimiento. No obstante, ello no exime al administrado de verificar la correcta representación y ubicación del polígono o de la línea graficada. De otra parte, la información contenida en el presente cuadro es referencial, y se presenta para el correcto llenado, debiendo reemplazarla por los datos técnicos del área de certificación del interesado. En el Sistema de Gestin del CIRA se debe incluir zona de proyección.
+
+VÉRTICE  LADO  DISTANCIA  COORDENADA ESTE(X)  COORDENADA NORTE(Y)  ZONA DE PROYECCIÓN
+
+1  1 -2  67.0695  271455.0021  8679329.6815  18
+
+2  2 -3  41.5276  271505.3110  8679374.0361  18
+
+3  3 -4  95.1963  271538.5709  8679349.1700  18
+
+4  - - 271468.0947  8679285.1743  18
+
+3  3 -5  17.7686  271538.5709  8679349.1700  18
+
+5  5 -6  17.3832  271552.8020  8679338.5305  18
+
+6  6 -7  14.0249  271570.1764  8679337.9772  18
+
+7  7 -8  18.0172  271569.7549  8679323.9586  18
+
+8  8 -9  87.6876  271551.7468  8679324.5321  18
+
+9  - - 271485.7747  8679266.7671  18
+
+7  7 -10  65.9527  271569.7549  8679323.9586  18
+
+10  - - 271567.6558  8679258.0393  18
+
+6  6 -11  14.2105  271570.1764  8679337.9772  18
+
+11  11 -12  9.8882  271570.6334  8679352.1803  18
+
+12  12 -13  2.3745  271580.5164  8679351.8604  18
+
+13  13 -14  46.7560  271582.6441  8679350.8063  18
+
+14  - - 271624.5406  8679330.0504  18
+
+13  13 -15  21.7878  271582.6441  8679350.8063  18
+
+15  - - 271592.3161  8679370.3296  18
+
+11  11 -16  9.3421  271570.6334  8679352.1803  18
+
+16  16 -17  17.3216  271570.9509  8679361.5170  18
+
+17  - - 271574.5832  8679378.4535  18
+
+DIRECCIÓN DE CERTIFICACIONES
+
+Anexo n.° 10: Plantilla de cuadro de datos técnicos de redes (p. ej. calles) para elaboración de planos y llenado en el Sistema de Gestión del CIRAS
+
+Las imágenes de satélite usadas por el Sistema de Gestión del CIRA son referenciales, no corresponden a ortoimágenes, y son de uso libre, pudiendo existir un desplazamiento entre el área a certificar y el área mostrada en la imagen, por lo que la correcta localización del área a certificar se realiza en la inspección ocular del procedimiento. No obstante, ello no exime al administrado de verificar la correcta representación y ubicación del polígono o de la línea graficada. De otra parte, la información contenida en el presente cuadro es referencial, y se presenta para el correcto llenado, debiendo reemplazarla por los datos técnicos del área de certificación del interesado. En el Sistema de Gestin del CIRA se debe incluir zona de proyección.
+
+VÉRTICE  LADO  DISTANCIA  COORDENADA ESTE(X)  COORDENADA NORTE(Y)  ZONA DE PROYECCIÓN
+
+18  18 -19  25.6429  270962.6594  8680018.8388  18
+
+19  19 -20  28.7343  270980.7160  8680037.0464  18
+
+20  271000.0638  8680058.2907  18
+
+19  19 -21  29.8214  270980.7160  8680037.0464  18
+
+21  21 -22  32.5654  271001.5798  8680015.7387  18
+
+22  22 -23  5.6628  270979.1835  8679992.0974  18
+
+23  270975.3023  8679987.9739  18
+
+22  22 -24  20.4338  270979.1835  8679992.0974  18
+
+24  270964.4893  8680006.2967  18
+
+21  21 -25  30.4038  271001.5798  8680015.7387  18
+
+25  271022.4789  8680037.8208  18
+
+21  21 -26  21.7387  271001.5798  8680015.7387  18
+
+26  26 -27  23.3097  271016.7887  8680000.2061  18
+
+27  271001.0807  8679982.9840  18
+
+26  26 -28  13.4651  271016.7887  8680000.2061  18
+
+28  28 -29  26.7089  271026.2092  8679990.5851  18
+
+29  271044.2351  8680010.2938  18
+
+28  28 -30  21.2214  271026.2092  8679990.5851  18
+
+30  30 -31  19.6119  271041.0562  8679975.4222  18
+
+31  271027.8019  8679960.9671  18
+
+30  30 -32  16.2993  271041.0562  8679975.4222  18
+
+32  32 -33  24.0248  271052.4596  8679963.7762  18
+
+33  271067.4760  8679982.5298  18
+
+32  32 -34  14.5856  271052.4596  8679963.7762  18
+
+34  34 -35  4.3702  271062.6640  8679953.3546  18
+
+35  35 -36  20.2998  271066.1439  8679950.7110  18
+
+36  271054.7800  8679933.8901  18
+
+35  35 -37  18.7783  271066.1439  8679950.7110  18
+
+37  37 -38  26.3002  271081.2932  8679939.6149  18
+
+38  271095.6236  8679961.6680  18
+
+37  37 -39  16.2058  271081.2932  8679939.6149  18
+
+39  39 -40  20.5572  271094.3354  8679929.9957  18
+
+40  271083.1390  8679912.7551  18
+
+39  39 -41  16.3634  271094.3354  8679929.9957  18
+
+DIRECCIÓN DE CERTIFICACIONES DIRECCIÓN DE CERTIFICACIONES
+
+41  41 -42  29.4372  271106.9402  8679919.5612  18
+
+42  271122.9799  8679944.2447  18
+
+41  41 -43  15.8599  271106.9402  8679919.5612  18
+
+43  43 -44  18.2613  271118.9995  8679909.2602  18
+
+44  271109.0536  8679893.9450  18
+
+43  43 -45  40.8926  271118.9995  8679909.2602  18
+
+45  271147.3761  8679879.8158  18
+
+46  46 -47  52.1140  271189.9632  8680046.1674  18
+
+47  271194.5382  8679994.2546  18
+
+48  48 -49  48.2508  271237.8259  8680043.6625  18
+
+49  49 -50  39.5264  271241.7020  8679995.5676  18
+
+50  50 -51  24.2802  271281.1034  8679998.7085  18
+
+51  271283.8992  8679974.5898  18
+
+Anexo n.° 11: Plantilla de cuadro de datos técnicos de redes (p. ej. gasoducto) para elaboración de planos y llenado en el Sistema de Gestión del CIRAS
+
+Las imágenes de satélite usadas por el Sistema de Gestión del CIRA son referenciales, no corresponden a ortoimágenes, y son de uso libre, pudiendo existir un desplazamiento entre el área a certificar y el área mostrada en la imagen, por lo que la correcta localización del área a certificar se realiza en la inspección ocular del procedimiento. No obstante, ello no exime al administrado de verificar la correcta representación y ubicación del polígono o de la línea graficada. De otra parte, la información contenida en el presente cuadro es referencial, y se presenta para el correcto llenado, debiendo reemplazarla por los datos técnicos del área de certificación del interesado. En el Sistema de Gestin del CIRA se debe incluir zona de proyección.
+
+VÉRTICE  LADO  DISTANCIA  COORDENADA ESTE (X)  COORDENADA NORTE (Y)  ZONA DE PROYECCIÓN
+
+1  1-2  53.95  223036.6000  8760204.4200  18
+
+2  2-3  25.58  222991.0200  8760175.5600  18
+
+3  3-4  25.96  222972.4500  8760157.9700  18
+
+4  4-5  202.97  222947.4700  8760165.0500  18
+
+5  5-6  82.34  222764.0000  8760078.2600  18
+
+6  6-7  29.40  222683.7600  8760096.7200  18
+
+7  7-8  119.91  222660.5400  8760078.6800  18
+
+8  8-9  6.49  222565.8600  8760005.1000  18
+
+9  9-10  132.08  222569.3600  8759999.6400  18
+
+10  10-11  189.05  222465.6900  8759917.8000  18
+
+11  11-12  188.69  222317.3100  8759800.6500  18
+
+12  12-13  210.30  222167.3300  8759686.1400  18
+
+13  13-14  407.80  222003.2400  8759554.6000  18
+
+14  14-15  273.81  221683.6800  8759301.2600  18
+
+15  15-16  45.13  221828.7600  8759069.0300  18
+
+16  16-17  54.65  221826.4400  8759023.9600  18
+
+17  17-18  27.88  221822.3400  8758969.4700  18
+
+18  18-19  52.74  221820.0100  8758941.6800  18
+
+19  19-20  69.28  221830.4400  8758889.9800  18
+
+20  221773.2000  8758850.9600  18
+
+7  7-21  40.76  222660.5400  8760078.6800  18
+
+21  21-22  221.13  222652.5700  8760118.6600  18
+
+22  22-23  95.77  222607.5000  8760335.1400  18
+
+23  23-24  7.09  222590.7100  8760429.4300  18
+
+24  24-25  88.62  222597.6500  8760430.8800  18
+
+25  25-26  80.06  222570.3100  8760515.1700  18
+
+26  26-27  13.82  222636.9200  8760559.5600  18
+
+27  27-28  48.60  222627.2500  8760569.4600  18
+
+28  28-29  11.87  222608.8400  8760614.4400  18
+
+29  29-30  43.00  222606.4500  8760626.0700  18
+
+DIRECCIÓN DE CERTIFICACIONES DIRECCIÓN DE CERTIFICACIONES DIRECCIÓN DE CERTIFICACIONES
+
+30-31  23.00  222588.4900  8760665.1500  18
+
+31  31-32  26.70  222565.6500  8760662.4000  18
+
+32  32-33  43.95  222547.9900  8760642.3700  18
+
+33  222511.2100  8760618.3200  18
+
+10  10-34  20.12  222465.6900  8759917.8000  18
+
+34  34­ 72.25  222480.8500  8759904.5700  18
+
+35-36  54.34  222506.3300  8759836.9600  18
+
+36  36-37  27.69  222531.2600  8759788.6700  18
+
+37  37-38  31.80  222539.5900  8759762.2700  18
+
+38  38-39  27.32  222544.7000  8759730.8800  18
+
+39  39­ 9.68  222552.5700  8759704.7200  18
+
+40-41  82.47  222557.7100  8759696.5200  18
+
+41  41-42  79.61  222609.5600  8759632.3800  18
+
+42  42-43  133.67  222678.8100  8759671.6300  18
+
+43  43-44  76.05  222795.1100  8759737.5400  18
+
+44  44­ 237.17  222825.7400  8759667.9300  18
+
+45-46  62.78  222922.2200  8759451.2700  18
+
+46  222962.6100  8759403.2000  18
+
+11  11-47  277.42  222317.3100  8759800.6500  18
+
+47  47-48  34.78  222192.8100  8760048.5700  18
+
+48  48-49  147.82  222220.1200  8760070.1200  18
+
+49  49­ 195.52  222133.5300  8760189.9200  18
+
+**222290.4300** 8760306.5900  18
+
+12  12-51  81.08  222167.3300  8759686.1400  18
+
+51  51-52  150.98  222128.2500  8759757.1700  18
+
+52  52-53  96.04  222055.4700  8759889.4500  18
+
+53  53-54  95.57  221978.3500  8759832.2100  18
+
+54  54­ 47.21  221907.5600  8759768.0100  18
+
+**221925.0400** 8759724.1600  18
+
+13  13-56  139.95  222003.2400  8759554.6000  18
+
+56  56-57  139.59  221936.3700  8759677.5400  18
+
+57  57-58  92.85  221869.5900  8759800.1100  18
+
+58  58-59  162.19  221813.4000  8759874.0300  18
+
+59  59­ 203.27  221715.7000  8760003.4900  18
+
+60-61  104.96  221552.6100  8759882.1600  18
+
+61  61-62  100.08  221613.8100  8759796.8900  18
+
+62  62-63  102.22  221533.3500  8759737.3700  18
+
+63  63-64  98.50  221592.5000  8759653.9900  18
+
+64  221512.7500  8759596.1800  18
+
+13  13­ 59.90  222003.2400  8759554.6000  18
+
+65-66  111.23  222028.7500  8759500.4000  18
+
+66  66-67  29.18  221935.4500  8759439.8400  18
+
+67  221913.6000  8759459.1800  18
+
+14  14-68  280.79  221683.6800  8759301.2600  18
+
+68  68-69  197.25  221548.4400  8759547.3300  18
+
+69  221393.0800  8759425.7900  18
+
+16  16-70  94.74  221826.4400  8759023.9600  18
+
+70  221732.6100  8759037.0900  18
+
+17  17-71  95.09  221822.3400  8758969.4700  18
+
+71  221728.3400  8758983.8500  18
+
+19  19-72  78.73  221830.4400  8758889.9800  18
+
+72  221894.7700  8758935.3700  18
+
+21  21-73  149.91  222652.5700  8760118.6600  18
+
+73  222505.8700  8760087.8200  18
+
+24  24-74  200.52  222597.6500  8760430.8800  18
+
+74  222795.2800  8760464.8300  18
+
+28  28-75  95.50  222608.8400  8760614.4400  18
+
+75  222529.1300  8760561.8400  18
+
+40  40-76  159.92  222557.7100  8759696.5200  18
+
+76  222423.7300  8759609.2000  18
+
+42  42-77  75.53  222678.8100  8759671.6300  18
+
+77  77-44  131.50  222711.1700  8759603.3800  18
+
+44  222825.7400  8759667.9300  18
+
+45  45-78  177.85  222922.2200  8759451.2700  18
+
+78  222765.4000  8759367.3700  18
+
+51  51-79  147.66  222128.2500  8759757.1700  18
+
+79  222010.6500  8759667.8900  18
+
+56  56-80  147.08  221936.3700  8759677.5400  18
+
+80  221818.8800  8759589.0700  18
+
+58  58-81  141.32  221813.4000  8759874.0300  18
+
+81  81-82  50.38  221924.8700  8759960.9100  18
+
+82  82-83  104.84  221893.6200  8760000.4300  18
+
+83  221975.5600  8760065.8200  18
+
+Anexo n.° 12: Plantilla de cuadro de datos técnicos con exclusiones internas para elaboración de planos y llenado en el Sistema de Gestión del CIRAS
+
+Las imágenes de satélite usadas por el Sistema de Gestión del CIRA son referenciales, no corresponden a ortoimágenes, y son de uso libre, pudiendo existir un desplazamiento entre el área a certificar y el área mostrada en la imagen, por lo que la correcta localización del área a certificar se realiza en la inspección ocular del procedimiento. No obstante, ello no exime al administrado de verificar la correcta representación y ubicación del polígono o de la línea graficada. De otra parte, la información contenida en el presente cuadro es referencial, y se presenta para el correcto llenado, debiendo reemplazarla por los datos técnicos del área de certificación del interesado. En el Sistema de Gestin del CIRA se debe incluir zona de proyección.
+
+VÉRTICE  LADO  DISTANCIA  COORDENADA ESTE (X)  COORDENADA NORTE (Y)  ZONA DE PROYECCIÓN
+
+1  1-2  42.32  621503.3  9257824.39  18
+
+2  2-3  62.39  621461.7  9257816.61  18
+
+3  3-4  12.65  621401.4329  9257832.74  18
+
+4  4-5  13.64  621393.8467  9257822.612  18
+
+5  5-6  14.18  621388.7838  9257809.945  18
+
+6  6-7  9.79  621384.0837  9257796.567  18
+
+7  7-8  9.79  621382.1005  9257786.984  18
+
+8  8-9  20.86  621380.1174  9257777.401  18
+
+9  9-10  8.35  621375.9533  9257756.965  18
+
+10  10-11  8.83  621373.4218  9257749.007  18
+
+11  11-12  10.49  621368.3753  9257741.779  18
+
+12  12-13  8.44  621361.1437  9257734.18  18
+
+13  13-14  7.63  621355.3634  9257728.031  18
+
+14  14-15  17.68  621351.3806  9257721.523  18
+
+15  15-16  12.74  621347.2247  9257704.336  18
+
+16  16-17  13.06  621345.7817  9257691.679  18
+
+17  17-18  13.74  621344.6933  9257678.661  18
+
+18  18-19  41  621344.3305  9257664.924  18
+
+19  19-20  52.43  621333.45  9257625.39  18
+
+20  20-21  53.71  621376.6  9257655.18  18
+
+21  21-22  17.07  621426.63  9257635.63  18
+
+22  22-23  28.62  621426.73  9257618.56  18
+
+23  23-24  8.91  621445.5  9257596.96  18
+
+24  24-25  22  621442.56  9257588.55  18
+
+25  25-26  34.84  621463.78  9257582.76  18
+
+26  26-27  25.75  621485.33  9257610.14  18
+
+27  27-28  60  621510.15  9257617  18
+
+28  28-29  22.87  621534.66  9257671.77  18
+
+29  29-30  14.86  621557.3  9257675.03  18
+
+DIRECCIÓN DE CERTIFICACIONES
+
+30  30-31  11.91  621565.6  9257662.7  18
+
+31  31-32  26.94  621558.07  9257653.47  18
+
+32  32-33  32.44  621577.17  9257634.47  18
+
+33  33-34  53.89  621604.22  9257616.56  18
+
+34  34-35  23.92  621621.03  9257565.36  18
+
+35  35-36  53.05  621644.95  9257565.2  18
+
+36  36-37  275.2  621691.5547  9257590.549  18
+
+37  37-1  25.01  621518.3127  9257804.381  18
+
+38  38-39  45.44  621460.13  9257805.93  18
+
+39  39-40  109.22  621415.94  9257816.53  18
+
+40  40-41  69.25  621393.59  9257709.62  18
+
+41  41-42  34  621461.06  9257694.02  18
+
+42  42-43  10.98  621468.14  9257727.27  18
+
+43  43-44  32.64  621457.74  9257730.78  18
+
+44  44-45  14.59  1527.04  9257762.71  18
+
+45  45-38  39.92  621450.6  9257767.16  18
+

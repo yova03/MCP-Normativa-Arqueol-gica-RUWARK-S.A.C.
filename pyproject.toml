@@ -1,0 +1,59 @@
+[project]
+name = "mcp-normativa-ruwark"
+version = "2026.3.1"
+description = "MCP Server para consulta de normativa arqueológica del Perú | RUWARK S.A.C."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "RUWARK S.A.C." }
+]
+keywords = ["mcp", "arqueologia", "normativa", "peru", "ruwark", "patrimonio-cultural"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Text Processing :: Indexing",
+]
+
+dependencies = [
+    "mcp[cli]>=1.2.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3,<9.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/ruwark/mcp-normativa-ruwark"
+Repository = "https://github.com/ruwark/mcp-normativa-ruwark"
+Issues = "https://github.com/ruwark/mcp-normativa-ruwark/issues"
+
+[project.scripts]
+normativa-ruwark = "normativa_ruwark.server:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/normativa_ruwark"]
+
+[tool.hatch.build.targets.sdist]
+include = [
+    "/src/normativa_ruwark",
+    "/tests",
+    "/README.md",
+    "/CHANGELOG.md",
+    "/LICENSE",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

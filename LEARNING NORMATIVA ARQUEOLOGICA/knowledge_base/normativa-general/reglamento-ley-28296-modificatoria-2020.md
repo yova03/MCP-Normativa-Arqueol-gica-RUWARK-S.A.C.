@@ -1,0 +1,3487 @@
+# Modificación del Reglamento de la Ley N° 28296 (D.S. N° 007-2020-MC)
+
+> **Tipo:** Decreto Supremo
+> **Número:** D.S. N° 007-2020-MC
+> **Fecha de publicación:** 05/06/2020
+> **Estado:** Vigente — modifica D.S. N° 011-2006-ED
+
+---
+
+Que, habiéndose registrado el Plan Operativo Institucional(POI) Multianual 2021-2023 del Pliego 010 Ministerio deEducaci a través del aplicativo CEPLAN V.01, correspondeformalizar su aprobaci mediante acto resolutivo;
+
+De conformidad con lo establecido en el Decreto Legislativo Nº 1088, Ley del Sistema Nacional de Planeamiento Estratégico y del Centro Nacional de Planeamiento Estratégico; la Ley Nº 29158, Ley Orgánicadel Poder Ejecutivo; el Decreto Ley Nº 25762, Ley Orgánicadel Ministerio de Educación, modificada por la Ley Nº 26510; el Reglamento de Organizaci y Funciones delMinisterio de Educaci, aprobado por el Decreto SupremoNº 001-2015-MINEDU; y, la Guía para el Planeamiento Institucional, aprobada mediante Resoluci de Presidenciade Consejo Directivo Nº 033-2017-CEPLAN/PCD,modificada por Resolución de Presidencia de ConsejoDirectivo Nº 00053-2018-CEPLAN/PCD, Resoluci dePresidencia de Consejo Directivo Nº 00016-2019/CEPLAN/PCD, Resoluci de Presidencia de Consejo Directivo Nº 00011-2020/CEPLAN/PCD y Resoluci de Presidencia deConsejo Directivo Nº 00013-2020/CEPLAN/PCD;
+
+SE RESUELVE:
+
+#### Artículo 1. Formalizar la aprobaci del Plan Operativo Institucional (POI) Multianual 2021-2023 del Pliego 010: Ministerio de Educaci, el mismo que comoAnexo forma parte integrante de la presente resoluci.
+
+#### Artículo 2. La Oficina de Planificación Estratégica y Presupuesto de la Secretaría de Planificación Estratégica, a través de la Unidad de Planificación y Presupuesto, es el gano encargado de conducir, asesorar y evaluar la reprogramaci del Plan Operativo Institucional aprobado mediante la presente resoluci; así como efectuar el respectivo seguimiento y evaluaci de su cumplimiento.
+
+#### Artículo 3. Los Jefes y/o Directores de los ganos, unidades orgánicas y dependencias de la Sede Central; Escuelas de Régimen Especial; Direcci Regional de Educaci de Lima Metropolitana; Unidades de Gesti Educativa Local de Lima Metropolitana y ProgramasNacionales, seg corresponda, que forman parte delPliego 010: Ministerio de Educaci, deberán remitir con carácter de declaraci jurada los informes de ejecuci de metas de acuerdo a los plazos, que para ello defina la Unidad de Planificación y Presupuesto de la Oficina de Planificación Estratégica y Presupuesto.
+
+#### Artículo 4. Durante la etapa de ejecuci, las actividades operativas aprobadas no constituyen por sí solas, sustento suficiente para ser ejecutadas, debiéndose observar para su cumplimiento, los requisitos esenciales y las formalidades establecidas por la normatividad vigente.
+
+#### Artículo 5. Disponer la publicacin de la presente Resoluci y su anexo, en el Sistema de InformaciJurídica de Educaci – SIJE, ubicado en el Portal Institucional del Ministerio de Educaci (https://www.gob.pe/minedu), el mismo día de la publicaci de la presente Resolución en el Diario Oficial "El Peruano".
+
+Regístrese, comuníquese y publíquese.
+
+CARLOS MARTÍN BENAVIDES ABANTO
+
+Ministro de Educaci
+
+1875925-1
+
+Decreto Supremo que aprueba el Reglamento de Procedimientos Mineros
+
+DECRETO SUPREMO Nº 020-2020-EM
+
+EL PRESIDENTE DE LA REPÚBLICA CONSIDERANDO: Que, conforme a los artículos 4 y 5 de la Ley Nº
+
+30705, Ley de Organizaci y Funciones del Ministerio de Energía y Minas, el citado Ministerio ejerce competencias en materia de energía, que comprende electricidad e hidrocarburos, y de minería, teniendo como competencias exclusivas: Diser, establecer y supervisar las políticas nacionales y sectoriales en materia de energía y minería, asumiendo la rectoría respecto de ellas;regular la infraestructura plica de carácter y alcance nacional en materia de energía y minería; y otorgar y reconocer derechos correspondientes en el ámbito de su competencia, con excepci de aquellos transferidos en el marco del proceso de descentralizaci;
+
+Que, mediante Decreto Supremo Nº 014-92-EM,publicado el 03 de junio de 1992, se aprobel Texto Único Ordenado de la Ley General de Minería, que comprende todo lo relativo al aprovechamiento de las sustancias minerales del suelo y del subsuelo del territorio nacional, así como del dominio marítimo;
+
+Que, el Título Décimo Segundo del citado Texto Único Ordenado establece los procedimientos que debenseguir los interesados ante los ganos jurisdiccionalesadministrativos mineros para poder ejercer la actividadminera, estableciendo en su artículo 111 que el Estado garantiza que los procedimientos mineros responden a los principios de certeza, simplicidad, publicidad, uniformidad y eficiencia;
+
+Que, con Decreto Supremo Nº 018-92-EM se aprobel Reglamento de Procedimientos Mineros, que rige la tramitaci de los procedimientos mineros que siguen los interesados ante los ganos jurisdiccionales administrativos contemplados en el Título Décimo Segundo del Texto Único Ordenado;
+
+Que, el actual Reglamento de Procedimientos Mineros
+
+tiene la finalidad que los interesados cuenten con una
+
+sola norma que establezca y regule los procedimientos administrativos que se deben tramitar para obtener diversas autorizaciones en la actividad del sector
+
+minero; asimismo, busca modernizar y simplificar los procedimientos mineros a fin de promover las inversiones
+
+en el sector; siendo oportuno adecuar los procedimientos a los cambios normativos introducidos en el Texto Único Ordenado de la Ley General de Minería, al Texto Único Ordenado de la Ley Nº 27444, Ley del Procedimiento Administrativo General, aprobado por Decreto Supremo Nº 004-2019-JUS, y demás normativa vigente sobre procedimientos administrativos; resultando necesaria, por tanto, la aprobaci de un nuevo Reglamento de Procedimientos Mineros;
+
+Que, mediante Resoluci Ministerial Nº 350-2018-MEM-DM, publicada el 17 de setiembre de 2018, el Ministerio de Energía y Minas dispuso la publicaci del proyecto del nuevo Reglamento de Procedimientos Mineros, y su Exposici de Motivos, en su portal institucional, con la finalidad de recibir las opiniones y sugerencias de la ciudadanía en general por un periodo de veinte (20) días hábiles contados a partir del día siguiente de su publicaci; conforme a lo dispuesto en el artículo 14 del Decreto Supremo Nº 001-2009-JUS;
+
+Que, habiéndose recabado opiniones y sugerencias, y tras el análisis de los aportes recibidos durante el periodo de publicaci de la propuesta normativa, corresponde aprobar el texto definitivo del Reglamento de Procedimientos Mineros;
+
+De conformidad con lo dispuesto en el numeral 8del artículo 118 de la Constituci Política del Pery el numeral 3 del artículo 11 de la Ley Nº 29158, Ley Orgánica del Poder Ejecutivo;
+
+DECRETA:
+
+#### Artículo 1. Aprobaci del Reglamento de Procedimientos Mineros
+
+Apruébase el Reglamento de Procedimientos Mineros, compuesto de veintisiete (27) capítulos, cientoveinti (121) artículos, nueve (09) DisposicionesComplementarias Finales, dos (02) DisposicionesComplementarias Transitorias, y doce (12) Anexos.
+
+#### Artículo 2. Publicaci de Anexos
+
+Los anexos que forman parte del Reglamentoaprobado en el artículo 1 precedente, se publican en el Portal Institucional del Ministerio de Energía y Minas (www.gob.pe/minem) el mismo día de su publicaci en el
+
+diario oficial El Peruano.
+
+#### Artículo 3. Refrendo y vigencia
+
+El presente Decreto Supremo es refrendado por elMinistro de Energía y Minas y entra en vigencia al día siguiente de su publicación en el diario oficial "El Peruano".
+
+### DISPOSICIONES COMPLEMENTARIAS TRANSITORIAS
+
+Primera.-Procedimientos administrativos en trámite
+
+Los procedimientos administrativos que se encuentren en trámite continn rigiéndose por las disposicionesbajo las cuales fueron iniciados, con excepci de las disposiciones del presente Reglamento que sean más beneficiosas a los administrados.
+
+Segunda.- Certificado de Devolución
+
+Las causales de inadmisibilidad, cancelaci y reduccide derechos mineros previstos en el Reglamento deProcedimientos Mineros, permiten solicitar la devolucidel pago efectuado a través de la emisión de un Certificado de Devoluci conforme al Reglamento de los Títulos pertinentes del Texto Único Ordenado de la Ley General deMinería, aprobado por Decreto Supremo Nº 03-94-EM.
+
+### DISPOSICIONES COMPLEMENTARIAS FINALES
+
+Primera.- Vigencia de la Primera Disposici Complementaria Final del Decreto Supremo Nº 037­2017-EM
+
+Manténgase la vigencia de la Primera DisposiciComplementaria Final del Decreto Supremo Nº 037­2017-EM, que modifica el Reglamento de Procedimientos Mineros aprobado por Decreto Supremo Nº 018-92­EM, así como su Segunda Disposici Complementaria Modificatoria.
+
+Segunda.-Modificación del Texto Único de
+
+Procedimientos Administrativos
+
+El Ministerio de Energía y Minas, el Instituto Geolico Minero y Metalgico – INGEMMET y los GobiernosRegionales deberán incluir en sus respectivos Textos Únicos de Procedimientos Administrativos – TUPA, los requisitos de los procedimientos establecidos en el Reglamento de Procedimientos Mineros aprobado por la presente norma, que les correspondan.
+
+### DISPOSICIONES COMPLEMENTARIAS DEROGATORIAS
+
+Primera.-Derogatoria del Reglamento de Procedimientos Mineros
+
+Derase el Decreto Supremo Nº 018-92-EM, queaprueba el Reglamento de Procedimientos Mineros y todas las disposiciones que se opongan a lo dispuesto en el presente Reglamento.
+
+Segunda.- Derogatoria del Decreto Supremo Nº 001-2015-EM
+
+Derase el Decreto Supremo Nº 001-2015-EM, queaprueba disposiciones para procedimientos mineros que impulsen proyectos de inversi.
+
+Tercera.- Derogatoria del Decreto Supremo Nº 35­94-EM
+
+Derase el Decreto Supremo Nº 35-94-EM, queestablece procedimiento para cumplir con lo dispuesto en el Artículo 12 de la Ley General de Minería, en cuanto a protecci de los derechos prioritarios.
+
+Cuarta.- Derogatoria de artículos y DisposiciFinal del Decreto Supremo Nº 084-2007-EM
+
+Deranse los artículos 1, 2, 3, 4, 5, 6, 6A, 7, 8, 9, 10, 11, 12, 13, 13A, 14, y la Primera Disposici Final del Decreto Supremo Nº 084-2007-EM, que regula el Sistemade Derechos Mineros y Catastro – SIDEMCAT y modifica normas reglamentarias del procedimiento minero paraadecuarlas al proceso de regionalizaci.
+
+Quinta.-Derogatoria de artículos, DisposicionesComplementarias y Disposiciones Transitorias del Decreto Supremo Nº 03-94-EM
+
+Deranse los artículos 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 52, 79, 80, 81, 82, 83, 84, 85, 86, 87, 97, 99, 100, 103, 105, 125, 126, 150, la Primera y Cuarta Disposiciones Transitorias, así como la Segunda, Tercera y Cuarta Disposiciones Complementarias del Reglamento de los Títulos pertinentes del Texto Único Ordenado de la Ley General de Minería, aprobado porDecreto Supremo Nº 014-92-EM, aprobado por DecretoSupremo Nº 03-94-EM.
+
+Sexta.- Derogatoria del Decreto Supremo Nº 003­2016-EM
+
+Derase el Decreto Supremo Nº 003-2016-EM
+
+que modifica diversos artículos del Reglamento de
+
+Procedimientos Mineros, aprobado por Decreto Supremo
+
+Nº 018-92-EM y modifica y actualiza el Texto Único de
+
+Procedimientos Administrativos (TUPA) del Ministerio de Energía y Minas, aprobado por Decreto Supremo Nº 038­2014-EM.
+
+Dado en la Casa de Gobierno, en Lima, a los siete días del mes de agosto del a dos mil veinte.
+
+MARTÍN ALBERTO VIZCARRA CORNEJO
+
+Presidente de la Replica
+
+LUIS MIGUEL INCHAÚSTEGUI ZEVALLOS
+
+Ministro de Energía y Minas
+
+REGLAMENTO DE PROCEDIMIENTOS MINEROS
+
+CAPÍTULO I - DISPOSICIONES GENERALES
+
+#### Artículo 1. Objeto y ámbito de aplicaci
+
+#### Artículo 2. Glosario de términos
+
+#### Artículo 3. Acrimos
+
+#### Artículo 4. Aplicaci del Texto Único Ordenado de la Ley del Procedimiento Administrativo General
+
+#### Artículo 5. Del expediente administrativo
+
+CAPÍTULO II - PROCEDIMIENTO DE ÁREAS DE NO ADMISIÓN DE PETITORIOS
+
+#### Artículo 6. Solicitud de áreas de no admisi de petitorios para prospecci minera
+
+#### Artículo 7. Aprobaci del área de no admisi de petitorios mineros
+
+#### Artículo 8. Tratamiento de los estudios de prospecci
+
+#### Artículo 9. Procedimiento respecto de la ANAP aprobada
+
+CAPÍTULO III -SISTEMA DE DERECHOS MINEROS Y CATASTRO – SIDEMCAT
+
+#### Artículo 10. Del Sistema de Derechos Mineros yCatastro – SIDEMCAT
+
+#### Artículo 11. Administraci del SIDEMCAT
+
+#### Artículo 12. Contenido del SIDEMCAT
+
+#### Artículo 13. Sustento de la informacin del SIDEMCAT
+
+#### Artículo 14. Acceso a la informaci del SIDEMCAT
+
+#### Artículo 15. Remisi de la copia de resoluciones de títulos, extinciones, modificaciones y otros, emitidos por losGobiernos Regionales a la Direcci de Catastro Minero
+
+CAPÍTULO IV - PROCEDIMIENTO ORDINARIO PARA CONCESIONES MINERAS
+
+#### Artículo 16. Determinaci de competencias en base
+
+a la constancia o calificación del administrado al inicio del
+
+procedimiento
+
+#### Artículo 17. Competencia en caso de administrado no acreditado como PPM o PMA pero que rea las condiciones del artículo 91 de la LGM
+
+#### Artículo 18. Determinaci de competencia territorial para petitorios ubicados en dos (2) o más jurisdicciones de gobiernos regionales
+
+#### Artículo 19. Funciones del Gobierno Regional como integrante del SIDEMCAT
+
+#### Artículo 20. Presentaci de petitorios de concesi minera
+
+#### Artículo 21. Cigo ico de petitorios de concesi minera
+
+#### Artículo 22. Registro de ingreso de petitorios de concesi minera
+
+#### Artículo 23. Generaci de cigo ico de petitoriode concesi minera
+
+#### Artículo 24. Comprobaci de la vigencia de la constancia de PPM o PMA
+
+#### Artículo 25. Verificación de los supuestos del artículo 91 de la LGM
+
+#### Artículo 26. Rechazo
+
+#### Artículo 27. Inadmisibilidad
+
+#### Artículo 28. Petitorio de concesi minera en zona de frontera y en franja de traslape
+
+#### Artículo 29. Determinaci del pago en monedanacional
+
+#### Artículo 30. Requisitos del petitorio de concesiminera
+
+#### Artículo 31. Presentaci y trámite del petitorio deconcesi minera
+
+#### Artículo 32. Reducci y cancelaci del petitorio de concesi minera
+
+#### Artículo 33. Publicación de avisos y notificación de advertencias
+
+#### Artículo 34. Abandono
+
+#### Artículo 35. Respeto de área y extensi mínima disponible
+
+#### Artículo 36. Obligaci de respeto
+
+#### Artículo 37. Contenido del título de concesi minera
+
+#### Artículo 38. Contenido de la publicaci del título de concesi
+
+CAPÍTULO V - REMATE DE ÁREAS SIMULTÁNEAS
+
+#### Artículo 39. Simultaneidad
+
+#### Artículo 40. Superposici de petitorios simultáneos
+
+#### Artículo 41. Petitorios simultáneos ante el INGEMMET y el Gobierno Regional
+
+#### Artículo 42. Precio base
+
+#### Artículo 43. Acto de remate
+
+#### Artículo 44. Del acta de remate y la adjudicaci de la buena pro
+
+#### Artículo 45. Devoluciones
+
+#### Artículo 46. Depito de la oferta y cancelaci
+
+#### Artículo 47. Segundo postor y abandono del área simultanea
+
+#### Artículo 48. Único postor asistente al acto de remate
+
+#### Artículo 49. Inasistencia de postores
+
+CAPÍTULO VI - FRACCIONAMIENTO Y DIVISIÓN
+
+#### Artículo 50. Fraccionamiento y divisin de concesiones
+
+#### Artículo 51. Fraccionamiento de petitorios
+
+#### Artículo 52. Formaci de expedientes
+
+#### Artículo 53. Traslado de estado de pagos
+
+#### Artículo 54. Inscripci de concesiones divididas o fraccionadas
+
+CAPÍTULO VII - AGRUPAMIENTO
+
+#### Artículo 55. Requisitos de la Unidad Econica Administrativa (UEA)
+
+#### Artículo 56. Subsanaci de requisitos y abandonodel procedimiento
+
+#### Artículo 57. Aprobaci de la UEA y supuestos de nulidad
+
+#### Artículo 58. Efectos de la aprobación expresa o ficta
+
+#### Artículo 59. Conformaci de la UEA Artículo 60.- Procedimiento de inclusi y exclusi
+
+de concesiones mineras de la UEAy otras modificacionesArtículo 61.-Exclusión de oficio de concesiones
+
+mineras de la UEA constituida
+
+#### Artículo 62. Constituci de la UEA
+
+#### Artículo 63. Inscripci de resoluci de la UEA
+
+CAPÍTULO VIII - RENUNCIA
+
+#### Artículo 64. Renuncia de área de derecho minero
+
+#### Artículo 65. Requisitos de la renuncia de área de derecho minero Artículo 66.- Aprobaci o denegatoria de la renunciade área de derecho minero Artículo 67.- Renuncia de derechos y acciones del peticionario
+
+CAPÍTULO IX - CAMBIO DE SUSTANCIA DE DERECHO MINERO
+
+#### Artículo 68. Cambio de sustancia de derecho minero
+
+CAPÍTULO X - DENUNCIA POR INTERNAMIENTO
+
+#### Artículo 69. Denuncia por internamiento
+
+CAPÍTULO XI - SUSTITUCIÓN
+
+#### Artículo 70. Sustituci
+
+CAPÍTULO XII -ACUMULACIÓN DE CONCESIONES MINERAS
+
+#### Artículo 71. Acumulaci de concesiones mineras
+
+#### Artículo 72. Título de la concesi de acumulaci
+
+CAPÍTULO XIII - DIVISIÓN Y MODIFICACIÓN DEL TÍTULO DE CONCESIÓN
+
+#### Artículo 73. Divisi de derecho minero
+
+#### Artículo 74. Modificación del título de concesión
+
+CAPÍTULO XIV - SOCIEDAD LEGAL
+
+#### Artículo 75. Sociedad Legal por pluralidad de titularesArtículo 76.- Capital inicial de la Sociedad LegalArtículo 77.- Sociedad Legal por área superpuesta
+
+CAPÍTULO XV -DISPOSICIONES GENERALES EN LOS PROCEDIMIENTOS PARA EL OTORGAMIENTO DE CONCESIÓN DE BENEFICIO, AUTORIZACIÓN DE FUNCIONAMIENTO, AUTORIZACIÓN DE BENEFICIO, CONCESIÓN DE LABOR GENERAL, CONCESIÓN DE TRANSPORTE MINERO, Y AUTORIZACIÓN DE ACTIVIDADES DE EXPLORACIÓN Y EXPLOTACIÓN MINERA
+
+#### Artículo 78. De la coordinaci con la Direcci General de Minería o Gobierno Regional
+
+#### Artículo 79. Observaci, requerimiento yapercibimiento
+
+#### Artículo 80. Cancelaci, reducci, improcedencia y nulidad
+
+#### Artículo 81. Opini posterior de la Direcci General de Minería
+
+CAPÍTULO XVI - CONCESIÓN DE BENEFICIO
+
+#### Artículo 82. Presentaci de la solicitud de la
+
+concesión de beneficio
+
+#### Artículo 83. Publicaci de avisos, oposici y obras preliminares
+
+#### Artículo 84. Aprobaci del proyecto, otorgamientodel título de concesión de beneficio y autorización de
+
+construcci Artículo 85.-Solicitud de Autorizaci de
+
+funcionamiento de la concesión de beneficio y de su modificación
+
+#### Artículo 86. Aprobaci de la diligencia de inspecci
+
+de verificación y autorización de funcionamientoArtículo 87.- Modificación de la concesión de beneficio
+
+#### Artículo 88. Informe Técnico Minero – ITM paraconcesión de beneficio
+
+#### Artículo 89. Excepción a la modificación de la concesión de beneficio
+
+#### Artículo 90. Acumulación de concesiones de beneficio
+
+#### Artículo 91. División de concesión de beneficio
+
+#### Artículo 92. Autorización de beneficio de minerales para productores mineros artesanales
+
+#### Artículo 93. Modificación de la autorización de beneficio de minerales para productores mineros artesanales
+
+CAPÍTULO XVII -CONCESIÓN DE LABOR GENERAL
+
+#### Artículo 94. Otorgamiento de concesi de laborgeneral
+
+CAPÍTULO XVIII -CONCESIÓN DE TRANSPORTE MINERO
+
+#### Artículo 95. Otorgamiento de concesi de transporteminero
+
+#### Artículo 96. Modificación de la concesión de
+
+transporte minero
+
+CAPÍTULO XIX -PROCEDIMIENTO PARA AUTORIZACIÓN DE ACTIVIDADES DE EXPLORACIÓN
+
+#### Artículo 97. Autorizaci de actividades de exploraci
+
+#### Artículo 98. Informe que determina el área delproyecto comprendido en la Ley Nº 29785
+
+#### Artículo 99. Autorizaci de actividades de exploraci de aprobaci automática
+
+#### Artículo 100. Autorizaci de actividades de exploraci de evaluaci previa
+
+#### Artículo 101. Excepciones a la autorizaci de actividades de exploraci
+
+CAPÍTULO XX -PROCEDIMIENTO PARA AUTORIZAR ACTIVIDADES DE EXPLOTACIÓN
+
+#### Artículo 102. Autorizaci de las actividades de explotaci que incluye aprobaci del plan de minado y botaderos
+
+#### Artículo 103. Modificación de la autorización de actividades de explotaci
+
+#### Artículo 104. Informe Técnico Minero – ITM paraautorizaci de actividades de explotaci
+
+#### Artículo 105. Excepciones a la modificación de la
+
+autorizaci de actividades de explotaciArtículo 106.- Actividad minera continua
+
+CAPÍTULO XXI - SUSPENSIÓN DE ACTIVIDADES DE EXPLOTACIÓN, BENEFICIO, LABOR GENERAL Y TRANSPORTE MINERO
+
+#### Artículo 107. Suspensi de actividades de
+
+explotación, beneficio, labor general y transporte minero
+
+#### Artículo 108. Comunicaci de suspensi de
+
+actividades de explotación, beneficio, labor general y
+
+transporte mineroArtículo 109.- Comunicaci del levantamiento de la
+
+suspensión de actividades de explotación, beneficio, labor
+
+general y transporte mineroArtículo 110.- Comunicaci a las Autoridades de
+
+fiscalización minera
+
+CAPÍTULO XXII - OPOSICIÓN
+
+#### Artículo 111. Oposici por mejor derecho sobre petitorios mineros
+
+#### Artículo 112. Requisitos de oposici
+
+#### Artículo 113. Traslado
+
+#### Artículo 114. Actuaci de pruebas
+
+#### Artículo 115. Oposición a petitorio de Beneficio
+
+CAPÍTULO XXIII -PARALIZACIÓN DE LA ACTIVIDAD MINERA
+
+#### Artículo 116. Paralizaci de la actividad minera
+
+CAPÍTULO XXIV -MEDIO IMPUGNATORIO Y AGOTAMIENTO DE VÍA ADMINISTRATIVA
+
+#### Artículo 117. Instancias administrativas
+
+#### Artículo 118. Acci contencioso administrativa
+
+CAPÍTULO XXV -NOTIFICACIÓN Y EFICACIA DE LOS ACTOS ADMINISTRATIVOS
+
+#### Artículo 119. Notificación
+
+CAPÍTULO XXVI - RECUSACIÓN Y ABSTENCIÓN
+
+#### Artículo 120. Recusaci y abstenci
+
+CAPÍTULO XXVII - EXTRAVÍO DE EXPEDIENTES
+
+#### Artículo 121. Reconstrucci de expediente
+
+### DISPOSICIONES COMPLEMENTARIAS FINALES
+
+### DISPOSICIONES COMPLEMENTARIAS TRANSITORIAS
+
+ANEXOS
+
+ANEXO I Concesión de beneficio (régimen
+
+general y peque productor minero)
+
+ANEXO II Modificación de la concesión de beneficio (régimen general y pequeño
+
+productor minero)
+
+ANEXO III ITM para modificación de la concesión de beneficio (régimen general y
+
+peque productor minero)ANEXO IV Excepci de autorizaci de
+
+modificación de concesión de beneficio ANEXO V Autorización de actividades de beneficio
+
+para la minería artesanalANEXO VI Concesi de transporte minero ANEXO VII Autorizaci de las actividades de
+
+explotaci (incluye aprobaci del plan de minado y botaderos)
+
+ANEXO VIII Modificación de la autorización de
+
+actividades de explotaci
+
+ANEXO IX ITM para modificaciónde la autorización
+
+de actividades de explotaci
+
+ANEXO X Excepci para autorizaci de actividades de explotaciANEXO XI Autorizaci de funcionamiento de la
+
+concesión de beneficio y su modificación
+
+(régimen general y peque productor minero)ANEXO XII Glosario de Términos Técnicos
+
+REGLAMENTO DE PROCEDIMIENTOS MINEROS
+
+### Capítulo I — DISPOSICIONES GENERALES
+
+#### Artículo 1. Objeto y ámbito de aplicaci
+
+El presente Reglamento tiene por objeto establecer y regular los procedimientos mineros contenidos en la Ley General de Minería cuyo Texto Único Ordenado fue aprobado por Decreto Supremo Nº 014-92-EM, y es aplicable a las personas naturales o jurídicas dederecho plico o privado que tramitan procedimientos mineros ante el Instituto Geolico Minero y Metalgico
+
+-INGEMMET, la Direcci General de Minería -DGM o los Gobiernos Regionales - GORE, seg corresponda, para obtener concesiones y diversas autorizaciones en las actividades del sector minero.
+
+En adelante, al Reglamento de Procedimientos
+
+Mineros se le denominará "Reglamento". Lo dispuesto en
+
+el presente Reglamento es de aplicaci nacional y decumplimiento obligatorio.
+
+#### Artículo 2. Glosario de términos
+
+Para los fines del presente Reglamento, los siguientes términos se definen como:
+
+Agencia de Promoci de la Inversi Privada
+
+– PROINVERSIÓN: Organismo plico, técnico especializado, adscrito al Ministerio de Economía yFinanzas, encargado de ejecutar la política nacional de promoci de la inversi privada.
+
+Autoridades de Fiscalizaci Minera: Organismos
+
+que supervisan y fiscalizan las actividades del sector
+
+minero. En las actividades de la mediana y gran minería,
+
+la supervisión y fiscalización se realiza a través del OEFA,
+
+el OSINERGMIN y SUNAFIL, seg sus competencias.Adicionalmente, son Autoridades de Fiscalizaci Minera, los Gobiernos Regionales, en las actividades de
+
+la pequea minería y minería artesanal, a través de las Gerencias o Direcciones Regionales de Energía y Minas.
+
+Certificación ambiental: Resoluci emitida por la autoridad competente a través de la cual se apruebael estudio ambiental, certificando que el proyectopropuesto ha cumplido con los requisitos de forma yfondo establecidos en el marco del Sistema Nacional de Evaluaci de Impacto Ambiental - SEIA. Asimismo, constituye el pronunciamiento de la autoridad competente respecto de la viabilidad ambiental del proyecto minero, en su integridad, determinando todas las obligaciones del titular derivadas del estudio ambiental y sus modificatorias y de las actuaciones desarrolladas en el procedimientoseguido para su aprobaci.
+
+Expediente: Conjunto de documentos en formato físico, ordenados cronolicamente que han sido generados durante el desarrollo del procedimientoadministrativo.
+
+Expediente virtual: Conjunto de documentos enformato y/o formularios electricos, relacionados con un mismo procedimiento administrativo, que han sidogenerados durante el desarrollo del procedimientoadministrativo, ingresados vía el sistema Intranet o Extranet del portal web del Ministerio de Energía y Minas.
+
+Instituto Geolico Minero y Metalgico – INGEMMET: Organismo plico, técnico especializado,adscrito al Ministerio de Energía y Minas, que tienecomo objetivo, entre otros, conducir el procedimientoordinario minero, incluyendo la recepci de petitorios, el otorgamiento de concesiones mineras y su extincisegún las causales fijadas por la ley, ordenando ysistematizando la informaci georeferenciada mediante el Catastro Minero Nacional, así como la administraci y distribuci del derecho de vigencia y penalidad.
+
+Organismo de Evaluaci y Fiscalizaci Ambiental – OEFA: Organismo plico, técnico especializado, adscrito al Ministerio del Ambiente, quees el ente rector del Sistema Nacional de Evaluaci yFiscalización Ambiental y se encarga de la fiscalización, supervisi, evaluaci, control y sanci en materia ambiental, respecto de las actividades de la mediana ygran minería.
+
+Organismo Supervisor de la Inversi en Energía yMinería – OSINERGMIN: Organismo plico, encargadode supervisar el cumplimiento de las disposiciones legales y técnicas referidas a la seguridad de la infraestructura, sus instalaciones y la gesti de seguridad de susoperaciones.
+
+Servicio Nacional de Certificación Ambiental para las Inversiones Sostenibles – SENACE: Organismoplico, técnico especializado, adscrito al Ministerio del Ambiente, es la autoridad competente encargada de revisar y aprobar los Estudios de Impacto Ambiental Detallados regulados en la Ley Nº 27446, Ley del Sistema Nacional de Evaluaci del Impacto Ambiental.
+
+Sistema de Derechos Mineros y Catastro -SIDEMCAT: Sistema a cargo de la Direcci de Catastro Minero del INGEMMET y se encuentra integrado porinformaci de los derechos mineros, por el CatastroMinero Nacional, por el pre-catastro, por el catastrode áreas restringidas a la actividad minera y por lainformaci relativa al cumplimiento del pago del derecho de vigencia y su penalidad.
+
+Superintendencia Nacional de Fiscalizaci Laboral – SUNAFIL: Organismo técnico especializado,adscrito al Ministerio de Trabajo y Promoci del Empleo, responsable de promover, supervisar y fiscalizar el cumplimiento del ordenamiento jurídico socio-laboral y el de seguridad y salud en el trabajo.
+
+Unidad Minera: Área donde se realiza o se proyecterealizar actividades mineras de exploraci, explotaci,
+
+beneficio, labor general, transporte y/o almacenamiento
+
+de minerales y donde las instalaciones o componentes de la labor estén directamente vinculados entre sí.
+
+#### Artículo 3. Acrimos
+
+Para los fines del presente Reglamento, se señalan
+
+los siguientes acrimos:
+
+ANAP: IGN: IMI:  Área de no admisi de petitorios Instituto Geográfico NacionalInforme Multianual de Inversiones
+
+INEI:  Instituto Nacional de Estadística e
+
+Informática
+
+ITM:  Informe Técnico Minero
+
+LGM:  Ley General de Minería cuyo Texto Único Ordenado fue aprobado por Decreto Supremo Nº 014-92-EM
+
+PROINVERSIÓN: Agencia de Promoci de la
+
+Inversi Privada PMA: Productor minero artesanal PPM: Peque productor minero SBS: Superintendencia de Banca,
+
+Seguros y AFP SIDEMCAT: Sistema de Derechos Mineros yCatastro SUNARP: Superintendencia Nacional de los
+
+Registros PlicosUEA: Unidad Econica Administrativa TUO LPAG: Texto Único Ordenado de la Ley
+
+del Procedimiento Administrativo General, aprobado por DecretoSupremo Nº 004-2019-JUS
+
+#### Artículo 4. Aplicación del Texto Único Ordenado
+
+de la Ley del Procedimiento Administrativo General
+
+Conforme al artículo II del Título Preliminar del TUO LPAG, la referida Ley contiene normas comunes para las actuaciones de la funci administrativa del Estado y, regulatodos los procedimientos administrativos desarrollados,incluyendo los procedimientos especiales, siendo aplicablea los procedimientos regulados en el presente Reglamento.
+
+#### Artículo 5. Del expediente administrativo
+
+**5.1** Los procedimientos administrativos regulados en la presente norma, se realizan por medio virtual o físico, seg corresponda. Las modalidades de presentaci de escritos se rigen por el TUO LPAG.
+
+**5.2** El administrado, tiene derecho de acceso al expediente conforme a las disposiciones establecidas en el artículo 171 del TUO LPAG.
+
+**5.3** La Direcci General de Minería, el Gobierno Regional y el INGEMMET, deben evaluar el expedienteconsiderando todos los documentos presentados por eladministrado hasta antes de culminado el procedimiento.
+
+**5.4** Los terceros que deseen presentar escritos, deben hacerlo por medio físico, en caso no se tenga habilitada la presentaci por medio virtual.
+
+**5.5** En los procedimientos a cargo de INGEMMET, los expedientes son de acceso plico a través delSIDEMCAT.
+
+### Capítulo II — PROCEDIMIENTO DE ÁREAS DE NO ADMISIÓN DE PETITORIOS
+
+#### Artículo 6. Solicitud de áreas de no admisi de petitorios para prospecci minera
+
+**6.1** Para efectos de lo dispuesto en el artículo 25 de laLGM, el INGEMMET presenta una solicitud a la Direcci General de Minería del Ministerio de Energía y Minas
+
+identificando la cuadrícula o conjunto de cuadrículas
+
+en coordenadas UTM WGS84, la extensi del área en la que efectuará trabajos de prospecci minera y el plazo respectivo, así como los montos de las partidas
+
+presupuestales debidamente financiadas que garanticen
+
+la realizaci de dichos trabajos.
+
+**6.2** Simultáneamente, el INGEMMET identifica en el
+
+Catastro Minero Nacional el área solicitada, suspendiendo inmediatamente la admisi de petitorios mineros endicha área.
+
+**6.3** Si la solicitud es denegada u objeto de desistimiento, el INGEMMET publica su libre denunciabilidad.
+
+**6.4** Cuando el INGEMMET publique de libre denunciabilidad los derechos mineros extinguidos, no incluye las áreas sobre las cuales ha solicitado la no admisi de petitorios.
+
+**6.5** Las concesiones y petitorios mineros que reviertan al Estado, también pueden ser materia de no admisi de petitorios.
+
+**6.6** Las áreas publicadas de libre denunciabilidad
+
+que se refiere el presente artículo, pueden peticionarse
+
+a partir del primer día hábil, luego de vencido el mesinmediatamente posterior a su publicaci.
+
+#### Artículo 7. Aprobaci del área de no admisi de petitorios mineros
+
+**7.1** Si la cuadrícula o conjunto de cuadrículas cuentan con área libre, se expide el Decreto Supremo correspondiente, indicando el plazo dentro del cual deben efectuarse los trabajos de prospecci y ordenando su transcripci a los Registros Plicos para su inscripci.
+
+**7.2** En caso la cuadrícula o conjunto de cuadrículas solicitadas por INGEMMET se encuentren superpuestas a petitorios o concesiones mineras prioritarias, el INGEMMET reduce el área solicitada.
+
+**7.3** En caso se advierta la existencia de otros petitorios o concesiones mineras en parte de la mismacuadrícula o conjunto de cuadrículas, se deben respetarlas áreas prioritarias, lo que debe constar en el Decreto Supremo que autoriza los trabajos de prospecci y en su inscripci correspondiente.
+
+#### Artículo 8. Tratamiento de los estudios de prospecci
+
+El Consejo Directivo del INGEMMET, bajo
+
+responsabilidad, adopta las medidas necesarias a fin
+
+que los resultados de los estudios de prospecci seanofrecidos en venta al plico por treinta (30) días calendario, antes de su publicaci de libre denunciabilidad, salvo que hubieran sido materia de encargo a PROINVERSIÓN.
+
+#### Artículo 9. Procedimiento respecto de la ANAP aprobada
+
+**9.1** Vencido el plazo otorgado para la realizaci de los trabajos de prospecci o culminados estos antes de dicho plazo, y cumplido el procedimiento selado en el numeral siguiente, las áreas concedidas deberán rematarse en plica subasta, dentro de los tres (03) meses siguientes, en cuadrículas de cien (100) hectáreas identificadas con coordenadas UTM WGS84, de conformidad con las normas contenidas en el capítulo V del presenteReglamento. Los recursos que se obtengan por el pagodel precio de las áreas subastadas constituirán recursos propios del INGEMMET para el mantenimiento del Sistema de Concesiones y Catastro Minero. Por el mérito del acta de adjudicaci, el adjudicatario podrá formular petitorios de concesi minera en el plazo de sesenta (60) días naturales, contado a partir de la suscripci del acta de adjudicaci. Vencido dicho plazo, las áreas sobre las que no se hubiere formulado petitorio serán publicadas de libre denunciabilidad. El petitorio se tramitará con arreglo a las normas aplicables al procedimiento.
+
+Las áreas que no fueron adjudicadas en plicasubasta, deben publicarse de libre denunciabilidad a fin que puedan ser peticionadas en el Sistema de Cuadrículas.
+
+**9.2** Para efectos de lo dispuesto en los literales a) y b) del artículo 25 de la LGM, debe observarse el siguiente procedimiento:
+
+9.2.1 Para la aplicaci del literal a) del artículo 25 de la LGM, el INGEMMET con una anticipaci de ocho
+
+(8) meses al vencimiento del plazo de prospecci o con anterioridad a este plazo si hubiera culminado los trabajos de prospecci, debe proporcionar toda la informaci a PROINVERSIÓN, sobre los trabajos de prospecciy estudios realizados en las áreas de no admisi de petitorios. PROINVERSIÓN puede solicitar en el plazo dequince (15) días calendario toda la informaci adicional en relaci a los trabajos de prospecci y estudiosrealizados, la cual INGEMMET deberá proporcionar en un plazo no mayor de quince (15) días calendario de presentada la solicitud.
+
+Recibida la informaci, PROINVERSIÓN la remite al Ministerio de Energía y Minas para que el proyectosea incorporado a su Informe Multianual de Inversiones
+
+– IMI. Ocurrido ello, PROINVERSIÓN determina en el plazo máximo de noventa (90) días calendario de recibida la comunicaci de su incorporaci al Informe Multianual de Inversiones – IMI y el Informe de Evaluaci correspondiente, si se encargará del respectivo proceso de promoci de la inversi privada, aprobándolo
+
+mediante acuerdo de su Consejo Directivo ratificado
+
+por Resoluci Suprema, refrendada por el Ministro/a
+
+de Energía y Minas y publicada en el Diario Oficial El
+
+Peruano. De no producirse el acuerdo y publicaci de su
+
+ratificación en dicho plazo o comunicar que el área no es
+
+de interés, INGEMMET procede a incluirlo en la relaci de la(s) área(s) de libre denunciabilidad en su debida oportunidad.
+
+9.2.2 Para la aplicaci del literal b) del artículo 25 de la LGM, PROINVERSIÓN presenta una solicitud al Ministerio de Energía y Minas con copia al INGEMMET, acompando el acuerdo de su Consejo Directivo. La evaluaci y determinaci del área se efect conforme lo regulado en la presente norma, tramitándose elcorrespondiente Decreto Supremo con el voto aprobatorio del Consejo de Ministros, refrendado por el Ministro/a de Energía y Minas.
+
+9.2.3 PROINVERSIÓN suscribe en representaci del Estado los contratos que se deriven de la ejecuci del proceso de promoci de la inversi privada en las áreas a que se refieren los literales a) y b) del artículo 25 de la LGM.
+
+9.2.4 Los contratos que se suscriban bajo el marcodel proceso de promoci de la inversi privada, enaplicaci de los literales a) y b) del artículo 25 de laLGM, deben incluir el derecho de exploraci del optante
+
+o adquirente en las áreas respectivas, el que debeejercerse conforme a los permisos y autorizaciones sobre la materia.
+
+9.2.5 La Direcci General de Minería, otorga lasautorizaciones de actividades de exploraci en estas áreas a los adquirentes u optantes, cumplidos losrequisitos aplicables.
+
+9.2.6 Para los efectos del otorgamiento de concesiones mineras sobre dichas áreas al ganador de labuena pro, basta la comunicaci que PROINVERSIÓN dirija al INGEMMET estableciendo los resultados de dicho proceso o, en su caso, el cumplimiento de lo establecido en el respectivo contrato, procediendo el INGEMMET a mérito de la referida comunicaci a otorgar lasconcesiones mineras a los adquirentes o a quienesejerzan la opci, previo pago por éstos del derecho de vigencia correspondiente al a en curso, del derecho de trámite y la presentaci de los respectivos petitorios en el formato vigente y conforme al Sistema de Cuadrículas oficializado por la Ley Nº 30428, Ley que oficializa el Sistema de Cuadrículas Mineras en Coordenadas UTM WGS84, teniéndose a la vista los correspondientesinformes técnico y legal. No se requiere la publicaci de carteles, sin perjuicio del respeto a derechos mineros prioritarios, lo que constará en el título, con el cual culmina el procedimiento administrativo especificado en el artículo 25 de la LGM; dicho acto no es recurrible, dando mérito a las inscripciones correspondientes en los RegistrosPlicos.
+
+9.2.7 En los casos selados en los literales a) y b)del artículo 25 de la LGM, PROINVERSIÓN comunica al INGEMMET y al Ministerio de Energía y Minas que no se suscribio se resolviel contrato de opci o detransferencia. El Ministerio de Energía y Minas por ica vez puede evaluar la decisi de encargar nuevamente a PROINVERSIÓN la incorporaci al proceso de promoci de la inversi privada, dentro del plazo de seis (6) meses siguientes a la comunicaci recibida; vencido el plazo sin que el Ministerio de Energía y Minas se pronuncie, el INGEMMET procede a publicar de libre denunciabilidad el área respectiva en el mes más primo a los previstos en el artículo 104 del Decreto Supremo Nº03-94-EM. La informaci obtenida por PROINVERSIONdurante el desarrollo del proceso de promoci debe ser entregada al INGEMMET.
+
+### Capítulo III — SISTEMA DE DERECHOS MINEROS Y CATASTRO – SIDEMCAT
+
+#### Artículo 10. Del Sistema de Derechos Mineros yCatastro – SIDEMCAT
+
+**10.1** El SIDEMCAT está a cargo de la Direcci de Catastro Minero del INGEMMET y se encuentra integrado por informaci de los derechos mineros, por el CatastroMinero Nacional, por el pre-catastro, por el catastrode áreas restringidas a la actividad minera y por lainformaci relativa al cumplimiento del pago del derecho de vigencia y su penalidad, entre otros.
+
+**10.2** El SIDEMCAT permite acceder a informaci
+
+en tiempo real, con la finalidad que el procedimiento
+
+administrativo minero responda a los principios de
+
+certeza, simplicidad, publicidad, uniformidad y eficiencia.
+
+#### Artículo 11. Administraci del SIDEMCAT
+
+**11.1** El INGEMMET administra el SIDEMCAT aprobando las directivas correspondientes para su organizaci, estandarizaci del software e interconexi con los Gobiernos Regionales.
+
+**11.2** Los términos y la regulaci de los procedimientos a seguir para el acceso, ingreso, actualizaci, mantenimiento y control de calidad del SIDEMCAT ymulos que lo conforman son igualmente normados a través de directivas que debe expedir el INGEMMET.
+
+**11.3** El INGEMMET en base a la informaci del SIDEMCAT, realiza la publicaci nacional de libre denunciabilidad o aviso de retiro seg corresponda de los petitorios y concesiones mineras del régimen general, de PPM y PMA; y elabora el Padr Minero Nacional.
+
+**11.4** El Gobierno Regional tiene acceso a la informaci contenida en el SIDEMCAT que corresponde a su Regi. So en base a dicha informaci emite los informes técnicos y legales que sustentan las resoluciones que expida en los procedimientos administrativos mineros a su cargo, en lo que respecta a la presente norma.
+
+#### Artículo 12. Contenido del SIDEMCAT
+
+El SIDEMCAT contiene datos gráficos y alfa numéricos de derechos mineros a nivel nacional, la imagen de los expedientes que se digitalicen, así como otros datos relevantes para la toma de decisiones en los procedimientos administrativos mineros, entre otros:
+
+**12.1** Datos alfanuméricos:
+
+a.
+
+Nombre y Cigo Único del derecho minero
+
+b.
+
+Sustancia
+
+c.
+
+Demarcaci política (distrito, provincia,departamento)
+
+d.
+
+Extensi
+
+e.
+
+Datos de la Carta Nacional
+
+f. Zona geográfica
+
+g.
+
+Coordenadas UTM del derecho minero referidas al datum WGS84
+
+h.
+
+Nombre del peticionario
+
+i.
+
+Condici del peticionario reportada por la autoridad
+
+que emite la calificación de PPM-PMA
+
+j. Registro de pagos de derecho de vigencia ypenalidad
+
+k. Registro de los Certificados de Devolución emitidos
+
+objeto de crédito.
+
+l. Registro de PPM y PMA, reportado por la autoridad
+
+que emite la calificación de PPM-PMA.
+
+**12.2** Datos gráficos:
+
+a. Demarcaci regional en cuadrículas.
+
+b. Cuadrículas que se ubican en dos (2) o máscircunscripciones regionales y porcentaje de ubicaci.
+
+c. Carta Nacional elaborada por el Instituto Geográfico
+
+Nacional (IGN).
+
+#### Artículo 13. Sustento de la informaci del SIDEMCAT
+
+**13.1** La informaci que contiene el SIDEMCAT, se sustenta en los expedientes administrativos de formaci de título de las concesiones mineras, de beneficio, labor general y transporte minero, así como los expedientes de derecho de vigencia y penalidad y otros cuya informaci sea recogida en el SIDEMCAT.
+
+**13.2** Asimismo, contiene informacin del registro de pagos del derecho de vigencia y penalidad, registro de los Certificados de Devolución que sean objeto de crédito y aquella relacionada a la administraci del derecho de vigencia y penalidad.
+
+**13.3** Adicional y diferenciadamente contiene informaci proporcionada por otras entidades plicas, advirtiendo en su caso el carácter referencial.
+
+**13.4** La informacin de titularidad de los petitorios yconcesiones mineras del SIDEMCAT es referencial y debe ser verificada en los Registros Públicos, prevaleciendo esta tima.
+
+**13.5** Las entidades generadoras de la informaci que contiene el SIDEMCAT, deben proporcionarla en la forma que se establezca mediante Directivas que expida el INGEMMET.
+
+#### Artículo 14. Acceso a la informaci del SIDEMCAT
+
+Los administrados acceden a la informaci de los derechos mineros a través del SIDEMCAT.
+
+#### Artículo 15. Remisi de la copia de resoluciones
+
+de títulos, extinciones, modificaciones y otros,
+
+emitidos por los Gobiernos Regionales a la Direcci de Catastro Minero
+
+Adicionalmente al ingreso de informaci en elSIDEMCAT, el Gobierno Regional debe remitir por correo electrico o cualquier otro medio digital a la Direcci de Catastro Minero del INGEMMET, lo siguiente:
+
+**15.1** Copia de las Resoluciones y certificados de consentimiento de títulos de concesin minera, divisiones, acumulaciones, renuncia parcial y extinciones declaradas, dentro de la primera quincena del mes siguiente de su consentimiento.
+
+**15.2** Copia de las Resoluciones que modifiquenla extensi de área de los derechos mineros bajosu jurisdicci, dentro de la semana siguiente a suexpedici.
+
+### Capítulo IV — PROCEDIMIENTO ORDINARIO PARA CONCESIONES MINERAS
+
+#### Artículo 16. Determinaci de competencias en
+
+base a la constancia o calificación del administrado al
+
+inicio del procedimiento
+
+**16.1** Es requisito para la presentaci de petitoriosde concesi minera, así como para el inicio de losprocedimientos de competencia del Gobierno Regional,selados en la presente norma, que el administrado cuente con la constancia de PPM o PMA, vigente,expedida por la Direcci General de FormalizaciMinera.
+
+**16.2** En caso de pluralidad de peticionarios, si uno
+
+de ellos no se encuentra calificado como PPM o PMA y
+
+no ree las condiciones del artículo 91 de la LGM, el petitorio debe ser presentado ante el INGEMMET.
+
+**16.3** Los administrados sujetos al régimen general,deben presentar sus petitorios de concesi minera ante cualquiera de las mesas de partes del INGEMMET.
+
+**16.4** Si en el transcurso del trámite de un procedimientoiniciado por un PPM o PMA, éste pierde dicha condici, el Gobierno Regional contin conociendo del trámite hasta su culminaci.
+
+**16.5** Si en el transcurso del trámite iniciado en el INGEMMET, el solicitante adquiere la condici de PPM o PMA, el INGEMMET contin conociendo del trámite hasta su culminaci.
+
+#### Artículo 17. Competencia en caso de administrado no acreditado como PPM o PMA pero que rea las condiciones del artículo 91 de la LGM
+
+**17.1** Únicamente el administrado que ree las condiciones del artículo 91 de la LGM y que además no se encuentra acreditado como PPM o PMA, puede ejercer la opci de presentar sus petitorios de concesi mineraal Gobierno Regional o al INGEMMET determinando así la competencia de la autoridad respecto de cada petitorio que presente, conforme a las reglas seladas en el presente artículo
+
+**17.2** La verificación de las condiciones del artículo 91 de la LGM, es efectuada por el Gobierno Regional conforme lo establece el presente Reglamento.
+
+**17.3** Si en el transcurso del trámite del petitorio deconcesi minera presentado ante el Gobierno Regional, el administrado deja de reunir las condiciones del artículo91 de la LGM, el Gobierno Regional contin conociendo del trámite de dicho petitorio hasta su culminaci.
+
+#### Artículo 18. Determinaci de competenciaterritorial para petitorios ubicados en dos (2) o más jurisdicciones de gobiernos regionales
+
+**18.1** Si un petitorio de concesi minera se ubica entre dos o más regiones, es competente el Gobierno Regional donde se ubica la mayor parte del área, de acuerdoa la Cartografía Digital Censal elaborada por el INEI. Igual regla se aplica para el inicio de los procedimientos mineros a cargo del Gobierno Regional como integrante del SIDEMCAT que establece el presente Reglamento, que sean de competencia regional.
+
+**18.2** El INGEMMET identifica en el SIDEMCAT
+
+las cuadrículas que se ubican en dos (2) o más
+
+circunscripciones regionales, identificando además al
+
+Gobierno Regional competente sobre cada cuadrícula, en funci a donde se ubique la mayor parte de la cuadrícula
+
+o área, de acuerdo a la Cartografía Digital Censal elaborada por el INEI.
+
+#### Artículo 19. Funciones del Gobierno Regionalcomo integrante del SIDEMCAT
+
+Las funciones del Gobierno Regional como integrantedel SIDEMCAT y de acuerdo a las reglas de competencia establecidas en el presente Reglamento, son las siguientes:
+
+a.
+
+Tramitar y expedir resoluciones conforme a ley en el proceso relativo a los petitorios de concesi mineraformulados.
+
+b.
+
+Tramitar y resolver sobre los recursos de oposici a la solicitud de petitorio de concesi minera, bajo su competencia.
+
+c.
+
+Tramitar y resolver sobre simultaneidad, remates, cambio de nombre, cambio de sustancia, sustituci, fraccionamiento, reducci, renuncia parcial o total de losderechos mineros.
+
+d. Constituir sociedades legales.
+
+e.
+
+Declarar el abandono, cancelaci, rechazo, inadmisibilidad, nulidad y caducidad de los petitorios, así como la extinci por causal establecida por Ley.
+
+f. Otorgar el título de las concesiones mineras.
+
+g.
+
+Declarar la caducidad y nulidad de concesiones mineras, así como la extinci por causal establecida por ley.
+
+h.
+
+Tramitar y resolver sobre la renuncia, cambio de sustancia, acumulaci y divisi.
+
+i.
+
+Tramitar y resolver las denuncias por internamiento que presenten PPM o PMA.
+
+j.
+
+Informar a la Direcci General de Minería sobre las infracciones que cometan los Peritos nominados, en el ejercicio de la funci.
+
+k. Informar a la Direcci General de Formalizaci
+
+Minera y al INGEMMET, sobre el uso indebido de las Constancias de PPM y PMA.
+
+l. Ingresar al SIDEMCAT del INGEMMET la informaci contenida en el petitorio de concesi minera, la generada por la expedici de resoluciones y la informacique corresponda, de acuerdo a las disposiciones de la presente norma y directivas que expida el INGEMMET.
+
+m. Llevar los Registros de Ingreso de Petitorios e Ingreso de escritos y recursos.
+
+n. Publicar en el Diario Oficial El Peruano la relación de concesiones mineras cuyos títulos hubiera aprobado el mes anterior.
+
+o.
+
+Conceder los recursos impugnativos en los procedimientos que son de su competencia.
+
+p.
+
+Ejercer las atribuciones que expresamente le sean asignadas.
+
+#### Artículo 20. Presentaci de petitorios de concesi minera
+
+**20.1** Las sedes de los Gobiernos Regionales quereciban y tramiten los petitorios de concesi minera deben estar interconectadas al SIDEMCAT.
+
+**20.2** Los petitorios presentados ante Mesa de Partes del INGEMMET y de los Gobiernos Regionales, deben ser ingresados obligatoriamente al SIDEMCAT, para generar:
+
+a.
+
+El Cigo Único de Petitorio Minero.
+
+b.
+
+La constancia o cargo de su recepci; y,
+
+c. La foja diaria correspondiente al Registro de Ingreso de Petitorios.
+
+**20.3** La generaci del Cigo Único de Petitorio, determina la fecha, hora de presentaci y sirve para establecer la prioridad del petitorio de concesi minera, siendo requisito para su existencia; se realiza en el SIDEMCAT, por la Mesa de Partes de la Oficina respectiva.
+
+**20.4** La solicitud del petitorio de concesi minera recibida por el Gobierno Regional, en el día de su presentaci debe ser escaneada y las imágenes de cada uno de sus folios ingresadas al SIDEMCAT o remitir las copias al INGEMMET por correo electrico, fax o cualquier otro medio digital, bajo responsabilidad, con la finalidad de verificar los datos consignados en el SIDEMCAT e ingresarlos al Sistema de Cuadrículas.
+
+**20.5** La Direcci de Catastro Minero del INGEMMET
+
+genera un reporte de graficación en el Sistema de
+
+Cuadrículas, seg corresponda y además un planocatastral minero y de áreas restringidas a la fecha de formulaci del petitorio minero, el cual forma parte delexpediente, remitiéndolos a la Direcci de Concesiones Mineras o al Gobierno Regional competente para suanexado y pronunciamiento que corresponda respecto de cada una de las superposiciones advertidas.
+
+#### Artículo 21. Cigo ico de petitorios de concesi minera
+
+**21.1** El cigo ico de petitorio de concesiminera está conformado por un conjunto de letras y/oneros cuyos dos (2) primeros dígitos corresponden a la identificación del Gobierno Regional, los cinco (5)siguientes a neros correlativos empezando del 00001 y los dos (2) timos al a calendario.
+
+**21.2** Los dos primeros dígitos del cigo icode petitorio de concesi minera para cada Gobierno Regional son los siguientes:
+
+GOBIERNO REGIONAL (2) PRIMEROS DÍGITOS
+
+AMAZONAS  51
+
+ANCASH  52
+
+APURÍMAC  53
+
+AREQUIPA  54
+
+AYACUCHO  55
+
+CAJAMARCA  56
+
+CALLAO  57
+
+CUSCO  58
+
+HUANCAVELICA  59
+
+HUÁNUCO  60
+
+ICA  61
+
+JUNÍN  62
+
+LA LIBERTAD  63
+
+LAMBAYEQUE  64
+
+LIMA  65
+
+LORETO  66
+
+MADRE DE DIOS  67
+
+MOQUEGUA  68
+
+PASCO  69
+
+PIURA  70
+
+PUNO  71
+
+SAN MARTÍN  72
+
+TACNA  73
+
+TUMBES  74
+
+UCAYALI  75
+
+LIMA METROPOLITANA  76
+
+#### Artículo 22. Registro de ingreso de petitorios de concesi minera
+
+**22.1** El INGEMMET y los Gobiernos Regionalesdeben llevar un Registro de Ingreso de Petitorios en elSIDEMCAT para efectos de determinar la prioridad en la presentaci de petitorios de concesi minera.
+
+**22.2** La recepcin de los petitorios de concesi minera se efect en estricto orden de llegada de los administrados a las Oficinas respectivas.
+
+**22.3** Si antes de iniciarse las actividades en las
+
+oficinas del INGEMMETo del Gobierno Regional, hubiere
+
+dos (2) o más personas solicitando petitorios de concesi minera, el encargado de la Mesa de Partes les asigna a todos ellos la misma fecha y la hora inicial de recepci de petitorios, en el SIDEMCAT.
+
+**22.4** Las horas hábiles para la recepci de petitoriosen el ámbito nacional y regional son de 08:15 a 16:30 horas.
+
+#### Artículo 23. Generaci de cigo ico de petitorio de concesi minera
+
+Al recibir los petitorios de concesiones mineras los encargados de la Mesa de Partes del INGEMMET y de los Gobiernos Regionales deben ingresar al SIDEMCAT y generar el cigo ico de petitorio de concesi minera, aun en los casos en que, de la lectura de la solicitud o de la revisi de la documentaci, se desprenda que se ha incurrido en error u omisi de alguno de los requisitosselados en la LGM el presente Reglamento.
+
+#### Artículo 24. Comprobaci de la vigencia de la constancia de PPM o PMA
+
+Recibido el petitorio de concesi minera o la solicitud para iniciar un procedimiento administrativo minero, el INGEMMETo Gobierno Regional verifica la vigencia de la Constancia de PPM o PMA del administrado y, en su caso, de cada uno de los administrados, para lo cual accedeal SIDEMCAT. El reporte de comprobaci generado a la fecha de presentaci debe ser agregado al expediente.
+
+#### Artículo 25. Verificación de los supuestos del
+
+artículo 91 de la LGM
+
+**25.1** Recibido el petitorio de concesi minera, el
+
+Gobierno Regional verifica que el administrado y, en su
+
+caso, cada uno de los administrados, se encuentren en los supuestos del artículo 91 de la LGM.
+
+**25.2** Con tal objeto el Gobierno Regional debe acceder al SIDEMCAT y generar los siguientes reportes de verificación a la fecha de presentación, los cuales son agregados al expediente:
+
+a. El reporte de verificación de titulares y extensión de derechos que contiene la informaci con quecuenta el INGEMMET, la cual se actualiza en base a las comunicaciones que recibe de los Registros Plicos. Si el solicitante es una persona jurídica, debe presentar una Declaraci Jurada selando que se encuentraconformada seg el numeral 1 del artículo 91 de la LGM.
+
+b. El reporte de verificación de la capacidad instalada de producción y/o beneficio, que determina si cada
+
+administrado se encuentra o no dentro del rango de PPM
+
+o PMA. Este reporte contiene la informaci y parámetros que establece la Direcci General de Minería y queingresa al SIDEMCAT para su expedici.
+
+**25.3** Si a la fecha de presentaci del petitorio de concesi minera ante el Gobierno Regional, el administrado y, en su caso, cada uno de los administrados no se encuentran en los supuestos del artículo 91 de laLGM se declara el rechazo del petitorio.
+
+#### Artículo 26. Rechazo
+
+La Direcci de Concesiones Mineras del INGEMMET
+
+o el Gobierno Regional, seg corresponda, rechaza los petitorios de concesiones mineras en los que:
+
+a) Se haya omitido adjuntar la copia de la constanciade pago del derecho de vigencia efectuado en las instituciones financieras privadas autorizadas.
+
+b)
+
+El pago en soles por derecho de vigencia sea menor al 95% de lo que corresponda pagar.
+
+c)
+
+El pago en dares americanos por derecho devigencia se haya efectuado en forma incompleta.
+
+d) Se haya omitido indicar la fecha y nero de la constancia de pago por derecho de trámite realizado ante la propia entidad, o dichos datos sean inexistentes o se haya omitido adjuntar la copia de la constancia de su pago en las instituciones financieras autorizadas.
+
+e)
+
+Se peticionen cuadrículas fuera de las que correspondea la circunscripci regional conforme al SIDEMCAT. Siuna o más cuadrículas del petitorio de concesi minerasolicitado se ubican fuera de la circunscripci regionaldonde se ha presentado, se procede a declarar el rechazode dichas cuadrículas, prosiguiéndose el trámite respecto delas demás cuadrículas.
+
+f) Se haya omitido indicar el número del certificado de
+
+devoluci o el nero sea inexistente
+
+g) Si a la fecha de presentaci del petitorio de concesi minera ante el Gobierno Regional, el administrado y, en su caso, cada uno de los administrados no cuenta con calificación de PPM o PMA o no reúne las condiciones del artículo 91 de la LGM
+
+Los petitorios de concesi minera que adolecen de alguna omisi o defecto, con excepci de los incursos en las causales de inadmisibilidad o rechazo, pueden ser subsanados dentro del plazo de diez (10) días hábiles, previa notificación, bajo apercibimiento de rechazo.
+
+#### Artículo 27. Inadmisibilidad
+
+Son declarados inadmisibles por la Direcci deConcesiones Mineras del INGEMMET o el Gobierno Regional seg corresponda, y no son ingresados al Sistema de Cuadrículas o se retiran de él, seg seael caso y se extingue, sin constituir antecedente o títulopara la formulaci de otros, los petitorios de concesiones mineras en los que:
+
+a)
+
+No se hubieran consignado las coordenadas UTM WGS84 correspondiente del área solicitada.
+
+b) No se hubiera identificado correctamente la cuadrícula o de la poligonal cerrada del conjunto decuadrículas por error en las coordenadas UTM WGS84.
+
+c)
+
+Exista falta de colindancia por un lado dentro del conjunto de cuadrículas solicitadas.
+
+d) Se exceda el área máxima establecida por la LGM.
+
+e)
+
+El petitorio se ha formulado sin cumplir con loestablecido por los artículos 65 y 68 de la LGM.
+
+f)
+
+Sean peticionados por extranjeros en zona de frontera cuya solicitud de autorizaci ante la Direcci General de Minería sea expresamente desaprobada o que, transcurridos seis (6) meses de dicha solicitud, se acojan al silencio negativo y consideren su solicitud como denegada y consentida o se apruebe el desistimiento de su solicitud.
+
+g)
+
+Sean formulados en áreas de no admisi de petitorios. La inadmisibilidad y archivo corresponde a las cuadrículas superpuestas totalmente o parcialmente al área suspendida.
+
+h)
+
+Sean formulados en área urbana, conforme al artículo 3 del Decreto Supremo Nº 008-2002­
+
+EM, Reglamento de la Ley Especial que Regula elOtorgamiento de Concesiones Mineras en Áreas Urbanas y de Expansi Urbana.
+
+#### Artículo 28. Petitorio de concesi minera en zona de frontera y en franja de traslape
+
+Por excepci, en los casos en que por razones de frontera o en las franjas de traslape en las zonas 17, 18 y 19 de la Carta Nacional quede un espacio libre de forma y extensi que no permita establecer la unidad básica de medida superficial de la concesión minera a que se refiere el artículo 11 de la LGM, pueden solicitarse áreas menores o mayores de cien (100) hectáreas, cuya formapuede ser de una poligonal cerrada.
+
+#### Artículo 29. Determinaci del pago en monedanacional
+
+El pago del derecho de vigencia en moneda nacional se determina utilizando el tipo de cambio venta correspondiente al timo día hábil anterior a la fecha de pago que publique la SBS en el Diario Oficial "El Peruano".
+
+#### Artículo 30. Requisitos del petitorio de concesiminera
+
+**30.1** El petitorio se presenta por escrito en original y una copia (cargo del administrado), selándose lo siguiente:
+
+a. Datos generales del solicitante: nombres, apellidos, nacionalidad, estado civil, domicilio, nero del Documento Nacional de Identidad o Carné de Extranjería, Registro Único de Contribuyente - RUC y el correoelectrico, así como los nombres, apellidos, nero del Documento Nacional de Identidad o Carné de Extranjería y nacionalidad del cyuge, de ser el caso.
+
+Si el petitorio fuere formulado por dos (2) o más personas,se indica además, sus porcentajes de participaci quesumen el 100%, los nombres, apellidos, domicilio, nerodel Documento Nacional de Identidad o Carné de Extranjeríay Registro Único de Contribuyente - RUC del apoderadocom, con quien el INGEMMET o Gobierno Regionalcompetente se entenderá durante la tramitaci del petitorio.
+
+Si el petitorio fuere formulado por una persona jurídica, se sela adicionalmente el nero de la partida registral y oficina registral donde conste inscrita, los datos de su representante legal o apoderado, incluyendo su correo electrico y el asiento registral de inscripci de su designaci.
+
+En el caso que la persona jurídica a no se encuentre
+
+inscrita en la SUNARP, debe señalar la oficina registral, el
+
+a y nero de título de la presentaci de la escritura plica de constituci.
+
+Si el peticionario fuera una persona jurídica y el petitorio se encuentra dentro de los cincuenta (50) kiletros dela frontera, debe acompar, además, una Declaraci Jurada indicando que está compuesta icamente porperuanos, incluyendo sus cyuges.
+
+El domicilio selado debe estar dentro de la capital de la provincia, de Lima o de las sedes de los ganosdesconcentrados, cuando se presente el petitorio alINGEMMET, o de la sede del Gobierno Regional cuando se presente ante dicha entidad.
+
+b. Nombre del petitorio;
+
+c.
+
+Distrito, provincia y departamento donde seencuentra ubicado el petitorio;
+
+d.
+
+Clase de concesi, seg se trate de sustanciasmetálicas o no metálicas;
+
+e. Identificación de la cuadrícula o conjunto de cuadrículas colindantes al menos, por un lado, o de lapoligonal cerrada, en coordenadas UTM WGS84 y zona.
+
+f. Extensión superficial del área solicitada, expresada
+
+en hectáreas;
+
+g. Fecha y nero de la constancia de pago porderecho de trámite realizado ante la propia entidad o presentar la copia de la constancia de pago del derecho de tramitación realizado en las instituciones financieras autorizadas. Las verificaciones inmediatas son efectuadas por la oficina de administración.
+
+h. Nero de la constancia expedida por la Direcci General de Formalizaci Minera o presentar la copia
+
+de la Resolución de calificación de pequeño productor
+
+minero o productor minero artesanal, de ser el caso.
+
+i. Indicar el nero del Asiento y/o Partida Registral donde obra la inscripci registral de la persona jurídica y la vigencia y alcances del poder de su representante legal
+
+o apoderado, de ser el caso.
+
+j. Número de Certificado de Devolución de Derecho de Vigencia, fecha de caducidad y titular, si el pago de derecho de vigencia se efect por dicho medio.
+
+La verificación inmediata es efectuada por la Dirección
+
+de Derecho de Vigencia del INGEMMET.
+
+**30.2** A la solicitud debe acomparse los siguientes documentos:
+
+a. Copia de la constancia de pago del derecho de vigencia en las cuentas autorizadas por INGEMMET, correspondiente al primer año. La verificación inmediata es efectuada por INGEMMET.
+
+b.
+
+Si la persona jurídica a no se encuentra inscrita,se debe adjuntar copia del cargo de presentaci de la escritura plica de constituci en la que conste la fecha de ingreso al Registro, la cual debe ser de fecha y hora anterior a la presentaci del petitorio.
+
+c.
+
+Copia del carné de extranjería de cada uno de lospeticionarios o representantes, de corresponder y en su caso del apoderado com.
+
+d. La autorización con firma del(los) titular (es) del Certificado de Devolución, si este fuera de un tercero.
+
+e.
+
+Declaraci jurada del peticionario indicando quela persona jurídica está compuesta icamente porperuanos, incluyendo sus cyuges, en caso el petitorio se encuentra dentro de los cincuenta (50) kiletros dela frontera.
+
+f.
+
+Compromiso previo en forma de Declaraci Jurada del peticionario, la cual integra la solicitud de petitorio,mediante el cual se compromete a procurar:
+
+i) Enfoque de Desarrollo Sostenible
+
+Contribuir al desarrollo sostenible de la poblaci
+
+ubicada en el área de influencia de la actividad minera,
+
+procurando de manera conjunta con ella, el desarrollo y el fortalecimiento de la institucionalidad local, principalmente y la articulaci con los proyectos de desarrollo
+
+productivo, que conlleven a la diversificación económica
+
+y la sostenibilidad local más allá de la vida il de las actividades mineras.
+
+ii) Excelencia Ambiental y Social
+
+Realizar las actividades mineras en el marco de la política ambiental del Estado, en su interdependencia con el entorno social, buscando la gesti social y ambiental con excelencia y el uso y manejo responsable de los recursos naturales para impulsar el desarrollo sostenible.
+
+iii) Cumplimiento de Acuerdos
+
+Cumplir con los compromisos sociales asumidos enconvenios, actas, contratos y estudios ambientales.
+
+iv) Relacionamiento Responsable
+
+Respetar a las personas e instituciones, autoridades, cultura y costumbres locales. Promover acciones quefortalezcan la confianza entre los actores involucrados con la actividad minera, a través del establecimiento yvigencia de procesos participativos y favoreciéndosela prevención y gestión de conflictos y la utilización de mecanismos alternativos de solución de conflictos.
+
+v) Empleo Local
+
+Fomentar preferentemente la contrataci de personal local, para realizar labores de la actividad minera o relacionada con la misma, seg los requerimientos del titular en las diversas etapas del ciclo minero, pudiendobrindar para el efecto las oportunidades de capacitaci requeridas.
+
+vi) Desarrollo Econico
+
+Contribuir al desarrollo econico local y/o regional a través de la adquisici preferente de bienes y servicios locales y/o regionales en condiciones razonables de calidad, oportunidad y precio para ambas partes, y la promoci de iniciativas empresariales que busquen la
+
+diversificación de las actividades económicas de la zona.
+
+vii) Diálogo Continuo
+
+Mantener un diálogo continuo y oportuno con las autoridades regionales y locales, la poblaci del área de influencia de la actividad minera y sus organismosrepresentativos, bajo un enfoque intercultural, proporcionándoles informaci transparente, oportuna y accesible sobre sus actividades mineras mediante el lenguaje y los medios de comunicaci adecuados, de modo que permita el intercambio de opiniones,manifestaci de sugerencias y participaci de todos los actores involucrados, de conformidad con las normas de participaci ciudadana aplicables.
+
+**30.3** El enunciado de los principios no responde a un orden jerárquico, destacando su interrelaci ycomplementariedad, así como su integralidad para procurar alcanzar el desarrollo sostenible de las poblaciones de las áreas de influencia mineras, los cuales son incorporados en medidas concretas en la certificación ambiental respectiva.
+
+#### Artículo 31. Presentaci y trámite del petitorio de concesi minera
+
+**31.1** El procedimiento es de evaluaci previa ysujeto a silencio administrativo negativo, con un plazode treinta y siete (37) días hábiles de presentada lasolicitud.
+
+**31.2** Si el petitorio ree los requisitos exigidos por el presente Reglamento, la Direcci de Concesiones Mineras o el Gobierno Regional competente, dentro del plazo de siete (07) días hábiles siguientes a la presentaci del petitorio notifica al peticionario adjuntando los avisos para su publicaci.
+
+**31.3** La publicaci debe realizarse dentro de los treinta (30) días hábiles siguientes a la fecha de notificación del aviso correspondiente. Dentro de los sesenta (60) días calendario siguientes a la fecha de publicaci, el administrado debe entregar las páginas enteras en las que conste la publicaci de los avisos al INGEMMET o Gobierno Regional que tiene a su cargo el procedimiento.
+
+**31.4** Dentro de los treinta (30) días hábiles siguientesa la recepci de la publicaci de los avisos, de nomediar oposici a la solicitud de concesi minera, laDirecci de Concesiones Mineras del INGEMMET o el Gobierno Regional competente, emite los dictámenestécnico y legal correspondientes, y eleva el expedientepara el otorgamiento del título de concesi minera.
+
+**31.5** El Presidente Ejecutivo del INGEMMET o el Gobierno Regional competente en su caso, con los dictámenes técnico y legal favorables, otorga el títulode la concesi minera, no antes de treinta (30) díascalendario de efectuada la tima publicaci del aviso de petitorio minero. La Resoluci expedida de título debe ser notificada al peticionario.
+
+#### Artículo 32. Reducci y cancelaci del petitoriode concesi minera
+
+Conforme a los artículos 64, 114 y 120 de la LGM:
+
+**32.1** Si durante la tramitaci de un petitorio deconcesi minera se advirtiese que se superponeparcialmente sobre otro anterior, la Direcci de Concesiones Mineras del INGEMMET o Gobierno Regional comunica al peticionario la reducci de su pedimento o el respeto del área del petitorio o la concesi minera anterior.
+
+**32.2** Si la superposici fuera total, se ordena la cancelaci del petitorio.
+
+**32.3** Para fines del artículo 14 de la LGM, en el caso de petitorios de concesiones mineras por sustancias no metálicas, la informaci sobre superposici a tierras rticas de uso agrícola debe obtenerse del Sistema deInformaci Catastral Rural – SICAR. Si la superposicifuera parcial a dichas áreas se ordena el respeto, y si fuera total se procede a la cancelaci de la(s) cuadrícula(s)correspondiente(s).
+
+#### Artículo 33. Publicación de avisos y notificación
+
+de advertencias
+
+**33.1** Todos los petitorios de concesiones mineras
+
+deben publicarse por una sola vez en el Diario Oficial "El
+
+Peruano'' y en el diario encargado de la publicaci de los avisos judiciales de la capital del departamento en donde se ubica el área solicitada. De ubicarse el petitorio en más de un departamento, la publicaci debe realizarse so en el departamento donde está la mayor área del petitorio.
+
+**33.2** El diario encargado de la publicaci de los avisos judiciales de la capital del departamento, mantiene su vigencia y validez para que el peticionario efect la publicaci en el diario indicado. Toda variaci del diario, comunicada por la Corte Superior a INGEMMET operapara los avisos que se expidan después de recibida dicha comunicaci. Los petitorios de concesiones minerasubicadas en el departamento de Lima se publicanúnicamente en el Diario Oficial "El Peruano".
+
+**33.3** Las publicaciones deben contener la siguienteinformaci: Nombre y cigo del petitorio, titular, zona, coordenadas UTM WGS84 de los vértices de la cuadrícula
+
+o conjunto de cuadrículas solicitadas, extensi, departamento, provincia y distrito donde se ubica, fechay hora de presentaci.
+
+**33.4** Simultáneamente a la notificación al peticionario,
+
+la Direcci de Concesiones Mineras procederá a la
+
+notificación de la advertencia de superposición parcial
+
+sobre el nuevo petitorio de concesi minera a lostitulares de petitorios o concesiones mineras anteriores cuyas áreas se encuentren ubicadas en parte de lamisma cuadrícula o conjunto de cuadrículas peticionadas,regulada en el artículo 121 de la LGM.
+
+#### Artículo 34. Abandono
+
+El abandono debe ser declarado por el INGEMMET
+
+o Gobierno Regional. Para tal efecto, verificado el
+
+incumplimiento de los plazos selados en las normas del procedimiento aplicable al título en formaci, se remite el expediente al superior jerárquico con el proyecto de Resoluci respectiva, de ser el caso.
+
+#### Artículo 35. Respeto de área y extensi mínima disponible
+
+**35.1** Para efectos del artículo 12 de la LGM, las áreas de los derechos mineros formulados al amparo de legislaciones anteriores a la Ley que oficializa el Sistema de Cuadrículas Mineras en Coordenadas UTM WGS84, Ley Nº 30428, deben ser respetadas obligatoriamente por las concesiones mineras que se soliciten bajo el sistema de cuadrículas UTM WGS84. En los títulos de estas timas se deben consignar las coordenadas UTM PSAD 56 de los vértices que definen el área a respetar, además del nombre, cigo ico y extensi en hectáreas de los derechos mineros prioritarios.
+
+**35.2** No se otorgan títulos de concesi minera cuando el área disponible en la cuadrícula, a la fecha de su formulaci, sea menor a una (01) hectárea,procediéndose a su cancelaci.
+
+#### Artículo 36. Obligaci de respeto
+
+**36.1** En caso de petitorios cuyas cuadrículas comprenden terrenos ocupados por monumentos arqueolicos
+
+o histicos, proyectos hidroenergéticos e hidráulicos establecidos por normas nacionales, Red Vial Nacional,oleoductos, gasoductos, poliductos, cuarteles, puertos u obras de defensa nacional o Instituciones del Estado con
+
+fines de investigación científico -tecnológico, en el título de
+
+concesi se indica la obligaci de respetar la integridad delas referidas construcciones e instalaciones.
+
+**36.2** El trazo de los ductos de proyectos energéticosy de hidrocarburos debe ser puesto a consideraci del Ministerio de Energía y Minas, adjuntando el estudio o informe técnico sustentatorio con el plano que indique las coordenadas UTM WGS84 de la poligonal del trazo, el cual es aprobada por Resoluci Ministerial, incorporándose dichas coordenadas en el Catastro Minero Nacional.
+
+**36.3** Las cuadriculas de los petitorios mineros que seformulen a partir de la publicaci de la citada Resoluci
+
+Ministerial en el Diario Oficial El Peruano, que se
+
+superpongan a dichas áreas, son inadmisibles.
+
+**36.4** Los petitorios que se encuentren en trámite a la publicaci de la Resoluci Ministerial de noadmisibilidad de petitorios, deben respetar dichas áreas.
+
+**36.5** Una vez precisado el trazo definitivo del ducto, porResoluci Ministerial del Ministerio de Energía y Minas se levanta la no admisi de petitorios; estas áreas puedenpeticionarse a partir del primer día hábil, luego de vencidoel mes inmediatamente posterior a la publicaci de dichaResolución. El ducto y su trazo definitivo deben ser puestosen conocimiento del INGEMMET y respetado de plenoderecho por las concesiones mineras que se otorguen,debiendo además constar dicha afectaci en sus títulos.
+
+#### Artículo 37. Contenido del título de concesi minera
+
+**37.1** El título de la concesi minera debe contener el cigo ico, nombre del derecho, fecha y hora de formulaci,hectáreas, sustancia, titular, distrito, provincia, departamento y, en su caso, la identificación de las áreas de los petitorios o concesiones mineras anteriores con coordenadas UTM PSAD 56, que deben ser respetadas por el nuevo concesionario, lascuales no integran la concesi minera.
+
+**37.2** El título de concesi minera otorga a su titular el derecho al aprovechamiento de los recursos naturales concedidos, conforme al artículo 19 de la Ley Nº 26821, Ley Orgánica para el Aprovechamiento Sostenible de los Recursos Naturales.
+
+Para iniciar y/o realizar actividades mineras de exploraci y/o explotaci el concesionario debe obtener previamente la autorizaci de actividades respectiva,conforme lo regula el presente Reglamento.
+
+**37.3** El título de concesi no autoriza por sí mismo a realizar las actividades mineras de exploraci ni explotaci, sino que previamente el concesionario debe:
+
+a. Contar con la certificación ambiental emitida por la
+
+autoridad ambiental competente.
+
+b. Gestionar la aprobaci del Ministerio de Cultura de
+
+las declaraciones, autorizaciones o certificados que son
+
+necesarios para el ejercicio de las actividades mineras.
+
+c. Obtener el permiso para la utilizaci de tierras mediante acuerdo previo con el titular del predio o laculminaci del procedimiento de servidumbre.
+
+d. Obtener la autorizaci de actividades de exploraci
+
+o explotaci de la Direcci General de Minería o delGobierno Regional correspondiente, entre otros.
+
+Esta precisi debe constar en el título de la concesi minera.
+
+#### Artículo 38. Contenido de la publicaci del título de concesi
+
+Para efectos de lo dispuesto en el artículo 124 de la LGM, el INGEMMET o el Gobierno Regional competente, bajo responsabilidad, dentro de los primeros quince (15) días calendario de cada mes, publica en el Diario Oficial "El Peruano''la relación de las concesiones mineras cuyos títulos hubieren sido otorgados durante el mes inmediato anterior. Dicha relaci contiene la siguiente informaci:
+
+a.
+
+Nombre de la concesi minera;
+
+b.
+
+Cigo Único;
+
+c.
+
+Nombres y apellidos o denominaci social del titular;
+
+d.
+
+Coordenadas UTM WGS84 precisando el sistema geodésico de la concesi otorgada;
+
+e.
+
+Cigo y nombre de los petitorios o concesiones mineras, cuyo respeto se hubiera consignado en el título.
+
+f.
+
+Nero y fecha de la Resoluci de otorgamiento del título.
+
+CAPÍTULO V REMATE DE ÁREAS SIMULTÁNEAS Artículo 39.- Simultaneidad
+
+**39.1** Si se presentan petitorios de concesiones mineras simultáneos sobre la misma cuadrícula o conjunto de cuadrículas en el mismo día y hora, se remata el área superpuesta entre los peticionarios, para lo cual
+
+se debe notificar a todos ellos, convocándolos al remate
+
+del área, con una anticipaci de no menor de cinco (5) días hábiles.
+
+**39.2** Si todos los petitorios de concesiones mineras simultáneos corresponden a PPM y/o PMA, el trámite de simultaneidad y su soluci se encuentra a cargo delGobierno Regional respectivo.
+
+**39.3** Si todos los petitorios de concesiones mineras simultáneos corresponden al régimen general, el trámite de simultaneidad y su soluci se encuentra a cargo delINGEMMET.
+
+**39.4** Si los petitorios de concesiones mineras simultáneos corresponden a PPM y/o PMA y a peticionarios del régimen general, el trámite de simultaneidad y susoluci se encuentra a cargo del INGEMMET.
+
+**39.5** El Director de Concesiones Mineras para cadacaso y en forma expresa, puede delegar en todo o en parte, las actuaciones que correspondan ejecutar para llevar a cabo el acto de remate.
+
+**39.6** Si se dispusiera la concurrencia de los peticionarios en distintas sedes del INGEMMET, los encargados de sus ganos desconcentrados, en el acto del remate, comunican la presencia y las ofertas al INGEMMET, mediante los medios de comunicaci quese estimen pertinentes y suscriben el acta del remate conjuntamente con los postores concurrentes a dichas sedes que deseen hacerlo.
+
+#### Artículo 40. Superposici de petitoriossimultáneos
+
+**40.1** En el caso de petitorios simultáneos sobre áreasque requieran o no de opini previa de la autoridad sectorial competente, se procede a convocar a remate el área simultánea y solicitar la opini que corresponda, salvo que exista superposici total a dichas áreas.
+
+**40.2** Las áreas simultáneas solicitadas sobre áreas urbanas o de expansi urbana se rigen por la Ley Nº 27015, Ley Especial que regula el otorgamiento de Concesiones Mineras en Áreas Urbanas y de Expansi Urbana, y su Reglamento.
+
+#### Artículo 41. Petitorios simultáneos ante el INGEMMET y el Gobierno Regional
+
+Si se presentan petitorios de concesiones mineras simultáneos sobre la misma cuadrícula o conjunto decuadrículas, en el mismo día y hora, entre petitoriospresentados ante INGEMMET y ante el Gobierno Regional, la Direcci de Concesiones Mineras del INGEMMET remata el área superpuesta entre los peticionarios, para lo cual el INGEMMET debe notificar a los peticionarios y al Gobierno Regional, siguiéndose además de lo previsto en las normas reglamentarias aplicables, las siguientes reglas:
+
+a.
+
+El Gobierno Regional remite al INGEMMET, dentro de los siete (07) días hábiles de presentados, los expedientes de estos petitorios mineros. Previo al envío el Gobierno Regional debe determinar si el petitorio no adolece de alguna causal de rechazo o inadmisibilidad, que determine su extinci.
+
+b.
+
+El INGEMMET sela la fecha y hora para llevar a cabo el remate.
+
+c.
+
+Todos los peticionarios deben efectuar los depitos previstos para la simultaneidad - base del remate, seriedad de oferta y, en caso obtenga la buena pro, la ofertaganadora - en la cuenta autorizada por el INGEMMET.
+
+d.
+
+La devoluci de los montos pagados con motivo del procedimiento de simultaneidad está a cargo del INGEMMET.
+
+e.
+
+El monto de la oferta pagada corresponderá en partes iguales al INGEMMET y al Gobierno Regional.
+
+f.
+
+Las actuaciones y extinciones que corresponden al trámite de simultaneidad, la adjudicaci al siguiente postor y el requerimiento de pago de la oferta, corresponden ser declaradas y resueltas por el INGEMMET.
+
+g.
+
+Resuelta la simultaneidad el INGEMMET remite los expedientes que correspondan al Gobierno Regional para su archivo o continuaci del trámite seg corresponda.
+
+#### Artículo 42. Precio base
+
+**42.1** El depito del 10% del precio base del remate a
+
+que se refiere el artículo 128 de la LGM, debe efectuarse
+
+en moneda nacional, en no menos de veinticuatro (24)horas de la hora selada para el remate, en las cuentas bancarias autorizadas para remate por el INGEMMET o el Gobierno Regional a cargo del trámite de la simultaneidad.
+
+**42.2** El comprobante del depito debe entregarse a la autoridad que tiene a su cargo el acto de remate, al iniciodel mismo o en fecha anterior.
+
+La omisi o defecto en el depito o en la entrega del comprobante, constituye causal de abandono del área simultánea.
+
+#### Artículo 43. Acto de remate
+
+**43.1** Con la presencia de los convocados queasistan en el lugar, día y hora selados, el Director de Concesiones Mineras o el Gobierno Regional de ser el caso, inicia el acto de remate recibiendo el sobre de cada peticionario, su apoderado o representante legal, el mismo que debe contener lo siguiente:
+
+a.
+
+La Carta Oferta, suscrita por el peticionario, su apoderado o representante legal, y el importe ofertado en neros y letras; y,
+
+b.
+
+El comprobante del depito, en la cuenta que sele el INGEMMET o el Gobierno Regional cuando corresponda, por el valor del 20% de su oferta, como garantía de seriedad de la oferta.
+
+**43.2** La oferta y garantía de seriedad de oferta deben efectuarse en moneda nacional.
+
+**43.3** La omisi o defecto de cualquiera de los requisitos selados en los incisos a. y b., constituye causal de abandono del área simultánea.
+
+**43.4** Adicionalmente en la Carta Oferta debe indicarse la entidad bancaria, el nero de cuenta del titular postoren el acto de remate y, cigo interbancario, en el cual laoficina de administración efectuará las devoluciones que correspondan.
+
+**43.5** Los concurrentes convocados deben
+
+identificarse. Sus apoderados o representantes legales
+
+deben acreditar sus facultades para representar a los convocados en el acto de remate, mediante poder para las personas naturales y la inscripci correspondiente para las personas jurídicas.
+
+#### Artículo 44. Del acta de remate y la adjudicaci de la buena pro
+
+**44.1** Los sobres recibidos deben ser abiertos y, luego
+
+de verificarse su contenido conforme al artículo anterior,
+
+se da lectura a las ofertas realizadas, adjudicándose el área al postor que haya presentado la oferta más alta.
+
+**44.2** En el supuesto en que dos (2) o más propuestas empaten, el otorgamiento de la buena pro se efect através de sorteo en el mismo acto, igualmente se procede en caso se produzca el empate de las propuestasinferiores para determinarse en dicho acto el orden de las ofertas de los postores.
+
+**44.3** De todo lo actuado debe elaborarse un acta en la que se indique al adjudicatario y las ofertas inmediatas inferiores que se hubiesen formulado.
+
+**44.4** El acta es suscrita por el Director de Concesiones Mineras o el que hubiese sido delegado, por eladjudicatario y por los convocados concurrentes.
+
+#### Artículo 45. Devoluciones
+
+**45.1** Las sumas abonadas por el postor ganador del
+
+remate se reservan en depósito como garantía de fiel
+
+cumplimiento y como parte del monto de su oferta. Las sumas depositadas por los demás postores deben ser devueltas, luego que se haya realizado la consignaci respectiva del ganador y se haya dejado constancia que la resoluci que tiene por pagada la totalidad de la oferta quedconsentida o ejecutoriada.
+
+**45.2** La devolucin en todos los casos se efect mediante el depito en la cuenta bancaria selada en la Carta Oferta, aun cuando el petitorio de concesi
+
+minera haya sido objeto de transferencias; para este fin la oficina de administración accede a través del SIDEMCAT
+
+a la informaci de la Carta Oferta, de las constancias de pago, boletas de depito bancario y otras que requiera. Los gastos administrativos que genere dicho depito son
+
+de cargo del beneficiario.
+
+**45.3** Si no se hubieran proporcionado los datos bancarios para la devoluci, la misma se efect en todos los casos al titular que participcomo postor, en la cuenta bancaria de su titularidad que sele ante la oficina de administración.
+
+**45.4** La omisi o error en el selamiento de la entidad bancaria, el nero de cuenta, cigo interbancario ytitular de la cuenta, no son defectos que constituyencausal de abandono y las precisiones respecto de ellos se tramitan ante la oficina de administración.
+
+**45.5** La devoluci del pago en exceso, en el precio base, seriedad de oferta y oferta efectuadas porlos postores, se solicitan y tramitan ante la oficina de administraci.
+
+#### Artículo 46. Depito de la oferta y cancelaci
+
+**46.1** El ganador de la buena pro, dentro de los dos (2) días hábiles siguientes a la fecha del remate, consigna en la cuenta del INGEMMET o del Gobierno Regional cuando corresponda, el monto de su oferta menos los depitos correspondientes del precio base del remate y la garantía de seriedad de oferta, y presenta al INGEMMET o el Gobierno Regional competente seg corresponda,dentro de los tres (3) días hábiles siguientes a la fechade efectuado el pago, un escrito adjuntando la copia de la constancia de pago correspondiente.
+
+**46.2** El área com correspondiente a los petitoriosde los postores que hubieran participado en el remate, sin obtener la buena pro, es cancelada por la Direcci deConcesiones Mineras o el Gobierno Regional de ser el caso.
+
+**46.3** Las copias de las constancias de pago del depitodel precio base del remate, de la garantía de seriedad de oferta y del monto de la oferta que se presenten, seanexan a los expedientes respectivos, no procediendo el desglose para la devoluci que corresponda.
+
+#### Artículo 47. Segundo postor y abandono del área simultanea
+
+Si el ganador de la buena pro no efect el pago de su oferta o no la acredita en la forma y los plazos seladosen el artículo anterior, pierde los depitos efectuadospor el precio base y la seriedad de oferta, procediendo el Director de Concesiones Mineras o en su caso el Gobierno Regional a declarar el abandono del área simultánea y adjudicar la buena pro al postor que haya hecho la siguiente oferta más alta. Este timo dentro de los cinco (5) días hábiles siguientes, debe efectuar el pago del monto de su oferta y presentar la copia dela constancia de su pago a la Direcci de ConcesionesMineras o en su caso el Gobierno Regional competente, bajo los apercibimientos selados en este artículo. La misma regla se aplica sucesivamente.
+
+#### Artículo 48. Único postor asistente al acto de
+
+remate
+
+Si al acto de remate solo asistiera uno de los convocados, se deja constancia del hecho y se entiendeque los demás han hecho abandono respecto del área simultánea de su petitorio.
+
+En tal caso, el INGEMMET o Gobierno Regional debe declarar la inexistencia de la simultaneidad, la pérdida del importe del 10% del precio base del remate que hubierandepositado y presentado los convocados que no asistieron y el abandono del área simultanea correspondiente, disponiendo la continuaci del trámite del petitorio delico asistente.
+
+#### Artículo 49. Inasistencia de postores
+
+**49.1** En el caso que al acto del remate no sepresentaren postores, el INGEMMET o Gobierno Regional a cargo del trámite lo declara desierto y en abandono las áreas simultáneas de dichos petitorios.
+
+**49.2** El aviso de retiro o la publicaci nacional de libre denunciabilidad que corresponda, procede conforme a la LGM y a la Ley Nº 30428, Ley que oficializa el Sistema de Cuadrículas Mineras en Coordenadas UTM WGS84.
+
+### Capítulo VI — FRACCIONAMIENTO Y DIVISIÓN
+
+#### Artículo 50. Fraccionamiento y divisi de concesiones
+
+El fraccionamiento de concesiones inscritas a que se
+
+refiere el último párrafo del artículo 11 de la LGM procede
+
+cuando se produce el quiebre de la colindancia entrecuadrículas o de la poligonal cerrada, rigiéndose por lasmismas reglas que la divisi, sin requerirse publicaci deavisos.
+
+Las nuevas concesiones producto del fraccionamiento,tendrán la antigdad del título de la concesi originalpara fines del cumplimiento de sus obligaciones.
+
+#### Artículo 51. Fraccionamiento de petitorios
+
+El INGEMMET o Gobierno Regional dispone el fraccionamiento de los petitorios que comprendan un conjunto de cuadrículas, cuando exista superposici en alguna de ellas que quiebre la colindancia por un lado de dicho conjunto de cuadrículas, o cuando se renuncia a una (1) o más cuadrículas, que quiebren la colindancia del conjunto de cuadrículas.
+
+#### Artículo 52. Formaci de expedientes
+
+**52.1** Previo los informes técnico y legal y declarada laprocedencia del fraccionamiento, se ordena al administradoque, en un plazo no mayor de treinta (30) días calendario,indique la fecha y nero de la constancia de pagorealizado ante la propia entidad, por las copias certificadasdel expediente completo del petitorio o concesi original en número suficiente para confeccionar los expedientes decada uno de los derechos fraccionados.
+
+**52.2** La autoridad asigna el cigo ico correspondiente que es el mismo del derecho original seguido de una letra maycula.
+
+**52.3** Aprobado el fraccionamiento de petitorios, cada uno de los expedientes que se originen, debe seguir el procedimiento ordinario en el estado en que se encuentre hasta el otorgamiento del título de concesi minera.
+
+#### Artículo 53. Traslado de estado de pagos
+
+**53.1** Solo procede otorgar el título de acumulaci, divisi o fraccionamiento si los derechos han cumplido con el pago del derecho de vigencia y/o penalidad del ejercicio anterior.
+
+**53.2** El estado del cumplimiento de pago del derecho de vigencia y penalidad, se mantiene tanto en la concesi original como en las concesiones divididas, fraccionadas y/o acumuladas.
+
+**53.3** Las deudas de las concesiones originales deben ser pagadas en su totalidad para tener por pagadoel derecho de vigencia y/o penalidad de éstas y de las concesiones originadas de su divisin, fraccionamiento o acumulaci.
+
+**53.4** Las deudas de vigencia y/o penalidad se distribuyen entre las concesiones originales y/oacumuladas, divididas o fraccionadas, de acuerdo a su extensi, consignándolo en el Padr Minero.
+
+#### Artículo 54. Inscripci de concesiones divididas
+
+o fraccionadas
+
+La inscripci de cada una de las concesiones fraccionadas
+
+o divididas se efect en una nueva partida registral, debiendohacer la anotaci marginal correspondiente en la partida dela concesi original, en la cual se inscribe simultáneamentela Resoluci de su reducci.
+
+CAPÍTULO VII AGRUPAMIENTO
+
+#### Artículo 55. Requisitos de la Unidad EconicaAdministrativa (UEA)
+
+**55.1** La constituci de la Unidad Econica Administrativa (UEA) es un procedimiento de evaluaci previa sujeto a silencio administrativo positivo.
+
+**55.2** La solicitud de la UEA debe presentarse ante el INGEMMET y cumplir con los siguientes requisitos:
+
+a. Indicar el nombre y clase de sustancia de la UEA.
+
+b.
+
+Indicar el distrito, provincia y departamento donde se ubica la UEA.
+
+c.
+
+Indicar el centro del círculo mediante coordenadas UTM WGS84.
+
+d.
+
+Indicar la relaci de las concesiones mineras ydenuncios con auto de amparo que integran la UEA, sus cigos icos, extensi y la clase de sustancia de cada una de ellas.
+
+e. Indicar los datos de inscripci registral (nero
+
+de asiento, partida registral y Oficina Registral) de las
+
+concesiones mineras y denuncios con auto de amparo que integran la UEA y de su titularidad o calidad de cesionario, así como de los de su representante o apoderado.
+
+f. Adjuntar copia del plano de la UEA a escala
+
+adecuada, que grafique el radio del círculo de la UEA y
+
+el perímetro de cada una de los integrantes e indique el nombre de la UEA, nombre del titular, distrito, provincia y departamento, clase de sustancia, el área de cada una de las concesiones mineras y denuncios que la integran.
+
+g. Indicar la fecha y nero de la constancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la copia de la constancia de pago del derecho de trámite realizado en las instituciones financieras autorizadas.
+
+#### Artículo 56. Subsanaci de requisitos yabandono del procedimiento
+
+La solicitud de la Unidad Econica Administrativa UEA que se presente con omisi de los requisitosindicados en el artículo anterior, debe ser observada por la Direcci de Concesiones Mineras dentro de un plazo de diez (10) días hábiles contados a partir de la fecha de su presentaci, otorgándose al titular un plazo de quince (15) días hábiles para su subsanaci. Vencido dicho plazo sin que el administrado hubiese subsanado la observaci, se declara el abandono de la solicitud, archivándose el expediente, sin perjuicio que el titularpueda solicitar nuevamente la constituci de la UEA.
+
+#### Artículo 57. Aprobaci de la UEA y supuestos de nulidad
+
+**57.1** El Presidente Ejecutivo del INGEMMET aprueba la constituci de la UEA dentro de los treinta (30) días hábiles de presentada la solicitud.
+
+Habiendo transcurrido el plazo previsto sin que laDirecci de Concesiones Mineras hubiere observado la solicitud de constituci de (UEA), ésta se tiene por aprobada de manera ficta.
+
+La aprobaci antes indicada permite al titular cumplir con las obligaciones de Ley, respecto de sus concesiones mineras agrupadas.
+
+**57.2** El INGEMMET puede solicitar la nulidad de oficio del agrupamiento ante el Consejo de Minería, con posterioridad a su aprobación ficta, únicamente respecto de las concesiones mineras que se encuentran en cualquiera de los siguientes casos:
+
+a. Cuando el área de las concesiones mineras que seencuentren parcialmente fuera del círculo sea mayor al 30% del área total de las concesiones.
+
+b. Cuando la suma de las áreas de las concesiones
+
+mineras exceda la superficie del círculo.
+
+c.
+
+Cuando no sean de la clase para la cual ha sido solicitada la Unidad Econica Administrativa UEA.
+
+d.
+
+Cuando no se acredite titularidad sobre los derechos a agrupar.
+
+#### Artículo 58. Efectos de la aprobaci expresa o
+
+ficta
+
+La aprobación expresa o ficta de la constitución de la Unidad Econica Administrativa (UEA), autoriza al titular a cumplir con las obligaciones de Ley como agrupamiento, a partir del ejercicio de su aprobaci.
+
+#### Artículo 59. Conformaci de la UEA
+
+La Unidad Econica Administrativa (UEA) debe conformarse con concesiones mineras de un mismo administrado, incluidas las concesiones mineras obtenidas por cesi minera inscrita en los Registros Plicos.
+
+#### Artículo 60. Procedimiento de inclusi yexclusi de concesiones mineras de la UEA y otras modificaciones
+
+**60.1** La inclusi y exclusi de concesiones mineras de una UEA es un procedimiento de evaluaci previasujeto a silencio administrativo positivo.
+
+**60.2** Dictada la resoluci de constituci de la UEA
+
+o producida la autorización ficta, se pueden incluir dentro
+
+de la UEA nuevas concesiones mineras cesionadas y/o adquiridas, así como excluir de esta aquellas concesiones mineras que la hayan integrado.
+
+**60.3** La solicitud de inclusi y/o exclusi debe presentarse ante el INGEMMET y cumplir con lossiguientes requisitos:
+
+1. Inclusi:
+
+a) Indicar los datos de inscripci registral (nero
+
+de asiento, partida registral y Oficina Registral) de las
+
+concesiones mineras y denuncios con auto de amparo a incluir en la UEA, de su titularidad o calidad de cesionario, así como de los de su representante o apoderado.
+
+b) Copia del plano de la UEA reformada.
+
+c) Indicar la fecha y nero de la constancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la copia de la constancia de pago del derecho de trámite realizado en las instituciones financieras autorizadas.
+
+2. Exclusi:
+
+a) Copia del plano de la UEA reformada.
+
+b) Indicar la fecha y nero de la copia de la constancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la constancia de pagodel derecho de trámite realizado en las instituciones financieras autorizadas.
+
+**60.4** El trámite para la modificación de la UEA se rige por lo dispuesto en las disposiciones que regulan su conformaci.
+
+#### Artículo 61. Exclusión de oficio de concesiones
+
+mineras de la UEA constituida
+
+El INGEMMET de oficio deja constancia de la exclusi de los derechos que integran la UEA en base a la informaci del SIDEMCAT, donde incorpora lainformaci sobre titularidad remitida por SUNARP o presentada por el administrado, que reporte la pérdida de titularidad del derecho que integra la UEA. La exclusi surte efectos desde la fecha en que se haya producido la pérdida de titularidad.
+
+#### Artículo 62. Constituci de la UEA
+
+La constituci de la UEA no supone la vigencia de las concesiones mineras que la integran.
+
+La UEA constituida solo tiene efectos para elcumplimiento de las obligaciones de producci e inversi de las concesiones mineras que la integran.
+
+#### Artículo 63. Inscripci de resoluci de la UEA
+
+La Resolución que apruebe o modifique, según sea el caso, la UEA, puede ser inscrita en la partida de las concesiones objeto de agrupamiento, ante la SUNARP.
+
+### Capítulo VIII — RENUNCIA
+
+#### Artículo 64. Renuncia de área de derecho minero
+
+**64.1** La renuncia de área es un procedimiento deevaluaci previa sujeto a silencio administrativo positivo.
+
+**64.2** Procede la renuncia total o parcial del área de una concesi minera o petitorio minero. Para que la renuncia parcial de una concesi formulada en cuadrículas sea procedente, el área retenida no puede ser menor a una cuadrícula de cien (100) hectáreas y el área disponible no puede ser menor a una (01) hectárea. Los derechosmineros anteriores a la Ley Nº 30428 deben mantener elsistema en el cual fueron formulados.
+
+**64.3** En el caso de concesiones mineras que no sehubieran formulado en cuadrículas, el área retenida no puede ser menor a una (01) hectárea.
+
+#### Artículo 65. Requisitos de la renuncia de área de derecho minero
+
+La renuncia de área de derecho minero debe presentarse ante el INGEMMET o el Gobierno Regional competente y cumplir con los siguientes requisitos:
+
+a. Solicitud con firma legalizada del titular y de su cyuge, en su caso. Si la renuncia fuera formulada por una persona jurídica debe indicar los datos de surepresentante o apoderado, así como la partida registral en la cual se encuentren inscritos en los RegistrosPlicos las facultades del representante o apoderado firmante de la solicitud.
+
+b. Identificar el área a renunciar y la que se retiene.
+
+c. Copia del certificado negativo de carga ygravámenes que determinen si la concesi está o no hipotecada, cesionada, bajo contrato de opci o de explotaci y, de ser el caso, adjuntar la autorizaci inscrita en los registros públicos de sus beneficiarios, respecto a la renuncia.
+
+d. Indicar la fecha y nero de la constancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la copia de la constancia de pago del derecho de trámite realizado en las instituciones financieras autorizadas.
+
+#### Artículo 66. Aprobaci o denegatoria de larenuncia de área de derecho minero
+
+**66.1** El INGEMMET o el Gobierno Regional debepronunciarse expresamente sobre la renuncia total o parcialdel área de la concesi dentro de un plazo no mayor detreinta (30) días hábiles contados a partir de la fecha de presentaci de la solicitud. Si la resoluci fuese aprobatoria,debe indicar la nueva área de la concesi minera.
+
+**66.2** So puede denegarse la solicitud de renuncia del área de una concesi cuando se perjudiquen derechos de terceros o no cumpla con los requisitos establecidos en las normas reglamentarias.
+
+**66.3** Con la Resolución que se expida, la Oficina Registral correspondiente procede a inscribir la nueva área de la concesi o la renuncia del área total de la misma, en la partida de dicha concesi.
+
+#### Artículo 67. Renuncia de derechos y acciones del peticionario
+
+**67.1** La renuncia de derechos y acciones del peticionario es un procedimiento de evaluaci previasujeto a silencio administrativo positivo.
+
+**67.2** Esta renuncia debe presentarse ante el INGEMMET o el Gobierno Regional competente y cumplir con los siguientes requisitos:
+
+a. Solicitud del titular. En caso la solicitud sea formulada por una persona jurídica debe indicar los datosde su representante o apoderado, así como la partida registral en la cual se encuentren inscritos en los Registros Plicos las facultades del representante o apoderado firmante de la solicitud.
+
+b. Indicar la fecha y nero de la constancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la copia de la constancia de pago del derecho de trámite realizado en las instituciones financieras autorizadas.
+
+**67.3** En el caso de petitorio presentado por varias
+
+personas, la renuncia de una o más de ellas beneficia a
+
+los demás peticionarios en partes iguales.
+
+**67.4** El INGEMMET o el Gobierno Regional debe pronunciarse expresamente sobre la renuncia del cotitular dentro de un plazo no mayor de quince (15) días hábiles contados a partir de la fecha de presentaci de la solicitud.
+
+### Capítulo IX — CAMBIO DE SUSTANCIA DE DERECHO MINERO
+
+#### Artículo 68. Cambio de sustancia de derecho minero
+
+El cambio de sustancia debe presentarse ante elINGEMMET o el Gobierno Regional competente.
+
+68.1. El cambio de sustancia de no metálica a metálica es un procedimiento de evaluaci previa sujeto a silencio administrativo positivo, tiene un plazo máximo de evaluaci de treinta (30) días hábiles de presentada la solicitud, para lo cual debe cumplir los siguientesrequisitos:
+
+a. Solicitud del titular. En caso la solicitud sea formulada por una persona jurídica debe indicar los datosde su representante o apoderado, así como la partida registral en la cual se encuentren inscritos en los Registros Plicos las facultades del representante o apoderado firmante de la solicitud.
+
+b. Indicar la fecha y nero de la constancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la copia de la constancia de pago del derecho de trámite realizado en las instituciones financieras autorizadas.
+
+68.2. El cambio de sustancia de no metálica a metálica de derechos mineros superpuestos a las áreasreguladas por la Ley Nº 27015, Ley Especial que Regula el Otorgamiento de Concesiones Mineras en Áreas Urbanas y de Expansi Urbana, es un procedimiento de evaluaci previa sujeto a silencio negativo, y, tiene un plazo máximo de evaluaci de treinta (30) días hábiles de presentada la solicitud.
+
+El titular debe cumplir los requisitos selados en el numeral 68.1 del presente artículo.
+
+68.3. El cambio de sustancia de metálica a no metálica es un procedimiento de evaluaci previa sujeto a silencio negativo, y tiene un plazo máximo de evaluaci de treinta
+
+(30) días hábiles de presentada la solicitud.
+
+El titular debe cumplir los requisitos selados en el numeral 68.1 del presente artículo.
+
+68.4. El trámite de cambio de sustancias de derechos superpuestos a áreas urbanas o de expansi urbana se rige por la Ley Nº 27015, Ley Especial que Regula el Otorgamiento de Concesiones Mineras en Áreas Urbanas y de Expansi Urbana, y su Reglamento.
+
+### Capítulo X — DENUNCIA POR INTERNAMIENTO
+
+#### Artículo 69. Denuncia por internamiento
+
+**69.1** La denuncia por internamiento es un procedimiento de evaluaci previa sujeto a silencioadministrativo negativo, con un plazo de noventa (90) días hábiles de presentada la solicitud, conforme al artículo 141 del TUO de la LGM. La denuncia es improcedentesi el denunciado no cuenta con autorizaci de inicio de actividades mineras.
+
+**69.2** La denuncia debe presentarse por el titularafectado ante el INGEMMET o el Gobierno Regionalcompetente y cumplir con los siguientes requisitos:
+
+a. Indicar los nombres, apellidos, domicilio en la capital de la provincia de la sede de la dependencia competente ante quien la presente, su DNI, RUC y firma del solicitante.
+
+b. En caso la denuncia sea formulada por una persona jurídica debe indicar los datos de su representante
+
+o apoderado, así como la partida registral en la cualse encuentren inscritos en los Registros Plicos las
+
+facultades del representante o apoderado firmante de la
+
+solicitud.
+
+c. Indicar el nombre y cigo ico de la concesi minera afectada y la concesi minera del presuntoinfractor.
+
+d. Indicar los datos de inscripci registral (nero de
+
+asiento, partida registral y Oficina Registral) de cada una
+
+de las concesiones, de ser el caso.
+
+e. Indicar la fecha y nero de la constancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la copia de la constancia de pago del derecho de trámite realizado en las instituciones financieras autorizadas.
+
+La Direcci de Concesiones Mineras o el Gobierno Regional tramitan y resuelven las denuncias porinternamiento.
+
+**69.3** El relacionamiento topográfico a que se refiere
+
+el artículo 141 de la LGM comprende el levantamiento
+
+topográfico de las labores materia de la denuncia,
+
+rigiéndose por el Reglamento de Peritos Mineros y sus normas complementarias.
+
+**69.4** Es de aplicaci, en lo que corresponda, lo dispuesto en la actuaci de pruebas del procedimiento de oposici que regula el presente Reglamento. Elpago de la planilla corresponde ser efectuado por eldenunciante, y el apercibimiento por su falta de pago o la de su incremento, origina el abandono del procedimiento.
+
+**69.5** La desocupaci prevista en el artículo 142 de la LGM opera respecto de las labores mineras efectuadas en la concesi minera invadida. La desocupaci es constatada por un perito minero y el pago de la planillade gastos corresponde ser efectuado por el denunciante.
+
+### Capítulo XI — SUSTITUCIÓN
+
+#### Artículo 70. Sustituci
+
+**70.1** El procedimiento para ejercer el derecho de
+
+sustitución a que se refiere el segundo párrafo del artículo
+
+36 de la LGM, es de evaluaci previa sujeto a silencio administrativo negativo, con un plazo de cuarenta y seis
+
+(46) días hábiles de presentada la solicitud, conforme al artículo 143 del TUO de la LGM
+
+**70.2** Las personas afectadas tienen el derecho a sustituirse en el expediente respectivo, dentro de un plazode noventa (90) días hábiles de efectuada la publicaci del aviso. Si la persona afectada no hiciese uso de este derecho en el plazo antes selado desaparece el impedimento.
+
+**70.3** La solicitud debe presentarse ante el INGEMMET
+
+o el Gobierno Regional competente y cumplir con los siguientes requisitos:
+
+a. Indicar los nombres, apellidos, domicilio en la capital de la provincia de la sede de la dependencia competente ante quien la presente, DNI, RUC, correo electrico y firma del solicitante.
+
+b. En caso el procedimiento sea iniciado por una persona jurídica, debe indicar los datos de su representante o apoderado, así como la partida registral en la cual se encuentren inscritos en los RegistrosPlicos las facultades del representante o apoderado firmante de la solicitud.
+
+c. Adjuntar copia de la prueba pertinente.
+
+d. Indicar la fecha y nero de la constancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la copia de la constancia de pago del derecho de trámite realizado en las instituciones financieras autorizadas.
+
+**70.4** El procedimiento se rige por el artículo 143 de la LGM. El INGEMMET o el Gobierno Regional competente dicta la Resoluci de manera inmediata producido el acuerdo, o al vencimiento del plazo de treinta (30) días hábiles de la actuaci de pruebas.
+
+### Capítulo XII — ACUMULACIÓN DE CONCESIONES MINERAS
+
+#### Artículo 71. Acumulaci de concesiones mineras
+
+**71.1** La acumulaci es un procedimiento de evaluaci previa sujeto a silencio administrativo positivo, con un plazo de treinta y siete (37) días hábiles de presentada la solicitud.
+
+**71.2** Solamente pueden acumularse concesiones mineras con título inscrito que sean colindantes o superpuestas de un mismo titular y sustancia; y quehayan cumplido con el pago del derecho de vigencia y/o penalidad del a anterior.
+
+**71.3** La solicitud de acumulaci debe presentarseante el INGEMMET o el Gobierno Regional competente y cumplir con los siguientes requisitos:
+
+a. Indicar la informaci y presentar la documentaci que se exige en el artículo 30 del presente Reglamento,con excepci de lo establecido en el literal f. del inciso
+
+**30.2** del citado artículo 30.
+
+b. Indicar el nombre y cigo ico de cada una de lasconcesiones mineras a acumular, así como la extensi superficial de la acumulación.
+
+c. Indicar los datos de inscripci registral (nero de
+
+asiento, partida registral y Oficina Registral) de cada una
+
+de las concesiones mineras a acumular.
+
+d. Adjuntar copia del Certificado negativo de carga y gravámenes que determine si las concesiones están o no hipotecadas, cesionadas o bajo contrato de opci, explotaci de cada una de las concesiones y, de ser el caso, adjuntar la autorización de sus beneficiarios mediante documento simple.
+
+e. Adjuntar copia del plano de la acumulaci en coordenadas UTM WGS84.
+
+f. Indicar la fecha y nero de la copia de la constancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la constancia de pago del derecho de trámite realizado en las instituciones financieras autorizadas.
+
+**71.4** El trámite de la acumulaci de concesiones mineras se rige por lo dispuesto en la Ley Nº 26615, Ley del Catastro Minero Nacional, y la Ley Nº 30428, Ley que oficializa el Sistema de Cuadrículas Mineras en Coordenadas UTM WGS84 y sus normas reglamentarias
+
+**71.5** Si la solicitud ree los requisitos exigidos por el presente Reglamento, la Direcci de Concesiones Mineras o el Gobierno Regional competente, dentrodel plazo de siete (07) días hábiles siguientes a la presentación de la solicitud notifica al titular adjuntandolos avisos para su publicaci por una sola vez en el Diario Oficial "El Peruano".
+
+**71.6** Dentro de los treinta (30) días hábiles siguientes a la recepci de la publicaci de los avisos, de no mediar oposici a la solicitud, la Direcci de Concesiones Mineras del INGEMMET o el Gobierno Regional competente, emite los dictámenes técnico ylegal correspondientes, y eleva el expediente para elotorgamiento del título.
+
+#### Artículo 72. Título de la concesi de acumulaci
+
+**72.1** La Resoluci que aprueba el título de la acumulaci so surte efectos respecto a la cancelaci y el archivo de las concesiones mineras acumuladas, a partir de la fecha en que quede consentida o ejecutoriada.
+
+**72.2** Cuando la acumulaci comprenda parcialmente el área de una concesi original, esta queda reducida al área restante.
+
+**72.3** La hipoteca, cesi, contrato de opci, cargas, gravámenes o medidas judiciales anotados en los Registros Plicos respecto a las concesiones mineras integrantes de la acumulaci, también recaen en el nuevo título.
+
+**72.4** La nueva concesi, producto de la acumulaci,tendrá la antigdad del título acumulado más antiguopara fines del cumplimiento de sus obligaciones.
+
+**72.5** Los permisos y autorizaciones en las concesiones mineras acumuladas aplican al nuevo título, de acuerdo a los alcances de los permisos y autorizaciones emitidos.
+
+Los derechos adquiridos de las concesiones queconforman la acumulaci, como los otorgados mediante contratos de garantías y medidas de promoci a la inversi o transferencia, no se verán afectados por laacumulaci aprobada, siempre y cuando se realicen las modificaciones al contrato, de corresponder.
+
+**72.6** Las obligaciones de producci o inversi, así como las declaraciones juradas de la acumulaci, son exigibles al a siguiente al de su consentimiento. Antes del consentimiento se entiende que las obligaciones son exigibles individualmente.
+
+### Capítulo XIII — DIVISIÓN Y MODIFICACIÓN DEL TÍTULO DE CONCESIÓN
+
+#### Artículo 73. Divisi de derecho minero
+
+**73.1** La divisi es un procedimiento de evaluaci previa sujeto a silencio administrativo positivo, con un plazode treinta y siete (37) días hábiles de presentada la solicitud.Solamente pueden dividirse concesiones mineras con títuloinscrito y que hayan cumplido con el pago del derecho devigencia y/o penalidad del a anterior.
+
+**73.2** Las concesiones mineras pueden ser divididas en cuadrículas no menores de 100 hectáreas conforme al Sistema de Cuadrículas en que fueron solicitadas. En el caso de las concesiones mineras solicitadas bajo sistemasanteriores al Decreto Legislativo Nº 708 o conforme el artículo 12 de la Ley Nº 26615, Ley del Catastro MineroNacional, las áreas a dividir no pueden ser menores de una (1) hectárea.
+
+**73.3** La solicitud de divisi debe presentarse ante el INGEMMET o el Gobierno Regional competente y cumplir con los siguientes requisitos:
+
+a. Indicar la informaci y presentar la documentaci que se exige para el petitorio de una concesi minera, con excepci del Compromiso previo en forma deDeclaraci Jurada del peticionario.
+
+b. Indicar los datos de inscripci registral (nero
+
+de asiento, partida registral y Oficina Registral) de la
+
+concesi a dividir y el nombre de los derechos mineros que se van a originar con sus respectivas coordenadasUTM WGS84 de las cuadrículas o conjunto de cuadrículas,
+
+o poligonales cerradas.
+
+c. Adjuntar copia del Certificado negativo de cargay gravámenes que determine si la concesi está o no hipotecada, cesionada o bajo contrato de opci,explotaci y, de ser el caso, adjuntar la autorizaci de sus beneficiarios mediante documento simple.
+
+d. Adjuntar copia del plano de la divisi en coordenadas UTM WGS84.
+
+e. Indicar la fecha y nero de la copia de laconstancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la constancia de pagodel derecho de trámite realizado en las instituciones financieras autorizadas.
+
+**73.4** El trámite de la divisi de concesiones mineras se rige por lo dispuesto en la Ley Nº 26615, Ley del Catastro Minero Nacional, y en la Ley Nº 30428, Ley que oficializa el Sistema de Cuadrículas Mineras en Coordenadas UTM WGS84 y sus normas reglamentarias.
+
+**73.5** Si la solicitud ree los requisitos exigidos por el presente Reglamento, la Direcci de Concesiones Mineras o el Gobierno Regional competente dentrodel plazo de siete (07) días hábiles siguientes a la presentación de la solicitud, notifica al titular adjuntando los avisos para su publicaci por una sola vez en el Diario Oficial "El Peruano".
+
+**73.6** Dentro de los treinta (30) días hábiles siguientes a la recepci de la publicaci de los avisos, de no mediar oposici a la solicitud de concesi minera, la Direcci de Concesiones Mineras del INGEMMET o el Gobierno Regional competente, emite los dictámenestécnico y legal correspondientes, y eleva el expediente para el otorgamiento del título.
+
+#### Artículo 74. Modificación del título de concesión
+
+**74.1** El INGEMMET o el Gobierno Regional procede
+
+en un solo acto a modificar el título de la concesión original
+
+y otorga título sobre cada una de las áreas divididas. La Resoluci indicada so surte efecto a partir de la fecha en que quede consentida o ejecutoriada.
+
+**74.2** La hipoteca, cesi, contrato de opci,cargas, gravámenes o medidas judiciales anotadas en los Registros Plicos respecto a la concesi minera dividida, recae en cada uno de los títulos.
+
+**74.3** Las nuevas concesiones producto de la divisi tendrán la antigdad del título de la concesi original, para fines del cumplimiento de sus obligaciones.
+
+**74.4** La formaci de los expedientes divididosse rige por las disposiciones del procedimiento de fraccionamiento.
+
+### Capítulo XIV — SOCIEDAD LEGAL
+
+#### Artículo 75. Sociedad Legal por pluralidad de titulares
+
+**75.1** La constituci de sociedad legal a que se
+
+refiere el artículo 186 de la LGM, es un procedimiento de
+
+evaluaci previa sujeto a silencio administrativo positivo. Debe presentarse ante el INGEMMET o el Gobierno Regional competente y cumplir con los siguientesrequisitos:
+
+a. Indicar los nombres, apellidos, domicilio en la capital de la provincia de la sede de la dependencia competente ante quien la presente, DNI, RUC, correo electrico y firma de todos los titulares.
+
+b. En caso el procedimiento sea iniciado por una persona jurídica, debe consignar los datos de su representante, así como la partida registral en la cualse encuentren inscritos en los Registros Plicos lasfacultades del representante o apoderado firmante de la solicitud.
+
+c.
+
+Datos registrales de la titularidad y los porcentajes de participaci de cada uno de los titulares en la partidaregistral del derecho minero.
+
+d.
+
+Indicar capital social inicial, nero de participaciones en que está dividido, valor de cada participaci, cantidad de participaciones que corresponde a cada socio y proponer al gerente.
+
+e. Indicar la fecha y nero de la constancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la copia de la constancia de pago del derecho de trámite realizado en las instituciones financieras autorizadas.
+
+**75.2** El INGEMMET o el Gobierno Regional competente dicta la resoluci de constituci de sociedad legaldentro del plazo de treinta (30) días hábiles de presentada la solicitud.
+
+**75.3** El INGEMMET o Gobierno Regional competente constituye la sociedad legal de acuerdo a la informaci de los Registros Plicos en caso la solicitud no sea firmada por todos los titulares. El capital social inicial está determinado por el monto de los derechos pagados al momento de formular el petitorio, efectuando los ajustes para determinar la participaci de los socios en neros enteros.
+
+#### Artículo 76. Capital inicial de la Sociedad Legal
+
+**76.1** En el caso de sociedades legales, para los fines
+
+del artículo 193 de la LGM, el Presidente del INGEMMET
+
+o el Gobierno Regional determina en su Resoluci el capital inicial de la sociedad, el valor de cada participaci y la cantidad de participaciones que corresponde a cada socio.
+
+**76.2** Para la determinaci del capital social inicial seconsidera el monto de los derechos pagados al momento de formular el petitorio, efectuando los ajustes paradeterminar la participaci de los socios en neros enteros.
+
+#### Artículo 77. Sociedad Legal por área superpuesta
+
+**77.1** La constituci de sociedad legal por aplicaci del artículo 115 de la LGM, es un procedimiento de evaluaci previa sujeto a silencio administrativo positivo. Debe presentarse ante el INGEMMET o el Gobierno Regional competente y debe cumplir con los siguientes requisitos:
+
+a. Indicar los nombres, apellidos, domicilio en la capital de la provincia de la sede de la dependencia competente ante quien la presente, DNI, RUC, correo electrico y firma del solicitante.
+
+b. En caso el procedimiento sea iniciado por una persona jurídica, debe consignar los datos de su representante, así como la partida registral en la cualse encuentren inscritas en los Registros Plicos lasfacultades del representante o apoderado firmante de la solicitud.
+
+c. Indicar los datos de la inscripcin registral de las concesiones mineras.
+
+d. Indicar la fecha y nero de la constancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la copia de la constancia de pago del derecho de trámite realizado en las instituciones financieras autorizadas.
+
+**77.2** El INGEMMET o el Gobierno Regional competente dicta la resoluci de constituci de sociedad legaldentro del plazo de treinta (30) días hábiles de presentada la solicitud.
+
+**77.3** El capital social inicial corresponde a la suma de una (1) Unidad Impositiva Tributaria (UIT) efectuando los ajustes para determinar la participaci de los socios en partes iguales.
+
+**77.4** La titularidad respecto de las labores minerasefectuadas sobre el área superpuesta corresponde sin costo a la nueva concesi que se constituye sobre el área superpuesta, manteniéndose sobre las labores mineras las servidumbres gratuitas no exclusivas a favor de quien las hubiera efectuado.
+
+**77.5** El titular de la nueva concesi sobre el área superpuesta y quienes efectuaron las labores acordarán las condiciones de utilizaci de la servidumbre y en su caso la contribuci al mantenimiento de dichas labores; en caso de desacuerdo las controversias puedenresolverse en el fuero arbitral o en su defecto en el Poder Judicial.
+
+**77.6** Aquel que realizlabores mineras en un área sobre la cual se constituyuna sociedad legal, no estáobligado a abonar compensaci alguna a los demás socios por los minerales extraídos anteriormente. Igualmente está impedido de solicitar compensaci si en la operaci se hubieran producido pérdidas.
+
+### Capítulo XV — DISPOSICIONES GENERALES EN LOS PROCEDIMIENTOS PARA EL OTORGAMIENTO DE CONCESIÓN DE BENEFICIO, AUTORIZACIÓN DE FUNCIONAMIENTO, AUTORIZACIÓN DE BENEFICIO, CONCESIÓN DE LABOR GENERAL, CONCESIÓNDE TRANSPORTE MINERO, Y AUTORIZACIÓN DE ACTIVIDADES DE EXPLORACIÓN Y EXPLOTACIÓN MINERA
+
+#### Artículo 78. De la coordinaci con la Direcci General de Minería o Gobierno Regional
+
+Previo al inicio del procedimiento administrativo, el titular de actividad minera puede mantener una reuni decoordinaci de forma virtual o física, con los profesionales de la Direcci General de Minería o al Gobierno Regional seg corresponda, a efectos de informar sobre las principales características y alcances de su proyecto,recibiendo comentarios y observaciones en la misma reuni. Asimismo, en el trámite del procedimientoadministrativo, cuando se requiera aclarar observaciones y/o requerimientos.
+
+#### Artículo 79. Observaci, requerimiento yapercibimiento
+
+**79.1** Dentro del plazo máximo de quince (15) días hábiles, contados a partir de la presentaci de la solicitud, la Direcci General de Minería o Gobierno Regionalcompetente, notifica al administrado en un solo acto y por ica vez, la(s) observaci(es) y requerimiento(s), bajo apercibimiento de tener por no presentada la solicitud. El administrado cuenta con un plazo de veinte (20) díashábiles para absolver la(s) observaci(es) y/o cumplir con lo requerido.
+
+**79.2** Para el caso de las solicitudes de concesi
+
+de beneficio, labor general o transporte minero,
+
+el apercibimiento decretado es el abandono del procedimiento.
+
+#### Artículo 80. Cancelaci, reducci, improcedencia y nulidad
+
+**80.1** Si durante el trámite de las solicitudes de
+
+concesión de beneficio, labor general o transporte
+
+minero, la Direcci General de Minería o Gobierno Regional advierte que la solicitud o petitorio presentado se superpone a otro petitorio anterior o concesi de igual naturaleza en forma total, declara la cancelaci
+
+total y el archivo definitivo de la solicitud presentada. Si la
+
+superposici es parcial ordena al solicitante la reducci de área de su solicitud.
+
+**80.2** Si durante el trámite de las solicitudes de
+
+concesión de beneficio, labor general o transporte
+
+minero, la Direcci General de Minería o Gobierno Regional advierte que la solicitud o petitorio presentado se superpone a otro petitorio anterior o concesi de diferente naturaleza en forma total o parcial, la Direcci
+
+General de Minería o Gobierno Regional verifica si
+
+el nuevo petitorio o solicitud afecta o no el derecho a explorar, explotar u otro derecho concedido al primerpeticionante o al titular de concesi otorgada. En este caso, el solicitante debe acreditar el acuerdo con el titular de la concesi de naturaleza diferente, sobre el uso del
+
+área de dicha concesión, siempre que no impida o dificulte
+
+la actividad minera de sus titulares o concesionarios, de acuerdo con lo establecido en el numeral 4) del artículo37 de la LGM.
+
+**80.3** Si las solicitudes de concesión de beneficio, labor general o transporte minero, son formuladas porpersonas inhábiles para el ejercicio de la actividad minera, estas deben ser declaradas improcedentes. En casocorresponda, el Consejo de Minería en aplicaci de lo dispuesto en el artículo 63 de la LGM, declara la nulidad del título otorgado.
+
+#### Artículo 81. Opini posterior de la Direcci General de Minería
+
+Son válidas las autorizaciones de inicio/reinicio de actividades de exploraci, explotaci, otorgamiento de la concesión de beneficio, autorización de funcionamiento de concesión de beneficio y autorización de beneficio que se emitan cumpliendo con los requisitos aprobados para cada procedimiento; sin embargo, en caso laDirecci General de Minería advierta alguna causal de nulidad después de otorgada la autorizaci emitida por el Gobierno Regional competente, corresponde ala Direcci General de Minería comunicar al Gobierno Regional la referida causal de nulidad, a fin de que el Gobierno Regional ordene la paralizaci inmediata de la actividad minera autorizada y eleve el expediente al Consejo de Minería, a fin de que declare de oficio la nulidad del acto administrativo correspondiente.
+
+### Capítulo XVI — CONCESIÓN DE BENEFICIO
+
+#### Artículo 82. Presentaci de la solicitud de la
+
+concesión de beneficio
+
+**82.1** El solicitante de una concesión de beneficio debe
+
+presentar una solicitud a la Direcci General de Minería
+
+o Gobierno Regional, a través del formulario electrico vía extranet del portal web del Ministerio de Energía yMinas, con los requisitos exigidos en los literales a), b), c),
+
+e) y f) del numeral 30.1 y los literales a) y f) del numeral
+
+**30.2** del artículo 30 del presente Reglamento, indicando la capacidad instalada de tratamiento del proyecto.
+
+Asimismo, debe consignar y/o adjuntar los siguientes documentos:
+
+1. Nero de recibo de pago del derecho de trámite.
+
+2. Memoria descriptiva de la planta de beneficio y de sus instalaciones y/o componentes accesorios y auxiliares de acuerdo al Anexo I del presente Reglamento.
+
+3. Copia del cargo de presentaci del instrumento de gesti ambiental que sustente el proyecto; o, el nero de la resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+4. Documento que acredite que el solicitante es propietario o que está autorizado por el(los) propietario(s) del 100% de las acciones y derechos del predio parautilizar el(los) terreno(s) superficial(es) donde se realizará la actividad de beneficio, para lo cual debe presentar lo siguiente:
+
+a) Para terrenos superficiales que se encuentren
+
+inscritos en la SUNARP:
+
+i. Número de la partida registral y oficina registral
+
+donde conste inscrito el derecho de propiedad sobre el
+
+terreno superficial.
+
+ii. En caso que el solicitante no sea el propietario
+
+del terreno superficial, además del requisito anterior,
+
+debe presentar copia del testimonio de escritura plica mediante la cual el propietario autoriza al solicitante el uso
+
+del terreno superficial donde se desarrollará el proyecto.
+
+iii. En caso que el solicitante sea el propietario de
+
+un terreno superficial que se encuentra inscrito en
+
+SUNARP, y su derecho de propiedad a no se encuentre inscrito, además del requisito i), debe presentar copia del testimonio de escritura plica donde acredite el tracto sucesivo que corresponda.
+
+b) Para terrenos superficiales que no se encuentren
+
+inscritos en la SUNARP:
+
+i. Certificado de búsqueda catastral emitido por la SUNARP del área donde se desarrollará el proyecto, en el que conste que no existe superposici parcial o total a predios de terceros.
+
+ii. Copia del título de propiedad que acredite la calidad
+
+de propietario de quien afirme que lo es, acompañada de
+
+la declaraci jurada acerca de su autenticidad suscritapor el propietario.
+
+iii. En caso el solicitante no sea el propietario del
+
+terreno superficial, debe presentar copia del testimonio
+
+de escritura plica que autoriza al solicitante el uso del
+
+terreno superficial donde se desarrollará el proyecto,
+
+otorgado por quien acredita tener título de propiedad.
+
+c) En caso de terrenos superficiales de Comunidades
+
+Campesinas o Nativas, el solicitante debe indicar, además,
+
+el número de la partida registral y la oficina registral donde
+
+conste inscrita la Comunidad Campesina o Nativa como persona jurídica.
+
+d) En caso, que el proyecto minero se ubique en terrenos de dominio del Estado, el solicitante debe acreditar tener la autorizaci de uso de dichos terrenos, otorgado por la Superintendencia Nacional de Bienes Estatales – SBN, Gobierno Regional o entidad plica correspondiente, de conformidad a las normas legales del Sector competente.
+
+**82.2** Evaluado el cumplimiento de los requisitos, laDirecci General de Minería o Gobierno Regional, en el plazo de quince (15) días hábiles contados a partir de la presentaci de la solicitud, o cumplidos los plazos de absoluci de observaciones y/o cumplimiento de requerimientos a que se refiere el numeral 79.1 del artículo 79 del presente Reglamento, emite el acto administrativo que dispone se expidan los avisos de solicitud de concesión de beneficio a favor del solicitante para su publicaci.
+
+#### Artículo 83. Publicaci de avisos, oposici yobras preliminares
+
+**83.1** La Direcci General de Minería o Gobierno Regional entrega al solicitante los avisos de solicitud deconcesión de beneficio dentro de los cinco (5) días hábiles deexpedidos los avisos, para su publicaci dentro de los diez
+
+(10)días hábiles siguientes de su entrega, en el Diario Oficial"El Peruano" y en el diario encargado de la publicación de
+
+los avisos judiciales de la capital del departamento donde seencuentre ubicada el área del proyecto, bajo apercibimientode declarar el abandono de la solicitud.
+
+**83.2** Las publicaciones deben contener la siguienteinformaci: Nombre del derecho, titular, extensi, un resumen del(los) proceso(s) minero(s) metalgico(s) a desarrollar, identificando el depósito de relaves y/o pad de lixiviaci y su denominaci, capacidad instalada de tratamiento en TM/día, coordenadas UTM WGS84 de los vértices de la poligonal cerrada y zona, departamento, provincia y distrito donde se ubica, y el plano de ubicaci del proyecto de la concesión de beneficio solicitada.
+
+**83.3** El solicitante debe entregar las páginasenteras en las que conste la publicaci de los avisos a la Direcci General de Minería o Gobierno Regional, seg corresponda, dentro del plazo de los quince (15) días hábiles siguientes a la fecha de la publicaci, bajo apercibimiento de declarar el abandono de la solicitud.
+
+**83.4** La oposici puede ser interpuesta, icamente, en un plazo máximo de quince (15) días hábiles, contado a partir de la tima publicaci de los avisos mencionados en el numeral 83.1 del presente artículo. La oposicise tramita con arreglo a las normas sobre la materia,contenidas en la LGM y el presente Reglamento.
+
+**83.5** Si vencido el plazo selado en el numeral 83.4, no se ha interpuesto oposici al procedimiento, el solicitante puede iniciar obras preliminares, comunicando previamente a la Direcci General de Minería o Gobierno Regional, y selando el nero de la Resoluci queaprobel instrumento de gesti ambiental; asimismo,las obras preliminares deben encontrarse incluidas en el instrumento de gesti ambiental aprobado y contar con las autorizaciones de las autoridades sectoriales competentes cuando corresponda. En caso la Direcci General de Minería o Gobierno Regional tome conocimiento de alguna denuncia respecto al inicio de obras que no califican como obras preliminares, debe comunicar la referida denuncia a las Autoridades de fiscalización minera.
+
+**83.6** Son obras preliminares: movimientos de tierra, preparación de terrenos para módulos y edificaciones auxiliares, oficinas administrativas, campamentos,accesos, preparaci de material de cantera, talleres de mantenimiento, laboratorio, garitas de control, almacenespara la etapa de construcci, estacionamientos, canales
+
+o cunetas para obras de instalaciones auxiliares, muros para aislar áreas de trabajo, instalaciones eléctricaspreliminares, excavaciones para cimentaci ydepito temporal de material excedente y orgánico; el Ministerio de Energía y Minas puede ampliar el listado de obras preliminares mediante Resoluci Ministerial, incorporándolo como anexo del presente Reglamento.
+
+**83.7** En caso el solicitante haya iniciado obras preliminares y no obtenga la autorizaci de construcci respectiva, se encuentra obligado a ejecutar el cierre de las referidas obras preliminares, conforme al instrumentoambiental aprobado.
+
+**83.8** No procede la ejecuci de obras preliminares
+
+en caso se determine que el ámbito geográfico del
+
+proyecto se encuentra dentro de los alcances de la Ley Nº 29785, Ley del derecho a la consulta previa a los pueblos indígenas u originarios, reconocido en el Convenio 169 de la Organizaci Internacional del Trabajo (OIT).
+
+#### Artículo 84. Aprobaci del proyecto,
+
+otorgamiento del título de concesión de beneficio y
+
+autorizaci de construcci
+
+**84.1** La Direcci General de Minería o Gobierno Regional, luego de recibidas las publicaciones de los avisos conforme lo dispone el artículo anterior, y en casode no mediar oposici, eval los aspectos técnicos de la solicitud de concesión de beneficio, y en un plazomáximo de veinte (20) días hábiles, o cumplidos losplazos de absoluci de observaciones y/o cumplimiento de requerimientos a que se refiere el inciso 79.1 del artículo 79 del presente Reglamento, emite el informe técnico favorable que aprueba el proyecto de conceside beneficio, y mediante acto administrativo:
+
+a. Otorga el título de concesión de beneficio;
+
+b. Autoriza la construcción de la planta de beneficio y sus demás componentes, tales como, depitos derelaves y/o plataformas o pads de lixiviaci, otrossistemas de lixiviaci, pozas de soluciones y decontingencia, depsitos de ripios, depitos de residuos sidos y sus componentes auxiliares, de acuerdo con el proyecto aprobado.
+
+La Direcci General de Minería o Gobierno Regional puede autorizar la construcci por etapas, en caso asísea requerido por el solicitante.
+
+**84.2** El acto administrativo que otorga el título de concesión de beneficio y autoriza la construcción de la planta de beneficio y sus demás componentes se emite previa presentaci y evaluaci de:
+
+1. La copia del certificado de inexistencia de restos arqueolicos - CIRA o plan de monitoreo arqueolico – PMA del área del proyecto.
+
+2.
+
+La copia de la autorizaci de la autoridad competente, en caso el proyecto a ejecutarse afecte carreteras u otro derecho de vía, o la declaraci jurada del titular de actividad de no afectaci.
+
+3.
+
+El nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+La autorizaci comprende la ejecuci de pruebas pre operativas/comisionamiento que no deben exceder de un mes, las cuales deben estar incluidas en el cronograma de obra y deben culminar antes de la inspecci de verificación de la construcción referida en el artículo 85 del presente Reglamento.
+
+**84.3** En los casos en que el proyecto requiera de la explotaci de canteras para extracci de material delpréstamo con fines de relleno y construcción, estas puedenser consideradas como componentes de la conceside beneficio, para lo cual deben presentar la información técnica establecida en el procedimiento de autorizaci deactividades de explotaci, contenida en el Anexo VII del presente Reglamento; además, deben estar contenidas en elinstrumento de gestión ambiental respectivo, a fin de que lareferida actividad esté sujeta a la fiscalización correspondiente.
+
+**84.4** La Resoluci que otorga el título de la concesi
+
+de beneficio debe contener el nombre del derecho, titular
+
+minero, hectáreas otorgadas, Coordenadas UTM WGS84,
+
+capacidad instalada de tratamiento, identificar el o los procesos de beneficio, los componentes accesorios y la
+
+demarcaci política (distrito, provincia, departamento).
+
+La autorización de construcción de la planta de beneficio
+
+y sus componentes, debe establecer la obligaci de respeto contemplada en el artículo 36 del presente Reglamento y disponer se remita copia a las Autoridades
+
+de fiscalización minera y SENACE.
+
+**84.5** El procedimiento de solicitud de concesi de
+
+beneficio es de evaluación previa, tiene un plazo máximo
+
+de evaluaci de noventa (90) días hábiles, sujeto al silencio administrativo negativo.
+
+#### Artículo 85. Solicitud de Autorizaci de funcionamiento de la concesión de beneficio y de su modificación
+
+**85.1** El titular de una concesión de beneficio solicita a la Direcci General de Minería o Gobierno Regionalla autorizaci de funcionamiento de la concesi de beneficio, comunicando la culminación de las obras de construcci e instalaci de los componentes de la concesión de beneficio otorgada o de la modificación aprobada, así también la ejecuci de pruebas preoperativas/comisionamiento, y solicita la realizaci de la inspección de verificación, a través del formulario electrico vía extranet del portal web del Ministerio deEnergía y Minas, con los requisitos exigidos en los literales
+
+a) del numeral 30.1 del presente Reglamento.
+
+Asimismo, debe consignar y/o adjuntar los siguientes documentos:
+
+1. Nero de recibo de pago del derecho de trámite.
+
+2. Informe final de obra y/o instalaciones
+
+3. Certificado de Aseguramiento de la Calidad de la Construcci y/o instalaciones (CQA), suscrito por susupervisor de obra o quien haga sus veces (en caso de PPM).
+
+4. Planos de obra terminada (as built).
+
+5. Nero de la Resoluci que aprueba el plan de cierre de minas e informe que la sustenta o el cargo depresentaci del referido plan, adjuntando la garantíapreliminar
+
+**85.2** Revisada la solicitud, se designa al inspector y se ordena la realizaci de la diligencia de inspecci de verificación de la culminación de las obras de construcción e instalaci de los componentes de la concesi de beneficio, que se realiza dentro de los quince (15) días hábiles siguientes a la fecha de la solicitud, conforme a los términos de referencia aprobados por Resoluci Ministerial Nº 183-2015-MEM-DM o el dispositivo que la sustituya.
+
+**85.3** La diligencia de inspección tiene por finalidad verificar que la construcción e instalación de la plantade beneficio y de sus componentes, se ejecutaronconforme al proyecto aprobado, en la resoluci de título de la concesión de beneficio, por la Dirección General de Minería o Gobierno Regional; o que cumpla con las condiciones técnicas para iniciar operaciones y con los aspectos técnicos y normativos referidos a la seguridad y salud ocupacional minera, e impacto ambiental.
+
+**85.4** Si durante la inspecci se determinan
+
+diferencias/cambios significativos/ajustes entre la
+
+ingeniería aprobada en la autorizaci de construcci y lo construido, que no hayan sido comunicados con posterioridad a la autorizaci de construcci, el inspector incluye en el acta de inspecci las observaciones y/orecomendaciones, que deben ser absueltas y/o cumplidas por el titular de actividad minera en el plazo otorgado, el cual no puede exceder de 20 días, previo a la autorizaci de funcionamiento.
+
+**85.5** Culminada la diligencia de inspecci de
+
+verificación de la construcción de obras e instalaciones
+
+del proyecto aprobado, conforme lo establece el inciso
+
+**85.3** del presente artículo, los inspectores de la DirecciGeneral de Minería o Gobierno Regional y el solicitante
+
+o sus representantes suscriben el acta de inspecci. El acta de inspecci favorable constituye el informe con el que el administrado solicita ante la autoridad competente la licencia de uso de agua y la autorizaci de vertimiento de aguas residuales tratadas, en caso corresponda.
+
+**85.6** Cuando la construcci del proyecto se ejecute por etapas, el administrado solicita la inspeccicorrespondiente a cada etapa, para lo cual resultade aplicaci lo dispuesto en el primer párrafo del presente artículo, debiendo presentar adicionalmente el cronograma estimado de construcci de las siguientes etapas.
+
+#### Artículo 86. Aprobaci de la diligencia de
+
+inspección de verificación y autorización de
+
+funcionamiento
+
+**86.1** Cumplida la diligencia de inspecci de
+
+verificación, la Dirección General de Minería o Gobierno
+
+Regional, previo informe favorable, emite el acto administrativo en el cual resuelve:
+
+1. Aprobar la Inspección de Verificación de la construcci de obras e instalaciones del proyectoaprobado;
+
+2. Autorizar funcionamiento de la concesi de
+
+beneficio otorgada o de la modificación aprobada,
+
+conforme a la inspecci favorable.
+
+**86.2** El citado acto administrativo se expide dentro de los quince (15) días hábiles siguientes de concluida la inspecci, previa presentaci de la siguienteinformaci:
+
+1. Copia de la Resoluci que otorga la licencia de
+
+uso de agua para fines mineros, en caso el instrumento
+
+de gesti ambiental presentado no cuente con la opini técnica favorable de disponibilidad hídrica; y,
+
+2. Copia de la Resoluci que otorga la autorizaci de vertimiento de aguas residuales tratadas vigente,otorgada por la Autoridad Nacional del Agua. Cuandoen el instrumento de gesti ambiental se contemplela recirculación, reutilización o reúso para el mismo fin para el cual le fue otorgado el derecho de uso de agua no se requiere la presentaci de la Resoluci de autorizaci de vertimiento de aguas residuales tratadas, ni de documento adicional alguno vinculado con la recirculaci, reutilizaci o reo de dichas aguas.
+
+**86.3** En el caso de la autorizaci de funcionamiento
+
+por modificación de la concesión de beneficio, que no
+
+requiere de una nueva licencia de uso de aguas, ni de
+
+una nueva autorización de vertimiento o modificar las
+
+existentes, el titular de actividad minera puede iniciaroperaciones desde la fecha en que solicita la inspecci a la Direcci General de Minería o Gobierno Regionalcorrespondiente, siempre que no se trate de depitos de relaves y/o plataformas o pads de lixiviaci, pozas de operaci (grandes eventos), PLS, barren ysedimentaci; y, haya previamente cumplido con lo establecido el numeral 85.1 del presente Reglamento.
+
+86.4. En caso la Direcci General de Minería
+
+o Gobierno Regional determine que la informacipresentada para solicitar la inspecci es incompleta,
+
+notifica al titular de actividad minera para que paralice
+
+las actividades que haya iniciado como consecuencia de la aplicaci del supuesto del numeral 86.3 del presente artículo.
+
+**86.5** Cuando el proyecto se ejecute por etapas,la Direcci General de Minería o Gobierno Regionalautoriza el funcionamiento de la etapa con inspeccifavorable.
+
+**86.6** El procedimiento de autorizaci de
+
+funcionamiento de concesión de beneficio es de evaluación
+
+previa, tiene un plazo máximo de evaluaci de treinta
+
+(30) días hábiles, sujeto al silencio administrativo positivo.
+
+#### Artículo 87. Modificación de la concesión de beneficio
+
+**87.1** El titular de la actividad minera puede iniciar un
+
+procedimiento de modificación de concesión de beneficio
+
+en los siguientes casos:
+
+1. Para la instalaci y/o construccin de instalaciones adicionales, que incluyen depitos de relaves y/oplataformas o pads de lixiviaci y sus recrecimientos, con ampliaci de la capacidad instalada y la ampliaci de área de la concesión de beneficio;
+
+2. Para la instalaci y/o construccin de instalaciones adicionales, que incluyen depitos de relaves y/oplataformas o pads de lixiviaci y sus recrecimientos, y/o mejora de procesos con ampliaci de la capacidad instalada y sin ampliaci de área aprobada;
+
+3. Para la instalaci y/o construccin de instalaciones adicionales, que incluyan depitos de relaves y/oplataformas o pads de lixiviaci y sus recrecimientos, y/o mejoras de procesos sin modificar la capacidad instalada aprobada y sin ampliaci de área de la concesi de beneficio.
+
+**87.2** El procedimiento de modificación de concesión de beneficio es de evaluación previa, tiene un plazo máximo de evaluaci de noventa (90) días hábiles, sujeto al silencio administrativo negativo para el procedimiento de modificación con ampliación de área, como el punto 1 del numeral 87.1; y, sujeto al silencio administrativo positivo para el procedimiento de modificación sin ampliación de área, co los puntos 2 y 3 del numeral 87.1 del presente artículo.
+
+87.3Si la solicitud de modificación implica la ampliación
+
+de la capacidad instalada y la ampliaci del área de la
+
+concesión de beneficio, según el caso 1 del inciso 87.1
+
+del presente artículo, el titular de la actividad minera debe presentar una solicitud a la Direcci General de Minería o Gobierno Regional, a través del formulario electrico vía extranet del portal web del Ministerio de Energía y Minas, con los requisitos exigidos en los literales a), c), e) y f) del numeral 30.1 del artículo 30 del presente Reglamento, e indicar, de ser el caso, la ampliaci de la capacidad
+
+instalada de tratamiento de la concesión de beneficio.
+
+Asimismo, debe consignar y/o adjuntar los siguientes documentos:
+
+1. Nero de recibo de pago del derecho de trámite.
+
+2. Copia de la constancia de pago del derecho de vigencia, en caso de ampliaci de capacidad instalada.
+
+3. Memoria descriptiva de la planta de beneficio y de sus instalaciones y/o componentes principales y auxiliares de acuerdo al Anexo II del presente Reglamento.
+
+4. Copia del cargo de presentaci del instrumento de gesti ambiental que sustente el proyecto; o, el nero de la resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+5. Documento que acredite que el solicitante es propietario o que está autorizado por el(los) propietario(s) del 100% de las acciones y derechos del predio parautilizar el(los) terreno(s) superficial(es) donde se realizará la actividad de beneficio, conforme a los documentos requeridos en el punto 4 del numeral 82.1 del artículo 82 del presente Reglamento.
+
+La Direcci General de Minería o Gobierno Regional,luego de evaluar el cumplimiento de los requisitos seladosanteriormente emite el acto administrativo que dispone seexpidan los avisos para su publicaci, dentro de los plazosselados en el inciso 82.2 del artículo 82. Posteriormente, el titular de la actividad minera publica los avisos y entregalas publicaciones del aviso, conforme a los plazos dispuestosen el artículo 83 del Reglamento, y de no mediar oposici,la Direcci General de Minería o Gobierno Regional eval los aspectos técnicos del proyecto de modificación de la concesión de beneficio, previa presentación de:
+
+a. Copia del certificado de inexistencia de restos arqueolicos - CIRA o plan de monitoreo arqueolico – PMA del área del proyecto.
+
+b.
+
+Copia de la autorizaci de la autoridad competente, en caso el proyecto a ejecutarse afecte carreteras u otro derecho de vía, o la declaraci jurada del titular deactividad de no afectaci.
+
+c.
+
+Nero de Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+Cumplida la evaluaci técnica y considerando los plazos establecidos en el numeral 84.1 del artículo 84 del Reglamento, la Direcci General de Minería o Gobierno Regional, emite, previo informe técnico favorable, el acto administrativo que resuelve:
+
+1. Aprobar el proyecto de modificación de concesión de beneficio,
+
+2. Aprueba la modificación de área de la concesión de beneficio, indicando las coordenadas UTM correspondientes.
+
+3. Aprueba la ampliaci de la capacidad instalada,de ser el caso.
+
+4. Autoriza la construcci y/o instalaci del proyecto
+
+de modificación y sus demás componentes.
+
+**87.4** Si la solicitud de modificación comprende la
+
+ampliaci de la capacidad instalada aprobada, sin
+
+ampliación de área de la concesión de beneficio, según
+
+el caso 2 del numeral 87.1 del presente artículo, el titular de la actividad minera debe presentar una solicitud a laDirecci General de Minería o Gobierno Regional, a travésdel formulario electrico vía extranet del portal web del Ministerio de Energía y Minas, con los requisitos exigidosen los literales a) y c) del numeral 30.1 del artículo 30 delpresente Reglamento e indicar la ampliaci de la capacidad
+
+instalada de tratamiento de la concesión de beneficio.
+
+Asimismo, debe consignar y/o adjuntar los siguientes documentos:
+
+1. Nero de recibo de pago del derecho de trámite.
+
+2. Copia de la constancia de pago del derecho de vigencia.
+
+3. Memoria descriptiva de la planta de beneficio y de sus instalaciones y/o componentes principales, y auxiliares de acuerdo al Anexo II del presente Reglamento.
+
+4. Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+**87.5** Si la solicitud de modificación es sin modificar la
+
+capacidad instalada aprobada y sin ampliaci de área de
+
+la concesión de beneficio, según el caso 3 del numeral 87.1
+
+del presente artículo, el titular de la actividad minera debe presentar una solicitud a la Direcci General de Minería
+
+o Gobierno Regional, a través del formulario electrico vía extranet del portal web del Ministerio de Energía yMinas, con los requisitos exigidos en los literales a) y c) del numeral 30.1 del artículo 30 del presente Reglamento.
+
+Asimismo, debe consignar y/o adjuntar los siguientes documentos:
+
+1. Nero de recibo de pago del derecho de trámite.
+
+2. Memoria descriptiva de la planta de beneficio y de sus instalaciones y/o componentes principales, y auxiliares de acuerdo al Anexo II del presente Reglamento.
+
+3. Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+La Direcci General de Minería o Gobierno Regional luego de evaluar el cumplimiento de los requisitos del proyecto de modificación de la concesión de beneficio selados en los numerales 87.4 y 87.5, y considerando para estos efectos los plazos establecidos en el numeral
+
+**84.1** del artículo 84 del Reglamento, emite previo informe técnico favorable, el acto administrativo que resuelve:
+
+1.
+
+Aprobar el proyecto de modificación de concesión de beneficio.
+
+2.
+
+Aprueba la ampliaci de la capacidad instalada,de ser el caso.
+
+3. Autoriza la construcci y/o instalaci del proyecto
+
+de modificación y sus demás componentes.
+
+**87.6** En la evaluaci de los procedimientos de
+
+modificación de concesión de beneficio, se debe tener en
+
+cuenta, de ser el caso, las siguientes disposiciones:
+
+1. Es de aplicaci lo dispuesto en los artículos 82 al 84 y el Anexo II del presente Reglamento.
+
+2. Excepcionalmente, el titular minero puede realizar obras preliminares desde la fecha de presentaci de la solicitud, siempre que se encuentre en los supuestos de modificación de la concesión de beneficio sin ampliación de área, referidos en los supuestos 2 y 3 del numeral 87.1 del artículo 87.
+
+3 La Direcci General de Minería o Gobierno Regionalpuede autorizar la construcci en más de una etapa, en caso el titular de la actividad minera así lo solicite.
+
+**87.7** Las modificaciones de la concesión de beneficio dispuestas en el artículo 87 deberán seguir el procedimiento selado en los artículos 85 y 86 para su funcionamiento.
+
+#### Artículo 88. Informe Técnico Minero – ITM para
+
+concesión de beneficio
+
+**88.1** El titular de la actividad minera no requiere iniciar unprocedimiento de modificación de concesión de beneficio, siempre que el proyecto de modificación cuente íntegramente con la conformidad del informe técnico sustentatorio, otorgada por la autoridad ambiental, conforme al artículo131 del Reglamento de Protecci y Gesti Ambiental paralas Actividades de Explotación, Beneficio, Labor General, Transporte y Almacenamiento Minero, aprobado porDecreto Supremo Nº 040-2014-EM o el que haga sus veces,correspondiendo para estos efectos la presentaci delInforme Técnico Minero, y solo es aplicable en los siguientes casos:
+
+1. Modificar la capacidad instalada para instalaciones adicionales y/o mejora tecnolica de procesos sinampliaci de área;
+
+2. Instalaciones adicionales sin modificación de la
+
+capacidad instalada y sin ampliaci de área.
+
+**88.2** El titular de la actividad minera debe presentarante la Direcci General de Minería o Gobierno Regional una solicitud a través del formulario electrico vía extranet del portal web del Ministerio de Energía y Minas, debiendo consignar y/o adjuntar seg corresponda los siguientes documentos:
+
+1. Nero de recibo de pago del derecho de trámite.
+
+2.
+
+Fecha y nero de la constancia de pago delderecho de vigencia, en caso de ampliaci de la capacidad instalada.
+
+3.
+
+Nero de Resoluci que da conformidad al informe técnico sustentatorio y del informe que la sustenta.
+
+4.
+
+Memoria descriptiva conforme el Anexo III del presente Reglamento.
+
+5.
+
+Copia de la Resoluci que otorga la licencia de uso de agua que cubra el requerimiento de la ampliaci, expedida por la autoridad competente, de lo contrario, sino se requiere la licencia de uso de aguas, debe presentar el balance de agua como sustento.
+
+6.
+
+Copia de la Resoluci de autorizaci de vertimiento de aguas residuales tratadas vigente, otorgada por la Autoridad Nacional del Agua, en caso corresponda de acuerdo a lo selado en el punto 2 del inciso 86.2 delartículo 86 del presente Reglamento.
+
+**88.3** La Direcci General de Minería o Gobierno
+
+Regional, luego de verificar el cumplimiento de los
+
+requisitos y evaluados los aspectos técnicos del proyecto presentado, emite el informe técnico favorable y el actoadministrativo correspondiente, de ser el caso, en el plazo máximo de veinte (20) días hábiles de presentado elInforme Técnico Minero, resolviendo lo siguiente:
+
+1. Dar la conformidad del Informe Técnico Minero.
+
+2. Aprueba la modificación de la capacidad instalada de la concesión de beneficio, de ser el caso.
+
+3. Autoriza la construcci y el funcionamiento del
+
+proyecto de modificación de la concesión de beneficio y
+
+demás componentes.
+
+4. Dispone remitir copia a las Autoridades de
+
+fiscalización minera y al SENACE.
+
+**88.4** El titular de la actividad minera debe comunicar a la Direcci General de Minería y a las Autoridades de fiscalización minera; o, al Gobierno Regional,la culminaci de la construccin del proyecto de modificación de la concesión de beneficio, dentro de los tres (3) días hábiles siguientes a la finalización. Dicha comunicaci tiene carácter de Declaraci Jurada.
+
+**88.5** El titular de actividad minera debe contar con
+
+el Certificado de Aseguramiento de la Calidad de la
+
+Construcci y/o Instalaciones (CQA), suscrito por susupervisor de obra o quien haga sus veces, el informe
+
+final de obra y los planos de obra terminados (as built).
+
+**88.6** En los casos que OSINERGMIN verifique que la construcción se ha efectuado con cambios significativos respecto del proyecto de ingeniería aprobado, procede a paralizar las operaciones y comunica este hecho a la Direcci General de Minería. La misma regla se aplica para los proyectos con conformidad de Informe Técnico Minero de competencia de los Gobiernos Regionales.
+
+**88.7** El procedimiento de modificación de la concesión de beneficio vía Informe Técnico Minero es de evaluación previa sujeto a silencio administrativo positivo, y en caso de vencimiento del plazo máximo, se tiene por aprobada la solicitud, sin perjuicio que la Direcci General deMinería o Gobierno Regional emita el respectivo actoadministrativo conforme al numeral 88.3.
+
+#### Artículo 89. Excepción a la modificación de la concesión de beneficio
+
+**89.1** El titular de actividad minera se encuentra exceptuado de la obligaci de iniciar un procedimientode modificación de concesión de beneficio o de solicitar la conformidad de un Informe Técnico Minero, siempre que el proyecto de modificación:
+
+1. Comprenda los supuestos listados en el Anexo IV del presente Reglamento, que se ubican dentro del área del instrumento de gesti ambiental vigente y dentro del área de la concesión de beneficio; el Ministerio de Energía
+
+y Minas puede incorporar y/o modificar supuestos de
+
+excepci mediante Resoluci Ministerial; y,
+
+2. Cuente con alguno de los instrumentos de gesti ambiental aprobado: estudio de impacto ambiental (EIA), informe técnico sustentatorio (ITS), modificación del estudio de impacto ambiental (MEIA), estudio de impacto ambiental semi detallado (EIAsd), memorias técnicas detalladas (MTD) o plan ambiental detallado (PAD).
+
+Dichas modificaciones, son aprobadas por el Gerente General del titular de actividad minera o el gano quehaga sus veces para aquellos casos que no cuenten con Gerente General, dentro de la Unidad Minera o Unidad de Producci.
+
+**89.2** En los casos selados en el numeral 89.1 del presente artículo, el titular de la actividad minera, a través delformulario electrico vía extranet del portal web del Ministeriode Energía y Minas, comunica a la Direcci General deMinería o al Gobierno Regional el inicio de las obras en elplazo de cinco (5) días hábiles, debiendo consignar y/oadjuntar seg corresponda los siguientes documentos:
+
+1. Memoria descriptiva, especificaciones técnicas yplanos de ubicaci en coordenadas UTM WGS84 de los componentes auxiliares y/o instalaciones adicionales de la concesión de beneficio, correspondientes al proyectode modificación.
+
+2. Nero de Resoluci que aprueba el instrumento degesti ambiental dentro del cual se encuentra el proyecto demodificación y los componentes auxiliares y/o instalacionesadicionales de la concesión de beneficio materia de comunicaci; o nero de Resoluci que da conformidada la memoria técnica detallada (MTD), en su caso.
+
+3. Acta del Gerente General o el gano que haga sus veces para aquellos casos que no cuenten con GerenteGeneral, que aprueba la modificación de la concesión de beneficio, materia de la comunicación. Asimismo, el titular de la actividad minera debe poner en conocimiento a las Autoridades de Fiscalizaci Minera, el Acta que aprueba la modificación de la concesión de beneficio adjuntando los documentos 1 y 2 del presente inciso.
+
+**89.3** La Direcci General de Minería o Gobierno Regional, luego de revisar la comunicaci y la informaci presentada, tiene por presentada dicha comunicaci.
+
+#### Artículo 90. Acumulaci de concesiones de
+
+beneficio
+
+**90.1** La acumulación de concesiones de beneficio es un procedimiento de evaluaci previa sujeto a silencio administrativo positivo.
+
+**90.2** La acumulación de concesiones de beneficio, debe ser solicitada por el titular de la actividad minera, mediante una solicitud a través del formulario electrico vía extranet del portal web del Ministerio de Energíay Minas, a la Direcci General de Minería o Gobierno Regional, con los requisitos exigidos en los literales a), b), c), e) y f) del numeral 30.1 del artículo 30 del presente Reglamento; además, debe indicar la capacidad instalada de tratamiento del proyecto de acumulaci, que resultade la sumatoria de las capacidades instaladas de las concesiones de beneficio a acumular. Las concesiones de beneficio a acumular deben ser de un mismo titular minero y sus áreas deben ser colindantes por lo menos, por un lado.
+
+Asimismo, debe consignar y/o adjuntar, segcorresponda, los siguientes documentos:
+
+1. Nero de recibo de pago del derecho de trámite.
+
+2. Relación de concesiones de beneficio a acumular.
+
+3. Informaci de la partida electrica registral y la Oficina Registral en la cual se encuentra inscrita cada una de las concesiones de beneficio a acumular.
+
+4. Copia del certificado negativo de cargas ygravámenes de cada una de las concesiones de beneficio
+
+o la autorizaci de sus acreedores.
+
+5. Memoria descriptiva del proyecto de acumulacique contenga un inventario detallado de los componentes de las concesiones de beneficio que se acumulan.
+
+**90.3** Verificado el cumplimiento de los requisitos de
+
+presentaci de las solicitudes de acumulaci de concesi
+
+de beneficio, así como el pago por derecho de vigencia,
+
+correspondiente, la Direcci General de Minería o el Gobierno Regional, emite en el plazo de treinta (30) días hábiles de presentada la solicitud, la Resoluci de aprobacide la acumulaci que otorga un nuevo título de concesi de
+
+beneficio, anteponiendo al nombre de la nueva concesión el término "Acumulación", disponiendo la cancelación y archivode las concesiones de beneficio que fueron acumuladas.
+
+Consentida dicha Resoluci se comunica al INGEMMET para su incorporaci al Catastro Minero Nacional. Laresoluci indicada icamente surte efecto, a partir de lafecha en que quede consentida o ejecutoriada.
+
+#### Artículo 91. División de concesión de beneficio
+
+**91.1** La división de la concesión de beneficio es un procedimiento de evaluaci previa sujeto a silencioadministrativo positivo.
+
+**91.2** La división de la concesión de beneficio debe ser solicitada por el concesionario de beneficio a la Dirección General de Minería o al Gobierno Regional, adjuntando los requisitos exigidos en los literales a), b), c), e) y f) del numeral 30.1 del artículo 30 del presente Reglamento;además, debe indicar la capacidad de tratamiento de la nueva concesión de beneficio que se restará de la capacidad instalada de la concesión de beneficio matriz.
+
+**91.3** El titular minero debe presentar la solicitud de la
+
+división de la concesión de beneficio con título inscrito,
+
+consignando y/o adjuntando seg corresponda los siguientes documentos:
+
+1. Nero de recibo de pago del derecho de trámite.
+
+2. Indicar el nombre, la extensi, ubicaci ycoordenadas UTM WGS84 de las áreas divididas.
+
+3. Informaci de la partida electrica registral yla Oficina Registral en la cual se encuentra inscrita la concesión de beneficio a dividir.
+
+4. Memoria descriptiva y estudio técnico por cadauna de las áreas del proyecto de divisi, incluyendo la memoria descriptiva, el estudio técnico de la concesi de beneficio a dividir, que comprenda un inventario detallado de las instalaciones y/o componentes principales yauxiliares de la concesión de beneficio a dividir y de la(s) nueva(s) concesión(es) de beneficio a constituirse.
+
+5. Indicar el nero de la resolucin que aprueba el instrumento de gesti ambiental.
+
+6. Copia del certificado negativo de cargas ygravámenes de la concesión de beneficio a dividir o la autorizaci de sus acreedores.
+
+**91.4** Verificado el cumplimiento de los requisitos de
+
+presentaci de la solicitud de divisi de concesi de
+
+beneficio, así como el pago por derecho de vigencia,
+
+correspondiente, la Direcci General de Minería o GobiernoRegional, en un solo acto emite, en el plazo de treinta (30)días hábiles de presentada la solicitud, la Resoluci queaprueba la divisi de área, la reducci del área de la
+
+concesión de beneficio matriz y aprueba el nuevo título de concesión de beneficio del área dividida, señalando para cada
+
+caso, la nuevas capacidades instaladas correspondientes
+
+a cada una de las concesiones de beneficio. Consentida
+
+dicha Resoluci se comunica al INGEMMET para suincorporaci al Catastro Minero Nacional. La Resoluciindicada so surte efecto, a partir de la fecha en que quede consentida o ejecutoriada.
+
+**91.5** La hipoteca, cesi, contrato de opci, cargas, gravámenes o medidas judiciales anotadas en los registros públicos respecto a la concesión de beneficio dividida, recae en cada uno de los títulos.
+
+**91.6** Las nuevas concesiones producto de la divisi tienen la antigdad del título de la concesi original,para fines del cumplimiento de sus obligaciones.
+
+**91.7** La formaci de los expedientes divididosse rige por las disposiciones del procedimiento de fraccionamiento.
+
+#### Artículo 92. Autorización de beneficio de
+
+minerales para productores mineros artesanales
+
+**92.1** El productor minero artesanal debe presentar
+
+una solicitud de autorización para beneficio de minerales
+
+a través del formulario electrico vía extranet del portal web del Ministerio de Energía y Minas, a la Direcci General de Minería o Gobierno Regional, con los requisitos exigidos en los literales a), c) e) y f) del numeral 30.1 del artículo 30 del presente Reglamento, y debe indicar la capacidad de tratamiento del proyecto, conforme alartículo 91 de la LGM.
+
+Asimismo, debe consignar y/o adjuntar segcorresponda los siguientes documentos:
+
+1. Nero de recibo de pago del derecho de trámite.
+
+2. Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+3. Memoria descriptiva de la planta de beneficio y de sus instalaciones y/o componentes principales y auxiliares de acuerdo al Anexo V del presente Reglamento.
+
+4. Documento que acredite que el solicitante es propietario o que está autorizado por el(los) propietario(s) del 100% de las acciones y derechos del predio parautilizar el(los) terreno(s) superficial(es) donde se realizará la actividad de beneficio, conforme al punto 4 del numeral
+
+**82.1** del artículo 82 del presente Reglamento.
+
+5. Copia del certificado de inexistencia de restos
+
+arqueolicos – CIRA o el plan de monitoreo arqueolico
+
+– PMA, seg corresponda.
+
+6.
+
+Nero de la Resoluci que aprueba el plan decierre de minas e informe que la sustenta, o el cargo de presentaci del referido plan, adjuntando la garantíapreliminar.
+
+7.
+
+Copia de la Resoluci que otorga la licencia de uso de agua y/o de la Resoluci que otorga la autorizaci de vertimiento de aguas residuales tratadas, so cuando corresponda.
+
+**92.2** Verificado el cumplimiento de los requisitos
+
+establecidos en el inciso 92.1, la Direcci General de
+
+Minería o Gobierno Regional, autoriza el beneficio de
+
+minerales, en un plazo que no exceda los treinta (30) días hábiles de presentada la solicitud.
+
+**92.3** El procedimiento de autorización de beneficio de minerales para productores mineros artesanales es de evaluaci previa sujeto a silencio administrativo negativo.
+
+#### Artículo 93. Modificación de la autorización de beneficio de minerales para productores mineros artesanales
+
+**93.1** El productor minero artesanal debe presentar una
+
+solicitud de modificación de la autorización de beneficio
+
+de minerales a través del formulario electrico vía extranet del portal web del Ministerio de Energía y Minas, a la Direcci General de Minería o Gobierno Regional, con los requisitos exigidos en los literales a), c), e) y f) del numeral 30.1 del artículo 30 del presente Reglamento, y debe indicar la capacidad de tratamiento del proyecto a
+
+modificar, conforme el artículo 91 de la LGM.
+
+Asimismo, debe consignar y/o adjuntar segcorresponda los siguientes documentos:
+
+93.1.1
+
+Para ampliar la capacidad instalada o instalaci y/o construcci de componentes, que impliquen nuevas áreas (incluye depitos de relaves y/o plataformas (PAD) de lixiviaci):
+
+1. Nero de recibo de pago del derecho de trámite.
+
+2.
+
+Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+3. Memoria descriptiva del proyecto de modificación de la autorización de beneficio y de sus instalaciones y/o componentes principales y auxiliares de acuerdo al Anexo V del presente Reglamento, so en los aspectos quecorresponda.
+
+4. Documento que acredite que el solicitante es propietario o que está autorizado por el(los) propietario(s) del 100% de las acciones y derechos del predio parautilizar el(los) terreno(s) superficial(es) donde se realizará la actividad de beneficio, conforme al punto 4 del numeral
+
+**82.1** del artículo 82 del presente Reglamento.
+
+5. Copia del certificado de inexistencia de restos
+
+arqueolicos – CIRA o el plan de monitoreo arqueolico
+
+– PMA, seg corresponda.
+
+6. Copia de la Resoluci que otorga la licencia de uso de agua y/o la Resoluci que otorga la autorizaci de vertimiento de aguas residuales tratadas, so cuando corresponda.
+
+93.1.2 Para ampliar la capacidad instalada (instalaciones y/o construcci de componentesadicionales y/o mejora de procesos) sin ampliaci de área; o, para adicionar instalaciones sin modificar la capacidad instalada aprobada y sin ampliaci de área:
+
+1. Nero de recibo de pago del derecho de trámite.
+
+2. Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+3. Memoria descriptiva del proyecto de modificación de la autorización de beneficio y de sus instalaciones y/o componentes principales y auxiliares de acuerdo al Anexo V del presente Reglamento, so en los aspectos quecorresponda.
+
+4. Copia de la Resoluci que otorga la licencia de uso de agua y/o la Resoluci que otorga la autorizaci de vertimiento de aguas residuales tratadas, so cuando corresponda.
+
+**93.2** Verificado el cumplimiento de los requisitosestablecidos en los párrafos anteriores, la DirecciGeneral de Minería o Gobierno Regional, autoriza la modificación de la autorización de beneficio de minerales.
+
+**93.3** El procedimiento de modificación de autorización de beneficio de minerales para productores mineros artesanales es de evaluaci previa, tiene un plazomáximo de evaluaci de treinta (30) días hábiles depresentada la solicitud, sujeto a silencio administrativo negativo para la modificación con ampliación de área, como el punto 93.1.1 del numeral 93.1; y, sujeto a silencio administrativo positivo para la modificación sin ampliación de área, como el punto 93.1.2 del numeral 93.1 delpresente artículo.
+
+### Capítulo XVII — CONCESIÓN DE LABOR GENERAL
+
+#### Artículo 94. Otorgamiento de concesi de laborgeneral
+
+**94.1** El solicitante de una concesi de labor general debe presentar una solicitud a la Direcci General de Minería o Gobierno Regional, con los requisitos exigidos en los literales a), b), c) y f) del inciso 30.1 y los literales
+
+a) y f) del numeral 30.2 del artículo 30 del presenteReglamento, con tantas copias como titulares vayan a ser
+
+beneficiados.
+
+Asimismo, debe consignar y/o adjuntar segcorresponda los siguientes documentos:
+
+1.
+
+Nero de recibo de pago del derecho de trámite.
+
+2.
+
+Memoria descriptiva, que indique la longitud de
+
+la labor general, área de influencia, plazo y calendario
+
+de ejecuci de la obra, el o los servicios a prestar, condiciones de aprovechamiento de los minerales en las concesiones que atraviesa, relaci entre el concesionario
+
+y los de la zona de influencia, régimen de mantenimiento,
+
+régimen de utilizaci de la labor por el y/o los distintos concesionarios, disposici de las sustancias minerales en las aguas que se alumbran, limpieza de desmonte, sistema de ventilaci, desag, iluminaci y forma
+
+como se almacena el desmonte en la superficie.
+
+3.
+
+Plano en coordenadas UTM WGS84 a escala 1/500 y a curva de nivel, con indicaci de las concesiones mineras que atraviese, nombre de ellas y de sus titulares, domicilio de ellos, con la proyecci horizontal de las obras a ejecutarse.
+
+4.
+
+Planos de cortes longitudinales y transversalesnecesarios para la interpretaci de las características de la obra y de las rocas que la socaven.
+
+**94.2** Dentro de los diez (10) días hábiles siguientes a la fecha de presentada la solicitud, la Direcci General de Minería o Gobierno Regional notifica a los titulares de las concesiones mineras en favor de los cuales se solicita la labor general, para la realizaci de una Junta de Concesionarios, la que tiene lugar, en primera citaci, dentro de un plazo no mayor de quince (15) días hábiles de efectuada la citaci y, en segunda citaci, de un plazo no mayor de treinta (30) días hábiles.
+
+**94.3** La Junta es presidida por la Direcci General de Minería o el Gobierno Regional, y en ella se adoptan los acuerdos concernientes a la ejecuci de la obra y el aprovechamiento de los servicios. Para decidir sobre la ejecuci de la obra, es necesaria la concurrencia yel voto favorable de por lo menos las dos terceras (2/3) partes de los concesionarios mineros de la zona de influencia, calculando cada voto por hectárea concedida. Los demás acuerdos se toman por mayoría simple.
+
+**94.4** La Direcci General de Minería o Gobierno Regional, previa aprobaci de la ejecuci de obras por laJunta de Concesionarios, otorga el título de concesi delabor general, en un plazo que no exceda los quince (15)días hábiles contados desde la aprobaci de la ejecuci deobras por la Junta de Concesionarios. La citada resolucies puesta en conocimiento a las Autoridades de fiscalizaciónminera para los fines de sus competencias.
+
+**94.5** El procedimiento de otorgamiento de concesi de labor general es de evaluaci previa, tiene un plazo máximo de evaluaci de noventa (90) días hábiles,sujeto a silencio administrativo positivo.
+
+### Capítulo XVIII — CONCESIÓN DE TRANSPORTE MINERO
+
+#### Artículo 95. Otorgamiento de concesi de transporte minero
+
+**95.1** El solicitante de una concesi de transporte minero debe presentar una solicitud a la Direcci General de Minería o Gobierno Regional, con los requisitosexigidos en los literales a), b), c), e) y f) del numeral 30.1 y los literales a) y f) del numeral 30.2 del artículo 30 del presente Reglamento.
+
+Asimismo, debe consignar y/o adjuntar segcorresponda los siguientes documentos:
+
+1. Nero de recibo de pago del derecho de trámite.
+
+2. Nero de la resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+3. Documento que acredite que el solicitante es propietario o que está autorizado por el(los) propietario(s) del 100% de las acciones y derechos del predio parautilizar el(los) terreno(s) superficial(es) donde se realizará la actividad de transporte minero, conforme el punto 4 delnumeral 82.1 del artículo 82 del presente Reglamento.
+
+4. Memoria descriptiva del sistema de transporteminero, longitud, diámetro, capacidad y velocidad de transporte en caso corresponda, así como el presupuesto y cronograma respectivo.
+
+5. Plano de ubicaci detallado indicando coordenadas
+
+UTM WGS84 de los vértices del área superficial del proyecto.
+
+6. Copia del certificado de inexistencia de restos
+
+arqueolicos -CIRA o el plan de monitoreo arqueolico
+
+-PMA, seg corresponda.
+
+7. Ingeniería detallada de las obras civiles del sistema de transporte minero y de las instalacioneselectromecánicas, conforme el Anexo VI del presenteReglamento.
+
+**95.2** La Direcci General de Minería o Gobierno Regional luego de evaluar los aspectos técnicos legales de la solicitud, expide el acto administrativo que aprueba el proyecto de la concesi de transporte minero, autoriza la construcci del sistema de transporte, otorga laconcesi de transporte y autoriza su funcionamiento,dentro de los noventa (90) días hábiles siguientes a la fecha de su presentaci; además, el referido actoadministrativo se debe poner en conocimiento de las Autoridades de fiscalización minera.
+
+**95.3** Sin perjuicio del procedimiento establecido, el
+
+informe final de obra, las condiciones de seguridad y
+
+ambientales de la construcci del sistema de transporte
+
+y componentes del proyecto son materia de fiscalización por las Autoridades de fiscalización minera.
+
+**95.4** El procedimiento de otorgamiento de concesi de transporte minero, es de evaluaci previa sujeto a silencio administrativo negativo.
+
+#### Artículo 96. Modificación de la concesión de
+
+transporte minero
+
+**96.1** El solicitante de una modificación de la concesión de transporte minero debe presentar una solicitud a la Direcci General de Minería o Gobierno Regional, con los requisitos exigidos en los literales a), b), c), e) y f) del numeral 30.1 y el literal f) del numeral 30.2 del artículo 30 del presente Reglamento; y, consignar y/o adjuntar, seg corresponda, los siguientes documentos:
+
+1. Con ampliaci de área:
+
+a) Nero del recibo de pago por derecho de trámite.
+
+b)
+
+Constancia de pago del derecho de vigencia,correspondiente al área ampliada.
+
+c)
+
+Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+d) Documento que acredite que el solicitante es propietario o que está autorizado por el(los) propietario(s) del 100% de las acciones y derechos del predio parautilizar el(los) terreno(s) superficial(es) correspondiente al área ampliada donde se realizará la actividad de transporte, conforme al punto 4 del numeral 82.1 del artículo 82 del presente Reglamento.
+
+e) Memoria descriptiva del proyecto de modificación de la concesi de transporte minero, indicando la longitud ampliada del sistema de transporte, cronograma y presupuesto correspondiente al área ampliada.
+
+f) Plano de ubicaci detallado indicando coordenadas
+
+UTM WGS84 del área superficial del proyecto y del área
+
+ampliada.
+
+g) Copia del certificado de inexistencia de restos
+
+arqueolicos -CIRA o el plan de monitoreo arqueolico
+
+- PMA seg corresponda, del área ampliada.
+
+2. Sin ampliaci de área:
+
+a)
+
+Nero del recibo de pago por derecho de trámite.
+
+b)
+
+Plano de ubicaci detallado indicando coordenadas
+
+UTM WGS84 del área superficial del proyecto.
+
+c) Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+d) Memoria descriptiva que indique el sistema de transporte y su longitud, cronograma y presupuesto correspondiente a la modificación.
+
+**96.2** La Direcci General de Minería o Gobierno Regional luego de evaluados los aspectos técnicoslegales de la solicitud de modificación, previo informe técnico favorable, expide el acto administrativo queaprueba el proyecto de modificación de la concesión de transporte minero, aprueba la ampliaci de área de la concesi de transporte minero, de ser el caso y autoriza su funcionamiento, dentro de los cuarenta y cinco (45) días hábiles siguientes a la fecha de su presentaci;además, el referido acto administrativo se debe poner en conocimiento de las Autoridades de fiscalización minera.
+
+**96.3** Para efecto de los procedimientos de modificación de la concesi de transporte minero, es de aplicaci lo dispuesto en el numeral 95.3 del artículo 95 del presenteReglamento.
+
+**96.4** El procedimiento de modificación de la concesión de transporte minero es de evaluaci previa, sujeto a silencio administrativo negativo para el procedimiento demodificación con ampliación de área como el punto 1 del numeral 96.1; y, sujeto a silencio administrativo positivo para el procedimiento de modificación sin ampliaciónde área, co el punto 2 del numeral 96.1 del presente artículo.
+
+### Capítulo XIX — PROCEDIMIENTO PARA AUTORIZACIÓN DE ACTIVIDADES DE EXPLORACIÓN
+
+#### Artículo 97. Autorizaci de actividades de exploraci
+
+**97.1** El solicitante de una autorizaci de actividades de exploraci debe presentar una solicitud a través del formulario electrico vía extranet del portal web del Ministerio de Energía y Minas, a la Direcci General de Minería o Gobierno Regional, correspondiente.
+
+**97.2** La autorizacin de actividad de exploraci es de aprobaci automática o de evaluaci previa, en mérito a las conclusiones que se encuentren contenidas en el informe que determina el área del proyecto comprendidoen la Ley Nº 29785.
+
+#### Artículo 98. Informe que determina el área delproyecto comprendido en la Ley Nº 29785
+
+Previo al inicio del trámite de autorizaci de actividades de exploraci, el solicitante debe presentarante la Direcci General de Minería o Gobierno Regionaluna solicitud indicando las coordenadas UTM WGS84 de los vértices que encierran el área de influencia directa del proyecto de exploraci, contenido en su instrumento de gesti ambiental aprobado, a efecto que la autoridad emita el informe que determine preliminarmente si el ámbito geográfico de la actividad de exploración a ejecutarse se encuentra dentro de los alcances de la Ley Nº 29785, Ley del derecho a la consulta previa a los pueblos indígenas u originarios, reconocido en el Convenio 169 de la Organizaci Internacional del Trabajo (OIT), y su Reglamento aprobado con Decreto Supremo Nº 001­2012-MC. La solicitud es atendida en un plazo no mayor a diez (10) días hábiles.
+
+#### Artículo 99. Autorizaci de actividades de exploraci de aprobaci automática
+
+**99.1** La autorizaci de las actividades de exploraci está sujeta a un procedimiento de aprobaci automática, en caso que la Direcci General de Minería o Gobierno Regional determine mediante el informe preliminar que el ámbito geográfico que abarca el área de influencia directa del proyecto de exploraci, no se encuentra dentro de los alcances de la Ley Nº 29785 y su Reglamento aprobado con Decreto Supremo Nº 001-2012-MC.
+
+**99.2** El solicitante debe presentar su solicitud conforme está prescrito en el numeral 97.1 del artículo97 del presente Reglamento, y conjuntamente con su solicitud los requisitos exigidos en los literales a) y c) del numeral 30.1 del artículo 30 del presente Reglamento.
+
+Asimismo, debe consignar y/o adjuntar segcorresponda, los siguientes documentos:
+
+1. Nero del recibo de pago por derecho de trámite.
+
+2.
+
+Nombre y cigo de la(s) concesi(es) minera(s) donde se desarrollará el proyecto.
+
+3.
+
+Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+4. Ubicaci en coordenadas UTM WGS84 de los
+
+vértices del área superficial del proyecto de exploración.
+
+5. Programa de trabajo.
+
+6. Copia del certificado de inexistencia de restos
+
+arqueolicos – CIRA o el plan de monitoreo arqueolico
+
+– PMA, seg corresponda.
+
+7. Declaraci Jurada del titular de actividad minera donde conste que es propietario del predio o que estáautorizado por el(los) propietario(s) del 100% de las acciones y derechos del predio para utilizar el(los) terreno(s)superficial(es) donde se realizará la actividad de exploración.
+
+**99.3** La Direcci General de Minería o el Gobierno Regional emite una constancia de aprobaci automática en el plazo máximo de cinco (5) días hábiles.
+
+#### Artículo 100. Autorizaci de actividades de exploraci de evaluaci previa
+
+**100.1** En caso que la Direcci General de Minería
+
+o Gobierno Regional determine preliminarmente que el
+
+ámbito geográfico que abarca el área de influencia directa
+
+del proyecto de exploraci se encuentra dentro de los alcances de la Ley Nº 29785 y su Reglamento aprobado con Decreto Supremo Nº 001-2012-MC, la autorizaci de actividades de exploraci está sujeta a un procedimiento de evaluaci previa.
+
+**100.2** El plazo máximo de evaluaci del presenteprocedimiento es de treinta (30) días hábiles sujeto a silencio administrativo negativo.
+
+**100.3** El solicitante debe presentar una solicitud a través del formulario electrico vía extranet del portal web del Ministerio de Energía y Minas, a la Direcci General de Minería o Gobierno Regional, debiendo presentar, los requisitos exigidos en los literales a) y c) del numeral 30.1 del artículo 30 del presente Reglamento.
+
+Asimismo, debe consignar y/o adjuntar segcorresponda los siguientes documentos:
+
+1. Nero del recibo de pago por derecho de trámite.
+
+2.
+
+Nombre y cigo de la(s) concesi(es) minera(s) donde se desarrollará el proyecto.
+
+3.
+
+Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+4. Ubicaci en coordenadas UTM WGS84 de los
+
+vértices del área superficial del proyecto de exploración.
+
+5. Programa de trabajo.
+
+6. Copia del certificado de inexistencia de restos
+
+arqueolicos – CIRA o el plan de monitoreo arqueolico
+
+– PMA, seg corresponda.
+
+7. Declaraci Jurada del titular de actividad minera donde conste que es propietario del predio o que está autorizado por el(los) propietario(s) del 100% de las acciones y derechos del predio para utilizar el(los)terreno(s) superficial(es) donde se realizará la actividad de exploraci.
+
+**100.4** La Direcci General de Minería o el Gobierno Regional, previo informe técnico favorable, emite el acto administrativo que autoriza el inicio de las actividades de exploraci, selando el nombre y cigo de las concesiones mineras donde se desarrollará el proyecto; además, el referido acto administrativo se pone en conocimiento de las Autoridades de fiscalización minera.
+
+#### Artículo 101. Excepciones a la autorizaci de actividades de exploraci
+
+**101.1** El titular de actividad minera se encuentra exceptuado de la obligaci de iniciar un procedimientode autorizaci de actividades de exploraci minera, en los casos que:
+
+1. El proyecto de modificación de la actividad de exploraci, se ubique en la misma área efectiva de la actividad de exploraci que cuenta con autorizaci o que dicha actividad de exploraci hubiere iniciado antes del Decreto Supremo Nº 020-2012-EM; y cuente con la declaraci de impacto ambiental (DIA) o estudio de impacto ambiental semidetallado (EIAsd) o ficha técnica ambiental (FTA) aprobados.
+
+2. El proyecto de exploraci esté ubicado en el área efectiva de un proyecto minero de explotaci, que tengan certificación ambiental, autorización de inicio o reinicio de actividades y plan de minado o para el caso de actividades continuas, la aprobaci del plan de minado esté aprobado por el Gerente General de la empresa minera o quien haga sus veces en aquellos casos que no cuenten con Gerente General.
+
+3. El proyecto de exploraci, se sustente en la
+
+modificación de la declaración de impacto ambiental (DIA)
+
+y/o estudio de impacto ambiental semidetallado (EIAsd) vía informe técnico sustentatorio – ITS; y se encuentre ubicado dentro del área efectiva del proyecto y cuente con autorizaci de actividad de exploraci.
+
+**101.2** En los supuestos mencionados en el presente artículo, el titular de actividad minera debe comunicar a la Direcci General de Minería o Gobierno Regionalsegún corresponda, y a las autoridades de fiscalización ambiental, respecto al inicio de las actividades deexploraci, dentro del plazo de tres (3) días hábiles contado desde el inicio de las mismas, precisando la excepci aplicable. La Direcci General de Minería
+
+o Gobierno Regional tiene por presentada dicha comunicaci; y anexa la comunicaci de corresponder, al expediente que autorizel inicio de actividades de exploraci.
+
+### Capítulo XX
+
+PROCEDIMIENTO PARA AUTORIZAR ACTIVIDADES DE EXPLOTACIÓN
+
+#### Artículo 102. Autorizaci de las actividades de explotaci que incluye aprobaci del plan deminado y botaderos
+
+**102.1** El solicitante de la autorizaci de inicio
+
+o reinicio de actividades de explotaci que incluyeaprobaci del plan de minado y botaderos, y de nuevos tajos, debe presentar una solicitud a través del formularioelectrico vía extranet del portal web del Ministerio deEnergía y Minas, a la Direcci General de Minería o Gobierno Regional, con los mismos requisitos exigidos en los literales a) y c) del numeral 30.1 del artículo 30 del presente Reglamento.
+
+Asimismo, debe consignar y/o adjuntar, segcorresponda, los siguientes documentos:
+
+1. Nero del recibo de pago por derecho de trámite.
+
+2.
+
+Nombre y cigo de la(s) concesi(es) minera(s) dde se desarrollará el proyecto.
+
+3.
+
+Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+4.
+
+Nero de la Resoluci que aprueba el plan decierre de minas e informe que la sustenta, o cargo depresentaci del referido plan, adjuntando la garantíapreliminar.
+
+5.
+
+Informaci técnica de acuerdo a los parámetrosestablecidos en el Anexo VIII del presente Reglamento. Las autorizaciones de explotaci pueden incluir el chancado primario teniendo como ico objeto el trasladocomo parte del plan de minado, ubicados en áreas del proyecto donde se realiza la explotaci.
+
+6. Documento que acredite que el solicitante es propietario o que está autorizado por el(los) propietario(s) del 100 % de las acciones y derechos del predio para utilizar el(los) terreno(s) superficial(es) donde se ubicarán todos los componentes del proyecto tales como tajos, bocamina(s), depito de desmonte y mineral, cantera(s) de material de préstamo, campamento(s), taller(es),polvorín, vías de acceso, enfermería, entre otros, conforme a los documentos requeridos en el punto 4 del numeral 82.1 del artículo 82 del presente Reglamento.
+
+7. Copia del certificado de inexistencia de restos arqueolicos - CIRA o el plan de monitoreo arqueolico-PMA, seg corresponda.
+
+8. Copia de la autorizaci de la autoridad competente, en caso que el proyecto a ejecutarse afecte carreteras u otro derecho de vía. En caso de no afectaci, el titular de la actividad minera debe presentar una Declaraci Jurada y plano de ubicaci de los componentes mineros y su distancia a las vías cercanas al proyecto.
+
+**102.2** El procedimiento de autorizaci de explotacies de evaluaci previa sujeto a silencio administrativo negativo.
+
+**102.3** Evaluado el cumplimiento de los requisitosestablecidos en el numeral 102.1 del presenteartículo, la Direcci General de Minería o el Gobierno Regional correspondiente, aprueba el plan de minado, botaderos y componentes auxiliares y autoriza el inicio de las actividades de explotaci o su reinicio, en las concesiones mineras donde se ubica el proyecto minero de explotaci, dentro de los treinta (30) días hábilessiguientes a la fecha de su presentaci.
+
+**102.4** Sin perjuicio del procedimiento establecido,
+
+el informe final de obra, las condiciones de seguridad
+
+y ambientales de las labores mineras, instalaciones y
+
+componentes del proyecto son materia de fiscalización por las Autoridades de fiscalización minera competente.
+
+**102.5** El titular de la actividad minera debe comunicar al OSINERGMIN y OEFA o al Gobierno Regional, la culminaci de las obras de desarrollo y preparaci,dentro de los tres (03) días hábiles siguientes a lafinalización.
+
+**102.6** En los casos en que el proyecto requiera de la explotaci de canteras de sustancia no metálica para material del préstamo con fines de relleno y construcción, estas pueden ser consideradas como componentes del plan de minado en trámite, para lo cual deben presentar la informaci técnica establecida en el procedimiento de autorizaci de actividades de explotaci, contenida en el Anexo VII del presente Reglamento, además deben estar contenidas en el instrumento de gesti ambiental
+
+respectivo, a fin de que la referida actividad esté sujeta a la fiscalización correspondiente.
+
+#### Artículo 103. Modificación de la autorización de
+
+actividades de explotaci
+
+**103.1** El titular de la actividad minera debe iniciar
+
+un procedimiento de modificación de autorización de
+
+explotaci en los siguientes casos:
+
+1. Cambio del método de explotación superficial a
+
+subterráneo o viceversa.
+
+2. Ampliación del límite final del tajo y/o nuevas bocaminas que no se encuentren dentro de los supuestos del ITM.
+
+3. Construcci de un nuevo depito (desmonte,material inadecuado, etc.), ampliaci y/o su recrecimiento que no se encuentre dentro de los supuestos del ITM.
+
+**103.2** Para los casos de modificaciónde la autorización de actividades de explotaci, cuyos componentes se ubiquen en nuevas áreas o amplíen las áreas autorizadas, el titular de la actividad minera debe presentar unasolicitud a través del formulario electrico vía extranet del portal web del Ministerio de Energía y Minas, a la Direcci General de Minería o Gobierno Regional, con los mismos requisitos exigidos en los literales a) y c) del numeral 30.1 del artículo 30 del presente Reglamento.
+
+Asimismo, deben de consignar y/o adjuntar lossiguientes documentos:
+
+1.
+
+Nero del recibo de pago por derecho de trámite.
+
+2.
+
+Nombre y cigo de la(s) concesi(es) minera(s)
+
+donde se desarrollará la modificación.
+
+3.
+
+Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+4.
+
+Nero de la Resoluci que aprueba el plan de cierre de minas e informe que la sustenta, o, cargo depresentaci del referido plan, adjuntando la garantíapreliminar.
+
+5.
+
+Informaci técnica de acuerdo a los parámetrosestablecidos en el Anexo VIII del presente Reglamento, en lo que corresponda.
+
+6. Documento que acredite que el solicitante espropietario o que está autorizado por el(los) propietario(s)del 100% de las acciones y derechos del predio parautilizar el(los) terreno(s) superficial(es) donde se ubicarán todos los componentes del proyecto tales como tajos, bocamina(s), depito de desmonte y mineral, cantera(s) de material de préstamo, campamento(s),taller(es), polvorín, vías de acceso, enfermería, entreotros, conforme a los documentos requeridos en elpunto 4 del numeral 82.1 del artículo 82 del presenteReglamento.
+
+7. Copia del certificado de inexistencia de restos arqueolicos - CIRA o el plan de monitoreo arqueolico-PMA, seg corresponda.
+
+8. Copia de la autorizaci de la autoridad competente, en caso que el proyecto a ejecutarse afecte carreteras u otro derecho de vía. En caso de no afectaci el titular de la actividad minera debe presentar una Declaraci Jurada y plano de ubicaci de los componentes mineros y su distancia a las vías cercanas al proyecto.
+
+**103.3** Para los casos de modificaciónde la autorización de actividades de explotaci, cuyos componentes noimpliquen nuevas áreas a autorizar, el solicitante debe presentar una solicitud a través del formulario electricovía extranet del portal web del Ministerio de Energíay Minas, a la Direcci General de Minería o Gobierno Regional, con los mismos requisitos exigidos en los literales a) y c) del numeral 30.1 del artículo 30 del presente Reglamento.
+
+Asimismo, debe consignar y/o adjuntar segcorresponda los siguientes documentos:
+
+1.
+
+Nero del recibo de pago por derecho de trámite.
+
+2.
+
+Nombre y cigo de la(s) concesi(es) minera(s)
+
+dónde se desarrollará la modificación.
+
+3.
+
+Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+4.
+
+Nero de la Resoluci que aprueba el plan decierre de minas e informe que la sustenta, o, cargo depresentaci del referido plan, adjuntando la garantíapreliminar.
+
+5.
+
+Informaci técnica de acuerdo a los parámetrosestablecidos en el Anexo VIII del presente Reglamento, en lo que corresponda.
+
+6. Copia de la autorizaci de la autoridad competente,
+
+en caso que la modificación a ejecutarse afecte carreteras
+
+u otro derecho de vía. En caso de no afectaci el titular de la actividad minera debe presentar una Declaraci Jurada y plano de ubicaci de los componentes mineros y su distancia a las vías cercanas al proyecto.
+
+**103.4** Evaluado el cumplimiento de los requisitosestablecidos, la Direcci General de Minería o el Gobierno Regional correspondiente, modifica la autorización de actividades de explotaci dentro de los treinta (30)días hábiles siguientes a la fecha de su presentaci. El referido procedimiento es de evaluaci previa sujeto asilencio administrativo negativo.
+
+**103.5** Para efectos del procedimiento de modificación de autorizaci de explotaci es de aplicaci lo establecido en los incisos 102.4 al 102.6 del artículo 102 del presente Reglamento.
+
+#### Artículo 104. Informe Técnico Minero – ITM para autorizaci de actividades de explotaci
+
+**104.1** El titular de la actividad minera no requiere
+
+iniciar un procedimiento de modificación de autorización
+
+de actividades de explotaci siempre que el proyecto de
+
+modificación cuente íntegramente con la conformidad del
+
+informe técnico sustentatorio, otorgada por la autoridad ambiental y icamente es aplicable en los siguientes casos:
+
+1. Modificaciones fuera del área del plan de minado
+
+aprobado, y
+
+2. Modificaciones de la altura y/o extensión no mayor o
+
+igual al 20% del depito de desmonte y/o tajo.
+
+104.2
+
+El titular de la actividad minera debe presentar ante la Direcci General de Minería o Gobierno Regionaluna solicitud a través del formulario electrico vía extranet del portal web del Ministerio de Energía y Minas, debiendo consignar y/o adjuntar seg corresponda los siguientes documentos:
+
+1. Nero del recibo de pago por derecho de trámite.
+
+2.
+
+Nero de la resoluci que da conformidad al informe técnico sustentatorio y del informe que la sustenta.
+
+3.
+
+Memoria descriptiva conforme el Anexo IX del presente Reglamento.
+
+4. Copia del certificado de inexistencia de restos
+
+arqueolicos -CIRA o el plan de monitoreo arqueolico
+
+- PMA aprobado por la autoridad competente, respecto al área donde ejecutará el proyecto, cuando corresponda.
+
+5. Documento que acredite que el titular de la actividadminera es propietario o que está autorizado por el(los)propietario(s) del 100% de las acciones y derechos del predio para utilizar el(los) terreno(s) superficial(es) donde ejecutará la construcci y funcionamiento del recrecimiento del depito de desmonte y/o tajo, conforme a los documentos requeridos en el punto 4 del numeral
+
+**82.1** del artículo 82 del presente Reglamento.
+
+6. Copia de la autorizaci de la autoridad competente, en caso que el proyecto a ejecutarse afecte carreteras u otro derecho de vía. En caso de no afectaci el titular de la actividad minera debe presentar una Declaraci Jurada y plano de ubicaci de los componentes mineros y su distancia a las vías cercanas al proyecto.
+
+**104.3** La Direcci General de Minería o Gobierno
+
+Regional luego de verificar el cumplimiento de los
+
+requisitos y evaluado los aspectos técnicos del proyecto presentado, emite un informe técnico favorable y el acto administrativo correspondiente, resolviendo lo siguiente:
+
+1.
+
+Da la conformidad del Informe Técnico Minero.
+
+2.
+
+Aprueba la modificación del plan de minado.
+
+3. Autoriza la modificación de las actividades de
+
+explotaci.
+
+**104.4** El titular de la actividad minera debe comunicar al OSINERGMIN y OEFA o al Gobierno Regional lafinalización de la construcción del proyecto de modificación de la autorizaci de actividades de explotaci, dentro delos tres (03) días hábiles siguientes a la finalización. Dicha comunicaci tiene carácter de Declaraci Jurada.
+
+**104.5** En los casos que el OSINERGMIN verifique que la construcción se ha efectuado con cambios significativos respecto del proyecto de ingeniería aprobado; o el OEFAverifique que la construcción se ha efectuado con cambios significativos respecto del Informe Técnico Sustentatorio aprobado, pueden paralizar las operaciones y comunicar este hecho a la Direcci General de Minería.
+
+**104.6** El procedimiento de modificación de la autorizaci de actividades de explotaci, vía InformeTécnico Minero es de evaluaci previa sujeto a silencio administrativo positivo y tiene un plazo máximo de veinte
+
+(20) días hábiles de presentado la solicitud, caso contrario se tiene por aprobada la solicitud, sin perjuicio que la Direcci General de Minería o Gobierno Regional emita el respectivo acto administrativo conforme al numeral 104.3.
+
+#### Artículo 105. Excepciones a la modificación de la
+
+autorizaci de actividades de explotaci
+
+**105.1** El titular de la actividad minera se encuentra exceptuado de la obligaci de iniciar un procedimientode modificación de la autorización de las actividades de explotaci o de solicitar la conformidad de un Informe Técnico Minero, siempre que el proyecto de modificación:
+
+1. Comprenda uno o más componentes listados en el Anexo X del presente Reglamento; y que estos se encuentren dentro del área del proyecto aprobado en el instrumento de gesti ambiental vigente; pudiendo incorporar y/o modificar supuestos de excepción mediante Resoluci Ministerial; y,
+
+2. Cuente con alguno de los instrumentos de gesti ambiental aprobado: estudio de impacto ambiental (EIA), informe técnico sustentatorio (ITS), modificación del estudio de impacto ambiental (MEIA), estudio de impacto ambiental semi detallado (EIAsd) o memorias técnicas detalladas (MTD), o plan ambiental detallado (PAD).
+
+**105.2** La incorporación, modificación, reubicación y/o sustituci de instalaciones y/o componentesauxiliares de las actividades de explotaci, así comolas modificaciones no contempladas en los artículos 103 y 104 del presente Reglamento, son aprobadas por la Gerencia General del titular de actividad minera o el gano que haga sus veces en caso de no contar conGerente General dentro de la Unidad Minera o Unidad de Producci, conforme el Anexo 1 del Reglamento de Seguridad y Salud Ocupacional en Minería, aprobado por Decreto Supremo Nº 024-2016-EM y modificatorias.
+
+**105.3** En los casos selados en el numeral 105.1 del presente artículo, el titular de la actividad minera, a través del formulario electrico vía extranet del portal web del Ministerio de Energía y Minas, comunica a la Direcci General de Minería o Gobierno Regional el inicio de lasobras en el plazo de cinco (5) días hábiles, debiendo consignar y/o adjuntar los siguientes documentos:
+
+1. Especificaciones técnicas y planos de ubicación en coordenadas UTM WGS84 de las instalaciones y/ocomponentes auxiliares de las actividades de explotaci, así como las modificaciones no contempladas en los artículos 103 y 104 del presente Reglamento,correspondientes al proyecto de modificación materia de comunicaci.
+
+2. Documento(s) que acredite(n) que el solicitante espropietario o que está autorizado por el(los) propietario(s)
+
+del predio para utilizar el(los) terreno(s) superficial(es)
+
+donde se ubicarán los componentes del proyecto materia de la comunicacin, seg lo establecido conforme al punto 4 del numeral 82.1 del artículo 82 del presente Reglamento, cuando corresponda.
+
+3. Nero de Resoluci que aprueba el instrumento de gesti ambiental dentro del cual se encuentran el o los componentes materia de la comunicaci; o nero de Resoluci que da conformidad a la Memoria Técnica Detallada (MTD), en su caso.
+
+4. Acta del Gerente General o el gano que haga sus veces, en el caso de no contar con Gerente General queapruebe la modificación de la autorización de actividades de explotaci.
+
+Asimismo, el titular de la actividad minera debe poner en conocimiento de la autoridad de fiscalización minera, el Acta que aprueba la modificación de la autorización de actividades de explotaci.
+
+**105.4** La Direcci General de Minería o Gobierno Regional, luego de revisar la comunicaci y la informaci presentada, de ser el caso, tienen por presentada dichacomunicaci y dispone se remita copia a las Autoridades de fiscalización minera; asimismo, anexa la comunicación, de corresponder al expediente que autorizel inicio de actividades de explotaci.
+
+#### Artículo 106. Actividad minera continua
+
+**106.1** Se considera como actividad minera continua, aquella actividad de explotaci iniciada antes de la vigencia del Decreto Supremo Nº 046-2001-EM, publicado en el Diario Oficial El Peruano el 26 de julio de 2001, norma que a la fecha se encuentra derogada. En este caso, el Plan de Minado y todas sus modificatorias son aprobados por la Gerencia General o el gano que haga sus veces dentro de la Unidad Minera o Unidad de Producci, conforme al artículo 29 del Reglamento de Seguridad y Salud Ocupacional en Minería, aprobadopor Decreto Supremo Nº 024-2016-EM o norma que lareemplace.
+
+**106.2** Si las actividades consideradas como actividad minera continua requieren de cambio en el método de explotación superficial a subterráneo o viceversa, total
+
+o parcial, o la incorporaci de nuevos tajos y nuevos botaderos, el titular de actividad minera debe solicitar la autorizaci correspondiente a la Direcci General de Minería o Gobierno Regional, conforme al procedimientoselado en el artículo 103 del presente Reglamento.
+
+### Capítulo XXI
+
+SUSPENSIÓN DE ACTIVIDADES DE EXPLOTACIÓN, BENEFICIO, LABOR GENERAL Y TRANSPORTE MINERO
+
+#### Artículo 107. Suspensi de actividades de
+
+explotación, beneficio, labor general y transporte
+
+minero
+
+La suspensi de actividades mineras de explotaci,
+
+beneficio, labor general y transporte minero, es la
+
+interrupci temporal de las actividades de una unidad minera o de parte de ella, dispuesta por el titular de actividad minera, conforme a lo establecido en el artículo 7 y el capítulo 5 del Título II del Reglamento para el Cierre de Minas, aprobado por Decreto Supremo Nº 033-2005­EM.
+
+#### Artículo 108. Comunicaci de suspensi de
+
+actividades de explotación, beneficio, labor general y
+
+transporte minero
+
+El titular de actividad minera debe comunicar la suspensi de actividades ante la Direcci General de Minería o el Gobierno Regional, conforme a sus competencias, consignando y/o adjuntando segcorresponda, la siguiente informaci:
+
+1.
+
+Nero de la Resoluci que aprueba el instrumento de gesti ambiental y del informe que la sustenta.
+
+2.
+
+Nero de la Resoluci que aprueba el plan decierre de minas e informe que la sustenta, adjuntando el
+
+escrito mediante el cual cumplicon constituir la garantíacorrespondiente.
+
+3.
+
+Informe de los motivos que sustenten la solicitud de suspensi de la(s) actividad(es) minera(s).
+
+4.
+
+Informe detallado de las actividades que seimplementarán en la etapa de suspensi temporal de las actividades, conforme al plan de manejo ambiental previsto en el estudio de impacto ambiental, sin perjuicio de las medidas complementarias que pudieran haberse establecido como parte del plan de cierre de minas o las que determine la Direcci General de Minería o Gobierno Regional, conforme a sus competencias.
+
+#### Artículo 109. Comunicaci del levantamiento de la suspensi de actividades de explotaci,beneficio, labor general y transporte minero
+
+**109.1** El titular minero debe comunicar el levantamiento de suspensi de actividades ante la Direcci General de Minería o Gobierno Regional, conforme a sus competencias, consignando y/o adjuntando la siguiente informaci:
+
+1. Informe técnico respecto al estado situacional de lasoperaciones que garantice el reinicio de las actividadesconforme a lo establecido en el Reglamento de Seguridad ySalud Ocupacional en Minería, aprobado mediante DecretoSupremo Nº 024-2016-EM y modificatorias; adicionalmente, uninforme que describa las actividades y/o medidas ambientalesimplementadas durante el periodo de suspensi.
+
+2.
+
+Copia del cargo que acredite la vigencia de lagarantía del plan de cierre de minas.
+
+3.
+
+El cargo de presentaci ante el gano competente, de la reprogramaci del cronograma del plan de cierre de minas o la aprobaci del mismo.
+
+#### Artículo 110. Comunicaci a las Autoridades de
+
+fiscalización minera
+
+La suspensi así como el respectivo levantamiento de suspensi, son puestos en conocimiento de lasAutoridades de fiscalización minera para la supervisión o fiscalización respectiva.
+
+### Capítulo XXII — OPOSICIÓN
+
+#### Artículo 111. Oposici por mejor derecho sobre petitorios mineros
+
+El titular de una concesión minera con título definitivo puede oponer su mejor derecho a cualquier petitoriominero que se haya formulado sobre todo o parte de un área, cualquiera sea el título o antecedente que seinvoque respecto de ellos. El interesado debe seguirel procedimiento de oposici que regula el presenteReglamento.
+
+#### Artículo 112. Requisitos de oposici
+
+**112.1** La oposici es un procedimiento de evaluaci previa sujeto al silencio administrativo negativo, quepuede formularse hasta antes de la expedici del título de concesi y se resuelve en un plazo de sesenta y siete
+
+(67) días hábiles , de conformidad a los artículos 146 y 147 del TUO de la LGM
+
+112.2. La oposici referida al artículo 144 de la LGM se presenta ante el INGEMMET o Gobierno Regional que tiene a su cargo el expediente, y debe cumplir con los siguientes requisitos:
+
+a. Indicar los nombres, apellidos, domicilio en la capital de la provincia de la sede de la dependencia competente ante quien la presente, su Documento Nacional de Identidad - DNI, Registro Único del Contribuyente - RUC y firma del solicitante.
+
+b. Indicar los datos de inscripci registral (nero
+
+de asiento, partida registral y Oficina Registral) de la
+
+persona jurídica y su representante o apoderado, en caso el opositor sea una persona jurídica.
+
+c. Indicar el nombre y cigo ico del petitorio al que se opone y los de su concesi o petitorio afectado.
+
+d. Adjuntar copia de la prueba pertinente.
+
+e. Indicar la fecha y nero de la constancia de pago del derecho de trámite realizado ante la propia entidad o adjuntar la copia de la constancia de pago del derecho de trámite realizado en las instituciones financieras autorizadas.
+
+112.3. No procede la oposici contra los petitoriosmineros por afectaci de predios u otros derechosdistintos al que otorga el título de concesi minera, resolviéndose de plano sin más trámite, después de presentadas las publicaciones dentro del plazo de Ley.
+
+#### Artículo 113. Traslado
+
+**113.1** El INGEMMET o Gobierno Regional corre traslado de la oposici una vez presentadas las publicaciones de los avisos de petitorio minero en el plazo de Ley, dentro de los siete (07) días hábiles de emitido el informe legal.
+
+**113.2** Al absolver el traslado de la oposici, la otra parte ofrece las pruebas a que hubiere lugar.
+
+#### Artículo 114. Actuaci de pruebas
+
+**114.1** La actuaci de prueba de relacionamiento en lasoposiciones presentadas por titulares de derechos mineros con coordenadas UTM WGS84 definitivas, contra petitoriosformulados en el Sistema de Cuadrículas o de acuerdo al artículo 12 de la Ley Nº 26615, Ley de Catastro MineroNacional, se efect por el INGEMMET o Gobierno Regionalcompetente mediante un relacionamiento en gabinete.
+
+**114.2** Caso contrario, de requerirse una diligencia de campo el INGEMMET debe designar al perito dentro de un plazo que no exceda de cinco (5) días hábiles contados a partir de la fecha en que se corre traslado de la oposici.
+
+**114.3** Dentro de los treinta (30) días hábiles siguientes a la fecha de realizaci de la diligencia, el Perito debe presentar su Informe.
+
+**114.4** El pago de los gastos de actuaci de las pruebas debe efectuarse por el titular del derecho minero más reciente, en la cuenta que sele el INGEMMET dentro de un plazo no mayor de siete (7) días hábilescontado a partir de la notificación de la planilla de gastos correspondiente a los honorarios del perito, bajo apercibimiento de declararse en abandono el derecho minero más reciente. El monto se entrega al perito unavez que la operaci pericial cuente con opini favorable del Área Técnica del INGEMMET.
+
+**114.5** Si la diligencia pericial se frustra por causaimputable a quien pagla planilla de gastos, ésta se incrementa en 30% debiéndose pagar dentro de los siete
+
+(7) días hábiles de notificada. Si nuevamente se frustra
+
+la diligencia por causa imputable a quien pagla planilla incrementada, se hace efectivo el apercibimiento de abandono indicado en el párrafo precedente.
+
+**114.6** En el caso que el titular del derecho minero más reciente obtuviera resoluci favorable, el opositorle reintegra la suma que hubiere pagado por concepto de gastos de actuaci de pruebas. Para el efecto, el titular del derecho minero más reciente puede solicitar la expedición de copias certificadas de los actuados pertinentes a fin de accionar ante el Poder Judicial por la suma abonada, con arreglo a las normas sobre Proceso de Ejecuci contenidas en el Cigo Procesal Civil.
+
+#### Artículo 115. Oposición a petitorio de Beneficio
+
+**115.1** La oposicin a la solicitud de concesi de
+
+beneficio, debe presentarse y tramitarse ante la Dirección
+
+General de Minería o Gobierno Regional, con arreglo a lo dispuesto en el numeral 83.4 del artículo 83 del presenteReglamento y se adecua en lo que corresponda a las normas contenidas en el presente Capítulo.
+
+**115.2** El procedimiento de oposici a la concesi de
+
+beneficio es de evaluación previa, tiene un plazo máximo
+
+de evaluaci de treinta (30) días hábiles.
+
+**115.3** Procede la oposici contra petitorios de
+
+concesión de beneficio, labor general o transporte minero
+
+por afectaci del mismo derecho, afectaci de predios u otros derechos distintos al que otorga dicho título.
+
+### Capítulo XXIII — PARALIZACIÓN DE LA ACTIVIDAD MINERA
+
+#### Artículo 116. Paralizaci de la actividad minera
+
+**116.1** La Direccin General de Minería o Gobierno Regional, seg corresponda, de presumir la falsedadde las declaraciones, los documentos y la informaci proporcionada por el administrado, en los procedimientos administrativos correspondientes al otorgamiento de concesión de beneficio, autorización de beneficio, labor general, transporte minero, y autorizaci de actividades de exploraci y explotaci minera, y sus respectivas modificaciones, informe técnico minero, producto de la fiscalización posterior otorga al administrado un plazo de diez (10) días hábiles para que presente sus descargos, vencido el plazo y con el respectivo descargo
+
+o sin él, se procede a la evaluaci, y de comprobarse fraude o falsedad en la declaraci, informaci o en la documentaci presentada por el administrado en el procedimiento administrativo seguido, la Direcci General de Minería o Gobierno Regional ordena la paralizaci de la actividad minera; y, eleva el expediente
+
+al Consejo de Minería para que declare de oficio la nulidad
+
+del acto administrativo correspondiente; sin perjuicio de lo establecido en el numeral 34.3 del artículo 34 del TUO LPAG.
+
+**116.2** La Resoluci que ordena la paralizaci porparte de la Direcci General de Minería o GobiernoRegional y la nulidad del acto administrativo es puesta en conocimiento de las Autoridades de fiscalización minera para los fines de su competencia.
+
+Consentida o firme la resolución, el titular de la actividad minera deberá proceder con el retiro o desmantelamientode las obras, instalaciones o infraestructura que instalo edificó.
+
+### Capítulo XXIV — MEDIO IMPUGNATORIO Y AGOTAMIENTO DE VÍA ADMINISTRATIVA
+
+#### Artículo 117. Instancias administrativas
+
+117.1Contra lo resuelto por el Presidente Ejecutivo de INGEMMET, la Direcci de Concesiones Mineras, la Direcci General de Minería o el Gobierno Regional, corresponde la interposici de recurso de revisi al Consejo de Minería, dentro de los quince (15) días hábiles de notificada la Resolución. Con la Resolución de última instancia se agota la vía administrativa.
+
+**117.2** Contra la Resoluci del INGEMMET o Gobierno Regional que otorga el título de la concesi minera corresponde la interposici de recurso de revisi dentro de los quince (15) días hábiles siguientes a la fecha de publicaci de la relaci de títulos otorgados, el cual es resuelto en tima instancia administrativa por el Consejode Minería.
+
+**117.3** Vencido el plazo sin que medie impugnaci,
+
+el acto administrativo queda firme. El INGEMMET, el
+
+Ministerio de Energía y Minas y Gobierno Regional, seg corresponda, deja constancia que el acto administrativo no ha sido impugnado.
+
+#### Artículo 118. Acci contencioso administrativa
+
+El procedimiento administrativo concluye con la Resoluci expedida en tima instancia administrativa por el Consejo de Minería del Ministerio de Energía yMinas, la misma que puede contradecirse en el Poder Judicial mediante la acci contencioso administrativa.
+
+### Capítulo XXV — NOTIFICACIÓN Y EFICACIA DE LOS ACTOS ADMINISTRATIVOS
+
+#### Artículo 119. Notificación
+
+La eficacia de los actos administrativos, la obligación
+
+o dispensa de notificar, las modalidades de notificación y su prelación, los plazos para emitir la notificación y su contenido, la vigencia de las notificaciones, las
+
+/
+
+notificaciones defectuosas y su saneamiento, se rigen por lo dispuesto en el Capítulo III Eficacia de los actos
+
+administrativos, del Título I denominado Régimen Jurídico de los actos administrativos, del TUO LPAG.
+
+### Capítulo XXVI — RECUSACIÓN Y ABSTENCIÓN
+
+#### Artículo 120. Recusaci y abstenci
+
+En el caso de una recusaci contra algunaautoridad del INGEMMET, la Direcci General de Minería, el Consejo de Minería o el Gobierno Regionalcon competencia en los procedimientos del presente Reglamento; o, que estas se abstengan por encontrarsecomprendidas en alguna de las causales de abstenci referidas en el artículo 99 del TUO LPAG o en el artículo 100 de la LGM, el superior jerárquico resuelve y determina quién debe ser el reemplazante, conforme al artículo 152 de la LGM para la recusaci; y las normas del TUO LPAG para la abstenci.
+
+### Capítulo XXVII — EXTRAVÍO DE EXPEDIENTES
+
+#### Artículo 121. Reconstrucci de expediente
+
+Si se extraviase un expediente o parte de lo actuado en él, la autoridad que ejerza jurisdicci sobre el mismo ordena de oficio su reconstrucción. Para este efecto, se solicita las copias de los documentos que se encuentrandigitalizados en el SIDEMCAT o expediente virtual delMinisterio de Energía y Minas, así como los que obren enpoder de otras autoridades mineras y del interesado, para su reconstrucci, prevaleciendo aquellas digitalizadas enel SIDEMCAT o expediente virtual del Ministerio de Energíay Minas. En lo que le fuera aplicable, se siguen las reglascontenidas en el artículo 140 del Cigo Procesal Civilconforme al numeral 164.4 del artículo 164 del TUO LPAG.
+
+### DISPOSICIONES COMPLEMENTARIAS FINALES
+
+Primera. -Las áreas de denuncios y concesionesmineras extinguidos que, habiendo sido formulados u otorgados hasta el 14 de diciembre de 1991, se encuentren superpuestas por raz de coexistencia entre metálicos, carboníferos y no metálicos, no son susceptibles de nuevo petitorio cuando los otros denuncios o concesiones continn vigentes o, cuando la superposici se haya producido por cualquier otra circunstancia con concesiones vigentes.
+
+Segunda.-Para fines del artículo 12 de la LGM, si se advierte la existencia de denuncios y concesionesvigentes solicitadas antes del 15 de diciembre de 1991, que no cuentan con coordenadas UTM definitivas, conforme la Ley Nº 26615, Ley de Catastro MineroNacional, en parte de la misma cuadrícula o conjuntode cuadrículas peticionadas, se consigna en el título de las nuevas concesiones el nombre, hectáreas, cigoico, distrito, provincia, departamento de los derechos prioritarios para su respeto. No se requiere oposici para que se respeten dichos derechos prioritarios.
+
+Tercera.- Son inadmisibles los petitorios mineros que se hubieran solicitado al amparo del artículo 12 de la Ley Nº 26615, Ley del Catastro Minero Nacional:
+
+a. En los que no se hubiera identificado correctamente
+
+el área por error en las coordenadas UTM.
+
+b. Se superpongan total o parcialmente a áreas de no admisi de denuncios o petitorios mineros.
+
+Cuarta.-Mediante Resoluci de Presidencia de INGEMMET se aprueban los formularios electricos e instrucciones para solicitar la conformaci de una Unidad Econica Administrativa (UEA), la inclusi o exclusi de derechos mineros de la UEA, así como la acumulaci y divisi de concesiones mineras, entre otros, que se publican a través del portal web del INGEMMET, dentro de los 30 días hábiles de publicado el presente Reglamento.
+
+Quinta.- Los formularios electricos correspondientes a los procedimientos de la Direcci General de Minería y los Gobiernos Regionales a que se hace referencia en el presente Reglamento se aprueban por Resoluci Directoral de la Direcci General de Minería dentro del plazo de 30 días hábiles de publicado el presentereglamento.
+
+Sexta.-Las operaciones periciales para procedimientos mineros, referidos en la LGM y normas reglamentarias deben ejecutarse por peritos mineros nominados por laDirecci General de Minería y de acuerdo al Reglamento de Peritos Mineros vigente.
+
+Las Autoridades de fiscalización minera, deben informar a la Direcci General de Minería sobre el incumplimiento de las normas dispuestas en elReglamento de Peritos Mineros.
+
+Séptima.- Respecto de los derechos mineros anteriores al Decreto Legislativo Nº 708, se considera lo siguiente:
+
+a.
+
+Son inadmisibles los denuncios formulados a partir del 15 de diciembre de 1991 y hasta el 21 de setiembre de 1992.
+
+b.
+
+En los denuncios mineros formulados hasta el 14 de diciembre de 1991, que se superpongan parcialmente a otro denuncio minero anterior, se ordena la reducci a una poligonal cerrada selándose las coordenadas UTM de los vértices.
+
+c.
+
+Se procede al fraccionamiento cuando exista superposici a un derecho minero prioritario o renuncia parcial que quiebre la continuidad del área, siempre que el área fraccionada sea no menor a una (1) hectárea.
+
+d.
+
+En todos los casos las áreas menores a una (1)hectárea son canceladas y se retiran del Catastro Minero Nacional, consentida o ejecutoriada que sea la resoluci.
+
+e.
+
+Cuando los denuncios resulten inubicables, la cancelaci es resuelta por el Presidente Ejecutivo del INGEMMET.
+
+f. El INGEMMET contin teniendo competencia para proseguir y concluir el trámite de los denuncios mineros formulados con anterioridad al Decreto Legislativo Nº 708, así como el procedimiento relativo a la obtenci de coordenadas UTM definitivas de acuerdo a la Ley Nº 26615 - Ley del Catastro Minero Nacional.
+
+Por excepci, aquellos actos administrativos realizados por las ex-Jefaturas Regionales de Minería, Direcciones y Organismos Regionales de Minería y la ex-Direcci de Concesiones Mineras, entre el 15 de diciembre de 1991 y el 22 de abril de 1992, respecto de los denuncios formulados antes del 15 de diciembre de 1991, tienen validez cuando dichos actos se hayan realizadode conformidad con las normas preexistentes, hayancumplido con lo selado en la Ley y sus dispositivosreglamentarios y no perjudiquen intereses de terceros.
+
+Octava.-Los titulares de actividades mineras contins en un plazo no mayor de ciento veinte (120) días calendario a partir de la entrada en vigencia del presente Reglamento, deben presentar a la Direcci General de Minería o Gobierno Regional; y, a las Autoridades de fiscalización minera, la siguiente información:
+
+a)
+
+Relaci y descripci de los componentes de la unidad minera o unidad de producci.
+
+b)
+
+Plano de ubicaci de la concesi minera y la poligonal que encierran los componentes de la unidad minera o unidad de producci, debidamente georeferenciado en coordenadas UTM WGS84.
+
+c)
+
+Relaci de concesiones mineras o UEAs en las cuales vienen desarrollando actualmente su actividad.
+
+d) Memoria descriptiva de las operaciones mineras.
+
+Dicha información tiene como finalidad servir de base
+
+para la evaluaci de posteriores solicitudes de cambio en el
+
+método de explotación superficial a subterraneo o viceversa
+
+total o parcial o la incorporaci de nuevos tajos o nuevosbotaderos que el titular de actividad minera requiera tramitary actualizar la informaci con la que cuenta la DirecciGeneral de Minería o Gobierno Regional.
+
+Novena.-Apartir de la entrada en vigencia del presente Reglamento OSINERGMIN se encuentra habilitado para modificar y actualizar su escala de infracciones ysanciones de seguridad minera.
+
+### DISPOSICIONES COMPLEMENTARIAS TRANSITORIAS
+
+Primera.-En el caso de los procedimientos de otorgamiento de concesión de beneficio en trámite con autorización de construcción de la planta de beneficio y demás componentes, cuyos titulares mineros hayan comunicado la culminaci de la construcci, seg su cronograma aprobado, se adecuarán al procedimiento de autorizaci de funcionamiento con silencio positivo.
+
+Segunda.-En todos los casos es de aplicaci a los derechos mineros de que trata la Ley Nº 30428, cuyas coordenadas UTM PSAD 56 no hubieran sido objetode transformaci a coordenadas UTM WGS84, la metodología oficializada por Decreto Supremo Nº 024­2016-EM.
+
+La metodología de transformaci se aplica a lascoordenadas UTM PSAD 56 una vez que éstas adquieran la condición de definitivas, para los fines de su inscripciónregistral.
+
+La transformaci que regula el presente artículo se aprueba por Resoluci de Presidencia de INGEMMET y se publica en su portal web y en la del Ministerio de Energía y Minas, corriendo nuevo plazo de observaci, previsto en la Ley Nº 30428.
+
+1876188-1
+
+Otorgan concesión definitiva para desarrollar la actividad de transmisión de energía eléctrica en la "Línea de Transmisión Aguaytía -Pucallpa 138 kV (Segundo Circuito)" a favor de Terna Perú S.A.C., ubicada en el departamento de Ucayali
+
+RESOLUCIÓN MINISTERIAL Nº 191-2020-MINEM/DM
+
+Lima, 31 de julio de 2020
+
+VISTOS: El Expediente Nº 14388819 sobre la solicitud
+
+de otorgamiento de concesión definitiva para desarrollar
+
+la actividad de transmisi de energía eléctrica en el
+
+proyecto "Línea de Transmisión Aguaytía – Pucallpa138 kV (Segundo Circuito)", presentada por la empresa
+
+Terna PerS.A.C. (en adelante, TERNA); y, los Informes Nº 067-2020-MINEM/DGE-DCE y Nº 276-2020-MINEM/OGAJ elaborados por la Direcci General de Electricidad
+
+y la Oficina General de Asesoría Jurídica, respectivamente;
+
+CONSIDERANDO:
+
+Que, con fecha 05 de septiembre de 2017, el Ministerio de Energía y Minas en representaci del Estado peruano y TERNA suscribieron el Contrato de Concesi SGT "Línea de Transmisión Aguaytía – Pucallpa 138 kV (Segundo Circuito)", mediante el cual este último se obliga a diseñar, financiar, suministrar los bienes y servicios requeridos, construir, operar y mantener dicho proyecto;
+
+Que, mediante el documento con registro Nº 2961699 de fecha 31 de julio de 2019, TERNA solicita elotorgamiento de la concesión definitiva para desarrollarla actividad de transmisi de energía eléctrica en el proyecto "Línea de Transmisión Aguaytía – Pucallpa138 kV (Segundo Circuito)", ubicado en los distritos de Alexander Humboldt, Irazola, Neshuya y PadreAbad, de la provincia de Padre Abad; y, los distritos deCampoverde, Callería y Yarinacocha, de la provincia deCoronel Portillo; ambas provincias del departamento deUcayali;
+
+Que, conforme al Informe de Vistos, la Direcci General de Electricidad, de acuerdo a sus competencias, verifica el cumplimiento de lo establecido en el Decreto Ley Nº 25844, Ley de Concesiones Eléctricas, y suReglamento aprobado mediante Decreto Supremo Nº009-93-EM; por lo que recomienda otorgar la concesi definitiva para desarrollar la actividad de transmisión de energía eléctrica en el proyecto "Línea de Transmisión Aguaytía – Pucallpa 138 kV (Segundo Circuito)";
+

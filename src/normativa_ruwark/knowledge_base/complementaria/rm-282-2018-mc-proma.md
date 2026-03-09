@@ -1,0 +1,447 @@
+# Resolución Ministerial N° 282-2018-MC — PROMA
+
+> **Tipo:** Resolución Ministerial
+> **Número:** R.M. N° 282-2018-MC
+> **Fecha:** 2018
+> **Estado:** Vigente
+
+---
+
+Nº 282-2017-MC  1 O A~fl. 7817
+
+Lima,
+
+VISTOS, el Informe Nº 000175-2017/DCIA/DGPANMPCIC/MC de la Direcci de Calificaci de Intervenciones Arqueolicas y el Memorando Nº 000693­2017 /DGPANMPCIC/MC de la Direcci General de Patrimonio Arqueolico Inmueble; y,
+
+CONSIDERANDO:
+
+Que, de conformidad con la Ley Nº 29565, Ley de creaci del Ministerio de Cultura, éste es un organismo del Poder Ejecutivo con personería jurídica de derecho plico que constituye pliego presupuesta! del Estado, ejerciendo competencias y funciones sobre las áreas programáticas de acci referidas al Patrimonio Cultural de la Naci, material e inmaterial; la creaci cultural contemporánea y artes vivas; la gesti cultural e industrias culturales; y, la pluralidad étnica y cultural de la naci;
+
+Que, el artículo 58 del Reglamento de Organizaci y Funciones del Ministerio de Cultura, aprobado por Decreto Supremo Nº 005-2013-MC (en adelante, ROF) establece que la Direcci General de Patrimonio Arqueolico Inmueble es el gano de línea que tiene a su cargo la ejecuci de los aspectos técnicos y normativos de la gesti, conservaci y protecci del Patrimonio Arqueolico en el país y de la formulaci y propuesta de políticas, planes, programas, proyectos, estrategias y normas, así como la ejecuci y promoci de acciones de registro, investigaci, conservaci, presentaci, puesta en valor y uso social, así como difusi del patrimonio arqueolico inmueble;
+
+Que, asimismo, el artículo 63 del citado ROF, dispone que la Direcci de Calificaci de Intervenciones Arqueolicas es la unidad orgánica encargada de la calificaci de los proyectos de intervenci arqueolica y su seguimiento, a través de las respectivas supervisiones de campo, revisi de informe final, entre otras funciones;
+
+Que, a través del Memorando Nº 000693-2017/DGPANMPCIC/MC, la Direcci General de Patrimonio Arqueolico Inmueble hizo suyo el Informe Nº 000175­2017/DCIA/DGPANMPCIC/MC de la Direcci de Calificaci de Intervenciones Arqueolicas, el cual sustenta técnicamente la propuesta normativa denominada "Guía metodolica para la identificaci de los impactos arqueolicos y las medidas de mitigaci en el marco de los Proyectos de Evaluaci Arqueolica (PEA), Proyectos de Rescate Arqueolico (PRA) y Planes de Monitoreo Arqueolico (PMA), conforme a lo establecido en el Reglamento de Intervenciones Arqueolicas";
+
+Que, la referida Guía es un instrumento técnico que permite orientar la identificaci, definici y predicci de posibles impactos al patrimonio arqueolico en el marco de la planificaci, ejecuci, operaci y cierre de obras, proyectos o planes de desarrollo, la aplicaci de las medidas de mitigaci respectivas y el seguimiento de su cumplimiento;
+
+Que, con Memorando Nº 000598-2017/OGPP/SG/MC, la Oficina General de Planeamiento y Presupuesto emitiopini favorable a la citada propuesta normativa;
+
+De conformidad con la Ley N° 29565, Ley de creaci del Ministerio de Cultura; el Reglamento de Organizaci y Funciones del Ministerio de Cultura, aprobado por Decreto Supremo N° 005-2013-MC;
+
+SE RESUELVE:
+
+#### Artículo 1.-Aprobar la Guía N° 001 -2017-MC denominada "Guía metodolica para la identificaci de los impactos arqueolicos y las medidas de mitigaci en el marco de los Proyectos de Evaluaci Arqueolica (PEA), Proyectos de Rescate Arqueolico (PRA) y Planes de Monitoreo Arqueolico (PMA), conforme a lo establecido en el Reglamento de Intervenciones Arqueolicas", la misma que en documento anexo forma parte de la presente Resoluci Ministerial.
+
+#### Artículo 2.-Disponer la publicaci de la presente Resoluci Ministerial y su anexo en el portal institucional del Ministerio de Cultura (www.cultura.gob.pe), en la misma fecha de publicaci de la presente resoluci en el Diario Oficial "El Peruano".
+
+Regístrese, comuníquese y publíquese.
+
+GUÍANº OO 4 -2017-MC
+
+GUÍA METODOLÓGICA PARA LA IDENTIFICACIÓN DE LOS IMPACTOS ARQUEOLÓGICOS Y LAS MEDIDAS DE MITIGACIÓN EN EL MARCO DE LOS PROYECTOS DE EVALUACIÓN ARQUEOLÓGICA (PEA), PROYECTOS DE RESCATE ARQUEOLÓGICO (PRA) Y PLANES DE MONITOREO ARQUEOLÓGICO (PMA) CONFORME A LO ESTABLECIDO EN EL REGLAMENTO DE INTERVENCIONES ARQUEOLÓGICAS
+
+l. OBJETIVO
+
+La presente Guía es un instrumento técnico que permite orientar la identificaci, definici y predicci de posibles impactos al patrimonio arqueolico en el marco de la planificaci, ejecuci, operaci y cierre de obras, proyectos o planes de desarrollo, la aplicaci de las medidas de mitigaci respectivas y el seguimiento de su cumplimiento.
+
+11. BASE NORMATIVA
+
+
+
+Constituci Política del Per
+
+
+
+Recomendaci de la Organizaci de las Naciones Unidas para la Educaci, la Ciencia y la Cultura -UNESCO sobre la Conservaci de los Bienes Culturales que la ejecuci de Obras Plicas o Privadas pueda poner en Peligro, adoptada por la Conferencia General en su decimoquinta reuni, París, 19 de noviembre de 1968.
+
+
+
+Ley Nº 27 446, Ley del Sistema Nacional de Evaluaci de Impacto Ambiental.
+
+
+
+Ley N° 28245, Ley Marco del Sistema Nacional de Gesti Ambiental.
+
+
+
+Ley Nº 28296, Ley General del Patrimonio Cultural de la Naci.
+
+
+
+Ley N° 28611, Ley General del Ambiente.
+
+
+
+Ley Nº 29565, Ley de creaci del Ministerio de Cultura.
+
+
+
+Decreto Supremo Nº 008-2005-PCM, que aprueba el Reglamento de la Ley N° 28245, Ley Marco del Sistema Nacional de Gesti Ambiental.
+
+
+
+Decreto Supremo Nº 011-2006-ED, que .aprueba el Reglamento de la Ley N° 28296, Ley General del Patrimonio Cultural de la Naci.
+
+
+
+Decreto Supremo Nº 019-2009-MINAM, que aprueba el Reglamento de la Ley Nº 27446, Ley del Sistema Nacional de Evaluaci de Impacto Ambiental.
+
+
+
+Decreto Supremo N° 054-2013-PCM, que aprueba disposiciones especiales para ejecuci de procedimientos administrativos.
+
+
+
+Decreto Supremo Nº 060-2013-PCM, que aprueba disposiciones especiales para ejecuci de procedimientos administrativos y otras medidas para impulsar proyectos de inversi plica y privada.
+
+
+
+Decreto Supremo Nº 005-2013-MC, que aprueba el Reglamento de Organizaci y Funciones del Ministerio de Cultura.
+
+
+
+Decreto Supremo Nº 003-2014-MC, que aprueba el Reglamento de Intervenciones Arqueolicas.
+
+
+
+Decreto Supremo Nº 006-2017-JUS, que aprueba el Texto Único Ordenado de la Ley Nº 27 444, Ley del Procedimiento Administrativo General.
+
+Las normas antes mencionadas, incluyen sus disposiciones modificatorias, complementarias y conexas.
+
+Av. Javier Prado Este Nº 2465, San Borja, Lima 41 -Per Teléfono {511) 4769933
+
+'!JWVv .m cultu...rno.9-QO~
+
+111. ALCANCE
+
+Las disposiciones contenidas en la presente Guía son de aplicaci obligatoria para la Direcci General de Patrimonio Arqueolico Inmueble, Direcci de Calificaci de Intervenciones Arqueolicas, Direcci de Certificaciones, las Direcciones Desconcentradas de Cultura del Ministerio de Cultura; así como para las personas naturales o jurídicas, titulares de las intervenciones arqueolicas y/o profesionales en arqueología, responsables de dirigir dichas intervenciones.
+
+IV. RESPONSABILIDAD
+
+4.1 Los ganos de línea o las unidades orgánicas del Ministerio de Cultura responsables de velar por el cumplimiento de las disposiciones contenidas en la presente Guía son:
+
+4.1.1 La Direcci General de Patrimonio Arqueolico Inmueble (DGPA), es el gano de línea responsable de autorizar los Proyectos de Evaluaci Arqueolica (PEA) y los Proyectos de Rescate Arqueolico (PRA), así como aprobar los informes finales respectivos.
+
+4.1.2 La Direcci de Calificaci de Intervenciones Arqueolicas (OCIA), es la unidad orgánica responsable de efectuar la calificaci de los Proyectos de Evaluaci Arqueolica (PEA) y de los Proyectos de Rescate Arqueolico (PRA); así como de los informes finales respectivos.
+
+4.1.3 La Direcci de Certificaciones (DCE), es la unidad orgánica encargada de calificar y autorizar el Plan de Monitoreo Arqueolico (PMA) y aprobar el informe final respectivo; asimismo, efect en su jurisdicci las inspecciones oculares al Plan de Monitoreo Arqueolico, y en los casos de los Proyectos de Rescate Arqueolico realiza las inspecciones oculares en su jurisdicci y a
+
+nivel nacional.
+
+4.1.4 Las Direcciones Desconcentradas de Cultura (DDC), son los ganos desconcentrados encargados de calificar y autorizar los Planes de Monitoreo Arqueolico (PMA), así como aprobar dentro de su jurisdicci los informes finales respectivos; además, efectn las inspecciones oculares al Plan de Monitoreo Arqueolico y a los
+
+Proyectos de Evaluaci Arqueolica en su circunscripci regional.
+
+4.2. También resultan responsables las personas naturales o jurídicas, titulares de las intervenciones arqueolicas y/o profesionales en arqueología, responsables de dirigir dichas intervenciones.
+
+### DISPOSICIONES GENERALES
+
+5.1 De acuerdo con las disposiciones ambientales seladas en la base normativa, el patrimonio arqueolico se constituye como uno de los componentes del medio ambiente, por lo que en el caso de eventuales impactos negativos sobre el mismo, en el marco de las obras, proyectos o planes de desarrollo, debe ser materia de medidas de mitigaci, prevenci, correcci, recuperaci, compensaci y/o restauraci, seg sea el caso, debidamente evaluadas y sustentadas.
+
+Av. Javier Prado Este Nº 2465, San Borja, Urna 41 -Per Teléfono (511) 4769933
+
+www.mcultura.qo.!1J1.f:?.
+
+5.2 Toda persona natural o jurídica responsable de las obras, proyectos o planes de desarrollo que mediante el uso o aprovechamiento de un bien o en el ejercicio de una actividad pueda producir un impacto al patrimonio arqueolico está obligado a asumir los costos que se deriven de las medidas de prevenci y mitigaci correspondientes, así como los relativos a la vigilancia y monitoreo de la actividad.
+
+En concordancia con lo establecido en el Reglamento de Intervenciones Arqueolicas, y de acuerdo con la base normativa ambiental selada, los Proyectos de Evaluaci Arqueolica (PEA) son los instrumentos de gesti que contienen una descripci de la actividad propuesta y de los efectos directos o indirectos previsibles de dicha actividad sobre el patrimonio arqueolico, a corto y largo plazo, identificándose las medidas necesarias para evitar o reducir los impactos negativos y riesgos al patrimonio arqueolico.
+
+La emisi del Certificado de Inexistencia de Restos Arqueolicos (CIRA), el Plan de Monitoreo Arqueolico (PMA) y el Proyecto de Rescate Arqueolico (PRA), pueden derivar como consecuencia de la ejecuci de un Proyecto de Evaluaci Arqueolica (PEA).
+
+VI. DISPOSICIONES ESPECÍFICAS
+
+6.1 En concordancia a lo estipulado en los artículos 48, 52 y 65 del Reglamento de Intervenciones Arqueolicas, los informes finales de los Proyectos de Evaluaci Arqueolica (PEA), Proyectos de Rescate Arqueolico (PRA) y Planes de Monitoreo Arqueolico (PMA), deberán contener como parte de sus resultados los impactos arqueolicos identificados y las correspondientes medidas de mitigaci. En tal sentido, a fin de identificar, predecir y valorar el impacto que las obras, proyectos o planes de desarrollo puedan ocasionar al patrimonio arqueolico, se tendrá en cuenta los
+
+siguientes conceptos y criterios:
+
+6.1.1 Impactos al patrimonio arqueolico Se entiende por impacto al patrimonio arqueolico a las situaciones originadas por acciones y/o actividades de las obras, proyectos o
+
+planes de desarrollo, de cualquier magnitud e índole que pueden modificar la integridad física y el aspecto visual de un bien arqueolico inmueble (en la superficie, el subsuelo o subacuático, en los aires, y en el marco circundante), por ubicarse dentro del área de influencia directa y/o indirecta de los mismos.
+
+Considerando que la presente Guía so se aplica en el contexto de la realizaci de procedimientos debidamente evaluados y autorizados por el Ministerio de Cultura (Proyectos de Evaluaci Arqueolica, Proyectos de Rescate Arqueolico y Planes de Monitoreo Arqueolico), referidos a mitigar los impactos que pueden producirse al patrimonio arqueolico, en el caso de afectaci al patrimonio arqueolico, debido a la realizaci de obras, proyectos o planes de desarrollo sin autorizaci o de manera inconsulta o vulnerando el marco legal de protecci del Patrimonio Cultural de la Naci, el gano competente impondrá las sanciones administrativas correspondientes.
+
+Av. Javier Prado Este Nº 2465, San Borja, Lima 41 -Per Teléfono (511} 4769933
+
+www,.mcultura.qon.pe
+
+6.1.2 Fases de una obra, proyecto o plan de desarrollo Pre Inversi: Perfil y estudio de factibilidad. Inversi: Estudio definitivo (dise de ingeniería de detalle); elaboraci de expediente técnico detallado (presupuesto); ejecuci (preparaci del terreno, construcci, montaje de equipos e instalaciones). Post Inversi: Operaci y mantenimiento; abandono o cierre (desmantelamiento, restauraci del terreno); evaluaciones del término del PIP y evaluaci ex post.
+
+6.1.3 Clasificaci del estudio ambiental de una obra, proyecto o plan de desarrollo
+
+Categoría 1 -Declaraci de Impacto Ambiental (DIA): Estudio ambiental mediante el cual se evaln los proyectos de inversi respecto de los cuales se prevé la generaci de impactos ambientales negativos leves. Categoría 11 -Estudio de Impacto Ambiental Semidetallado (EIA­sd): Estudio ambiental mediante el cual se evaln los proyectos de inversi respecto de los cuales se prevé la generaci de impactos ambientales negativos moderados. Categoría 111 -Estudio de Impacto Ambiental Detallado (EIA-d): Estudio ambiental mediante el cual se evaln los proyectos de inversi respecto de los cuales se prevé la generaci de impactos ambientales negativos significativos.
+
+6.1.4 Los elementos e infraestructura constructiva que se asocian a una obra, proyecto o plan de desarrollo
+
+-Acondicionamiento del terreno y cimentaci. Construcci e instalaci de la infraestructura principal o básica. Infraestructura secundaria o complementaria; habilitaci de accesos, depitos de material excedente (DME); canteras. Actividades: transporte de maquinaria e insumos y traslado de personal; tránsito vehicular, maquinaria pesada y peatonal. Otros similares, seg el tipo y magnitud de la obra, proyecto o plan de desarrollo.
+
+6.1.5 Situaciones que pueden producir impactos al patrimonio arqueolico
+
+-Habilitaci de terreno necesario para la ejecuci de la obra: erosi, inestabilidad del terreno (suelo y subsuelo), derrumbes o desprendimiento de laderas o partes altas, donde se asientan los bienes arqueolicos. Caída de material y/o desplome de laderas que pueden ocasionar el cubrimiento de bienes ubicados en partes bajas. Cambios físicos del terreno y fuentes de aguas cercanas o adyacentes a los bienes arqueolicos, debido a la instalaci de la infraestructura, habilitaci de accesos que pueden causar inundaciones, torrentes de lodo, humectaci o saturaci del suelo, etc. Ejecuci de obras, que no se hayan consultado previamente, tales como: habilitaci de accesos, ingreso peatonal o de
+
+Av. Javier Prado Este Nº 2465, San Borja, Urna 41 -Per Teléfono (511) 4769933
+
+www.mcu!tura.qon.pe
+
+maquinaria pesada, acumulaci o arrojo de material excedente de
+
+las obras y desechos humanos (basura). Destrucci de hallazgos fortuitos por remoci del terreno.
+
+-En la etapa de funcionamiento y mantenimiento, se puede producir modificaciones a los bienes arqueolicos colindantes o cercanos a las obras, debido a inundaciones por rupturas de embalses o duetos de agua, hidrocarburos, explosiones e incendios y otras.
+
+-Contaminaci del aire o de los suelos, donde se asientan los bienes arqueolicos colindantes o cercanos, que pueden ocasionar alteraciones en el patr natural de conservaci de los mismos (erosi, humedad, deterioro de las evidencias muebles o inmuebles, etc.). Impactos visuales o limitantes, por colindancia de una obra o proyecto con un bien arqueolico. La desaparici física y reducci de áreas de bienes arqueolicos, debido a la necesidad de ejecutar trabajos de rescate, por considerarse técnicamente ineludibles o por interés plico. Otros similares.
+
+6.1.6 Proyectos de inversi o desarrollo Se considera a todo tipo de obra, proyecto o plan de desarrollo, en cualquiera de sus fases (planificaci, construcci, habilitaci, funcionamiento/operatividad, cierre o abandono) que implique el uso, remoci, alteraci y/o modificaci del suelo, subsuelo y aires de un terreno, y además, en el marco de la planificaci y definici de usos y manejo de un determinado territorio, sea urbano o rural, de índole privado y plico.
+
+6.1.7 Clasificaci de potenciales impactos al patrimonio arqueolico Los impactos arqueolicos se pueden clasificar por su tipo y significado, nivel o grado (intensidad) y temporalidad: -Tipo y Significado: negativos (directos e indirectos), positivos, o
+
+nulos. -Nivel o grado: alto, medio y bajo. Temporalidad: reversible e irreversible.
+
+Para efectos de la identificaci, definici y predicci de los impactos sobre un bien arqueolico se pueden incorporar o combinar las características de tipo y significado, nivel o grado, y temporalidad, seg corresponda.
+
+6.1.7.1 Por su tipo y significado: Los impactos pueden ser impactos negativos, positivos o nulos.
+
+6.1. 7.1.1 Impactos negativos Los Impactos negativos pueden ser de tipo directo o indirecto.
+
+a. Impactos negativos directos o significativos (o primarios) Están referidos a los efectos directos y de mayor intensidad que se podrían ocasionar a un bien arqueolico o a parte de los componentes del mismo, debido a la superposici física e impacto visual de una obra, proyecto o plan de desarrollo.
+
+5
+
+Corresponde a su área de influencia directa o indirecta, al espacio o área técnicamente necesario y establecido para la realízaci de todo tipo de infraestructura, así como a sus actividades de construcci, operaci, mantenimiento, accesos, obras complementarias de un proyecto de desarrollo (franja o ancho de servidumbre, el derecho de vía (Ddv) u otras, seg corresponda al tipo y magnitud del proyecto). Seg las características y magnitud de la obra, así como la ubicaci de los bienes comprometidos con las mismas, se deberán definir los posibles impactos dírectos. Se considerará como impactos directos, en principio, las situaciones siguientes: -La superposici física, total o parcial, de la obra, proyecto o
+
+plan de desarrollo y la influencia directa sobre el bien arqueolico. -La alteraci visual o paisajista de la obra, proyecto o plan de desarrollo al bien arqueolico.
+
+-La colindancia (ubicaci inmediata o contigua de la obra, proyecto o plan de desarrollo con un bien arqueolico, pudiendo modificarlo en las etapas de construcci, operatividad o funcionamiento o abandono.
+
+b. Impactos negativos indirectos (o secundarios) Están referidos a los efectos originados como consecuencia de otros de carácter primario, interrelacionados con la construcci, desarrollo o funcionamiento de una obra, proyecto o plan de desarrollo, dados a mediano y largo plazo: -Cambio de uso del suelo y desplazamiento de las poblacíones, pudiendo ocasionar la ocupaci ilegal de terceros en los bienes arqueolicos cercanos.
+
+-Habilítaci de accesos que pennitirían acceder a áreas arqueolicas ínaccesibles a la ejecuci del proyecto, pudiendo ocasionar la depredaci y/o destrucci de los bienes arqueolicos (huaqueo). Inconvenientes para la adecuada protecci, conservaci y depito final de los bienes muebles e inmuebles recuperados o trasladados en el marco de los proyectos de rescate arqueolico, pudiendo ocasionar la pérdida irreparable de los mismos.
+
+6.1.7.1.2 Impactos positivos Los impactos positivos se dan en dos momentos del proceso de la obra, proyecto o plan de desarrollo.
+
+a. Durante las etapas de estudio y planificaci previas al desarrollo de la obra, proyecto o plan de desarrollo (Etapa de estudio de la Línea Base, Evaluaci de Impacto Ambiental, estudios definitivos, levantamientos topográficos detallados, etc.): -Registro de bienes arqueolicos desconocidos, especial­
+
+mente en zonas de difícil acceso (bosques tropicales, desier­tos, altas cumbres). Esto constituye un aporte al inventario del Patrimonio Cultural de la Naci, al conocimiento y pro­tecci del mismo.
+
+-Aportes a la investigaci arqueolica y al conocimiento de la historia del lugar, en los casos de hallazgos arqueolicos de manera imprevista.
+
+-Recuperaci o salvataje de la informaci de los sitios vulnerables.
+
+b. Durante las etapas de construcci del proyecto u obra: Registro de bienes arqueolicos comprometidos con el proyecto o las obras y actividades de ingeniería.
+
+-En el caso de trabajos de rescate, que implican la realizaci de investigaciones arqueolicas de carácter científico, pueden incluir la aplicaci de nuevas metodologías y técnicas científicas (excavaciones, análisis, conservaci), contribuyendo al conocimiento de la historia prehispánica regional o del país. Difusi o divulgaci de informaci arqueolica: publicaciones, exposiciones museográficas. Contribuci a la promoci y estimulaci del desarrollo de la identidad cultural de la comunidad donde se ubican los bienes. Medidas de compensaci o resarcimiento, seg sea el caso.
+
+6.1.7.1.3 Impactos nulos Cuando la obra, proyecto o plan de desarrollo no se encuentra comprometido directa, ni indirectamente con evidencias o bienes arqueolicos, o cuando estos timos se encuentran fuera del área de influencia directa o indirecta, en cualquiera de sus fases.
+
+6.1.7.2 Por su nivel o grado: Los impactos pueden ser alto, medio y bajo. La determinaci y análisis de estos impactos dependerá directamente de la intensidad y magnitud (cantidad} de la alteraci y modificaci del terreno que requerirá la obra, proyecto o plan de desarrollo y sobre el cual se sit el bien arqueolico susceptible de impacto. Además, para dicho análisis se tendrá en cuenta el potencial establecido para el bien arqueolico.
+
+6.1.7.3 Por su temporalidad: Los impactos pueden ser reversibles o irreversibles.
+
+a. Impacto irreversible: Es aquél que no puede retomar a sus condiciones originales, debido al impacto ocasionado sobre los bienes o componentes que conforman el patrimonio arqueolico. En este rubro se consideran las acciones siguientes: -Trabajos de rescate, encaminado a la liberaci o
+
+cambio de uso de un área con contenido arqueolico, debido a la obra, proyecto o plan de desarrollo, de carácter técnico ineludible o por interés plico declarado (son de carácter planificado}.
+
+Av. Javier Prado Este Nº 2465, San Borja, Lima 41 -Per Teléfono (511) 4769933
+
+W\;Nv'..mcu!tur.c:i..,.9..on.p3
+
+Trabajos de rescate, para la recuperaci de áreas con contenido arqueolico, originados por el hallazgo de evidencias arqueolicas de manera fortuita, durante los trabajos de construcci de las obras (imprevistas). Destrucci de evidencias arqueolicas halladas de manera fortuita.
+
+-Otros impactos que se puedan identificar.
+
+b. Impacto reversible: Es aquél que puede retomar a sus condiciones originales, tanto en sus características físicas y en su entorno paisajístico. No obstante, la reversibilidad puede no ser total en un bien arqueolico, por lo que no es posible revertirla al 100% de su estado original; en este caso se toma en cuenta lo siguiente:
+
+La instalaci de obras o infraestructura de carácter
+
+temporal. -La reubicaci o modificaci de la obra. -La restituci o traslado de bienes culturales, muebles
+
+o inmuebles. Restricciones de acceso a un bien arqueolico que imposibilitan la realizaci de actividades de investigaci (excavaciones) o puesta en valor (turismo). Esta situaci también puede ser clasificada como un impacto permanente, ya que se manifiesta de manera continua en tiempo ilimitado y puede ser revertido.
+
+-Otros impactos que se puedan identificar.
+
+6.1.8 Plan de Manejo Arqueolico (PMAR) Es un instrumento de gesti, de carácter arqueolico, cuya funci es establecer las medidas de prevenci, control, minimizaci, correcci y recuperaci, de acuerdo a los potenciales impactos que pudieran originar una obra, proyecto o plan de desarrollo sobre el patrimonio cultural arqueolico. La identificaci y evaluaci de dichos impactos y las medidas de mitigaci respectivas, son resultantes de la realizaci de los proyectos de intervenci arqueolica correspondientes (Proyectos de Evaluaci Arqueolica, Proyectos de Rescate Arqueolico y Planes de Monitoreo Arqueolico y deben formar parte del EIA de la obra, proyecto o plan de desarrollo.
+
+En dicho Plan de Manejo se expondrán los impactos arqueolicos identificados y definidos, así como las medidas de mitigaci correspondientes. En ese sentido, entendiéndose que la realizaci de un Proyecto de Evaluaci Arqueolica es la protecci del Patrimonio Cultural de la Naci, y en concordancia con las normas ambientales que determinan que dicho patrimonio es uno de los componentes del ambiente, el titular del proyecto deberá respetar la adopci secuencial de la jerarquía de las medidas de mitigaci siguientes:
+
+Medidas de prevenci. Medidas de minimizaci o correctiva. -Medidas de rehabilitaci.
+
+Av. Javier Prado Este Nº 2465, San Borja, Lima 41 -Per Teléfono (511) 4769933 _W\/IN./.m cu!tura.gon.pe
+
+-Medidas irreversibles o definitivas. Medidas de compensaci.
+
+6.1.9 Medidas de mitigaci Son el conjunto de procedimientos técnicos orientados a mitigar en lo posible los potenciales impactos negativos ocasionados a los bienes arqueolicos comprometidos a través de una obra, proyecto o plan de desarrollo, entre las que se encuentran:
+
+6.1.9.1 Medidas de prevenci: Están dirigidas a evitar o prevenir los impactos negativos al patrimonio arqueolico originados por una obra, proyecto o plan de desarrollo, modificando parcial o totalmente dicha obra, proyecto o plan de desarrollo
+
+o
+
+alg componte causal de tales impactos, principalmente durante su fase de dise. También se ejecutan con el fin de evitar impactos arqueolicos durante la ejecuci y/o funcionamiento de la obra, proyecto o plan de desarrollo en situaciones impredecibles o predecibles. Se consideran como principales, las siguientes:
+
+a.
+
+Los Planes de Monitoreo Arqueolico (PMA) Se realizan durante la ejecuci de las obras civiles de la obra, proyecto o plan de desarrollo, a fin de salvaguardar las evidencias arqueolicas comprometidas, ya sea en el caso de hallazgos fortuitos, como de los monumentos adyacentes o cercanos al área o ámbito de influencia de la obra, proyecto o plan de desarrollo, de ser el caso. Los Planes de Monitoreo Arqueolico pueden ser temporales, permanentes o periicos, y se pueden dar en algunas o en todas las fases que dura el proyecto, seg se encuentre comprometido con evidencias o bienes arqueolicos. Al interior de los Planes de Monitoreo Arqueolico se consideran los planes de contingencia o protocolos en el caso de hallazgos fortuitos, charlas de inducci, acciones de control y otras que se estimen técnicamente necesarias.
+
+b.
+
+Las acciones de control Se realizan durante la ejecuci de las obras civiles de la obra, proyecto o plan de desarrollo, cuando existen bienes arqueolicos comprometidos en el área de influencia directa e indirecta con el fin de salvaguardarlos. Estas acciones de control cumplirán la funci de monitorear el estado de conservaci de los bienes arqueolicos, en relaci a las diferentes intervenciones relacionadas con las obras civiles de la obra, proyecto o plan de desarrollo. Este control se realizará mediante la aplicaci de la "Ficha de Control de Actividades", de forma semanal o mensual, de acuerdo al cronograma de obras y tipo de proyecto, estando estas acciones enmarcadas dentro de un Plan de Monitoreo Arqueolico.
+
+Av. Javier Prado Este Nº 2465, San Borja, Lima 41 -Per Teléfono (511) 4769933
+
+www .mcuitur~L9..Q!JJJ.1ª'
+
+c. La selizaci y delimitaci física
+
+Conlleva la colocaci de letreros y/o paneles informativos, así como la demarcaci física del polígono de delimitaci de los bienes arqueolicos (instalaci de hitos de material noble), ubicados en el área de influencia directa y/o indirecta del proyecto, susceptibles de ser impactados en cualquiera de las fases de la obra, proyecto
+
+o plan de desarrollo.
+
+d.
+
+El plan de contingencia Se da cuando el impacto aparece de manera imprevista (hallazgo de evidencias arqueolicas, durante los trabajos de remoci de terreno). En este sentido, el Plan de contingencia o protocolo de contingencia involucra aquellas acciones que deben realizarse al momento de hallazgos imprevistos, tales como: paralizaci de las obras y/o labores, delimitaci del área mediante su selizaci (restringiendo el acceso), registro escrito, fotográfico y gráfico, etc.
+
+e.
+
+Las charlas de Inducci
+
+Es la Exposici sobre temas relacionados con el reconocimiento y protecci del patrimonio arqueolico, a fin de sensibilizar al personal responsable de la ejecuci, funcionamiento y/o ejecuci de la obra, proyecto o plan de desarrollo.
+
+6.1.9.2 Medidas de minimizaci o correctivas: Están dirigidas a reducir, mitigar o corregir la duraci, intensidad y/o grado de los impactos negativos al patrimonio arqueolico que no pueden ser prevenidos o evitados. Las medidas correctivas son las más eficaces en el tiempo, ya que resuelven el impacto directo y todos los impactos secundarios. En este caso, se consideran las variantes o la modificaci de la obra, para evitar la superposici con un bien arqueolico o alejarse del mismo.
+
+6.1.9.3 Medidas de rehabilitaci: Implican la recuperaci de uno
+
+o
+
+varios elementos de un bien arqueolico que fueron alterados por las actividades de las obras, proyectos o planes de desarrollo y que no pueden ser prevenidos, ni minimizados. Se consideran como principales, las siguientes:
+
+a.
+
+El proyecto de investigaci arqueolica con fines de conservaci
+
+Cuyo objetivo es estabilizar las evidencias arquitecticas de los bienes arqueolicos ubicados en el área de influencia directa y/o indirecta de las obras, proyectos o planes de desarrollo.
+
+b. El diagntico del estado de conservaci del bien arqueolico
+
+Av. Javier Prado Este Nº 2465, San Borja, Lima 41 -Per Teléfono (511) 4769933 WWV>.1.mcultura.gon.pe
+
+Se encuentra ubicado en el área de influencia directa y/o
+
+indirecta de la obra, proyecto o plan de desarrollo. Debe
+
+realizarse al inicio de la ejecuci de las obras mediante
+
+una "Ficha de Diagntico del Estado de Conservaci del
+
+Bien Arqueolico", propuesta por el titular de la
+
+intervenci. Este diagntico, seg corresponda, se
+
+realiza como parte de un Plan de Monitoreo Arqueolico
+
+y/o un Proyecto de Investigaci Arqueolica con fines
+
+de conservaci, seg sea el caso.
+
+La "Ficha de Diagntico del Estado de Conservaci del
+
+Bien Arqueolico" registrará el estado de conservaci
+
+en el cual se encuentra el bien arqueolico, ubicado
+
+dentro del área de influencia directa y/o indirecta de una
+
+obra, proyecto o plan de desarrollo. Esta Ficha debe
+
+desarrollarse por cada bien involucrado y deberá
+
+realizarse al inicio de la fase de ejecuci. La finalidad de
+
+esta ficha conjuntamente con la "Ficha de Control de
+
+Actividades" es determinar si la obra, proyecto o plan de
+
+desarrollo impacta o no con los bienes arqueolicos
+
+involucrados.
+
+6.1.9.4 Medidas irreversibles o definitivas: Se aplican en tima instancia, y son originadas por el impacto negativo significativo de una obra, proyecto o plan de desarrollo, por su condici de necesidad y utilidad plica o por su carácter técnicamente ineludible, es decir que, no se pueden adoptar medidas técnicamente eficaces de prevenci, correcci, mitigaci, recuperaci y restauraci, siendo necesario modificar las condiciones ambientales donde se sit un bien arqueolico, así como los componentes del mismo. En este rubro se consideran los Proyectos de Rescate Arqueolico, los cuales pueden ser con excavaciones en área (total o parcial) y los Proyectos de Rescate Arqueolico parcial en la dimensi vertical o estratigráfica.
+
+6.1.9.5 Medidas de compensaci: Son medidas y acciones a ejecutar en respuesta a los impactos negativos significativos ocasionados a un bien arqueolico, por una obra, proyecto
+
+o plan de desarrollo. El carácter y alcance de la medida, será proporcional y adecuada al tipo, nivel y significado del impacto ocasionado, tanto a los componentes muebles e inmuebles del bien arqueolico como a su marco circundante (entorno visual y paisajístico). Además, son acciones generadoras de beneficios culturales proporcionales a los impactos al patrimonio arqueolico causados por el desarrollo de las obras, proyectos o planes de desarrollo, siempre que no se puedan adoptar medidas eficaces de prevenci, correcci, mitigaci, recuperaci y restauraci. Estas medidas deben formar parte de los Programas de Responsabilidad Social y de los Planes de Manejo Ambiental de las empresas titulares de las obras, proyectos o planes de desarrollo que originan el impacto. Como prioridad, seg
+
+Av. Javier Prado Este Nº 2465, San Borja, Lima 41 -Per Teléfono (511) 4769933
+
+wv..y.¡.mcu!tura.gQ.[11)..§l.
+
+sea el caso, de acuerdo al tipo, nivel y significado de los impactos, así como al potencial del monumento arqueolico, se considerará lo siguiente: -Publicaciones.
+
+Ejecuci de proyectos o programas de investigaci, puesta en valor (corto, mediano y largo plazo), Análisis especializado de materiales arqueolicos. Programas de difusi a la comunidad. Muestras museográficas y/o construcci de infraestructura cultural (museos, exposiciones). Mantenimiento y conservaci de bienes arqueolicos recuperados. Reintegraci (restituci de bienes inmuebles). Compensaciones econicas, Proyecto de Investigaci Arqueolica con fines de conservaci y puesta en valor, el cual tiene como objetivo estabilizar las evidencias arquitecticas de los bienes arqueolicos ubicados en el área de influencia directa y/o indirecta del proyecto. Otras que se estimen técnicamente apropiadas, de acuerdo al tipo, nivel y significado de los impactos.
+
+VII, DISPOSICIONES COMPLEMENTARIAS
+
+7.1 Para la presentaci de los informes finales de los Proyectos de Evaluaci Arqueolica, Proyectos de Rescate Arqueolico y Planes de Monitoreo Arqueolico con relaci a los puntos referidos a los impactos arqueolicos y medidas de mitigaci, de acuerdo a lo previsto en el Reglamento de Intervenciones Arqueolicas, para cada modalidad de intervenci se seguirán los criterios de la presente Guía y los resultados se expondrán como anexo al informe final correspondiente, con el título "Plan de Manejo Arqueolico (PMAR)",
+
+7.2 El Plan de Manejo Arqueolico (PMAR) se desarrollará teniendo en cuenta cada bien arqueolico identificado, así como sus posibles impactos y
+
+medidas de mitigaci, de acuerdo al esquema siguiente:
+
+a.  Clasificaci  y nombre  del  bien  arqueolico registrado:  Descripci
+
+(Emplazamiento  geográfico  y  topográfico;  características,  funci,
+
+cronología y estado de conservaci) y potencial, de corresponder.
+
+b.  Identificaci de impactos arqueolicos con relaci a cada fase de la
+
+obra,  proyecto  o plan  de desarrollo, componentes de  ingeniería,  así
+
+como actividad u obra civil que lo ocasiona; calificaci y fase del estudio ambiental del proyecto.
+
+c. Medidas de mitigaci seg la clasificaci del impacto y la fase de la obra, proyecto o plan de desarrollo. Ejemplo: "a. -Clasificaci y nombre del bien arqueolico registrado: Sitio Arqueolico "Tres Ventanas" Descripci resumida (emplazamiento geográfico y topográfico, caracteristicas, funci, cronología y estado de conservaci), Potencial: alto.
+
+-Identificaci de impactos arqueolicos: Directo (superposici) y significativamente alto. Obra: Central hidroeléctrica. Fase del proyecto u
+
+Av. Javier Prado Este Nº 2465, San Borja, Lima 41 -Per Teléfono (511) 4769933 wwvv.mcu!tura_gon.pe
+
+obra: Definici de estudio de factibilidad. Componente de ingeniería: Ventana de ventilaci y tubería de conducci. Actividad y obra civil: remoci, corte y nivelaci del terreno (laderas), cimentaci, tránsito peatonal y maquinaria pesada. Calificaci y fase del estudio ambiental del proyecto: EIA Detallado en ejecuci.
+
+-Medidas de mitigaci: Correctiva. Se recomienda modificaci del trazo de fa tubería hacia un nivel más bajo y reubicaci de ventana de ventilaci".
+
+d.
+
+Además, se anexará un cuadro de resumen del Plan de Manejo Arqueolico que incluya los bienes arqueolicos, elementos arqueolicos aislados y/o sitios paleontolicos, impactos y medidas de mitigaci. (Ver modelo de esquema en el Anexo 1 adjunto a la presente Guía).
+
+e.
+
+Seg corresponda, se aplicará la "Ficha de Diagntico del Estado de Conservaci del Bien Arqueolico" propuesta por el titular de la intervenci y la "Ficha de Control de Actividades" (Ver Anexo 2 adjunto a la presente Guía).
+
+7.3 El Ministerio de Cultura efectuará el monitoreo permanente o seguimiento del control y supervisi del cumplimiento de las medidas de mitigaci y/o compensaci, por parte de los titulares de los proyectos de las obras, proyectos o planes de desarrollo, comunicando y coordinando con los entes o sectores del Estado vinculados con la gesti y fiscalizaci ambiental, las acciones que correspondan en caso de incumplimiento.
+
+7.4 Para los efectos de la presente Guía también se considerarán los impactos y medidas de mitigaci para los sitios paleontolicos que se registren en el marco de los Proyectos de Evaluaci Arqueolica, Proyectos de Rescate Arqueolico y Planes de Monitoreo Arqueolico u otra intervenci arqueolica, seg corresponda.
+
+Av. Javier Prado Este Nº 2465, San Borja, Urna 41 -Per Teléfono (511) 4769933 wvvw,mculturn,oon.pe
+
+GUÍA METODOLÓGICA PARA LA IDENTIFICACIÓN DE IMPACTOS ARQUEOLÓGICOS Y MEDIDAS DE MITIGACIÓN EN EL MARCO DE PROYECTOS DE EVALUACIÓN ARQUEOLÓGICA (PEA), PROYECTOS DE RESCATE ARQUEOLÓGICO (PRA) Y PLANES DE MONITOREO ARQUEOLÓGICO (PMA) CONFORME A LO ESTABLECIDO EN EL REGLAMENTO DE INTERVENCIONES ARQUEOLÓGICAS (DECRETO SUPREMO Nº 003-2014-MC)
+
+ANEXO 1: CUADRO DE RESUMEN DEL PLAN DE MANEJO ARQUEOLÓGICO
+
+GUÍA METODOLÓGICA PARA LA IDENTIFICACIÓN DE LOS IMPACTOS ARQUEOLÓGICOS Y LAS MEDIDAS DE MITIGACIÓN EN EL MARCO DE LOS PROYECTOS DE EVALUACIÓN ARQUEOLÓGICA (PEA), PROYECTOS DE RESCATE ARQUEOLÓGICO (PRA) Y PLANES DE MONITOREO ARQUEOLÓGICO (PMA) CONFORME A LO ESTABLECIDO EN EL REGLAMENTO DE INTERVENCIONES ARQUEOLÓGICAS
+
+ANEXO 2: FICHA DE CONTROL DE ACTIVIDADES
+
+Nombre del Proyecto: Nombre del Bien Arqueolico: Ubicaci: Departamento Coordenada UTM (WGS 84):
+
+Responsable del Registro:
+
+
+
+Fícha de Control de Actividades.­La Ficha de Control de Actividades servirá para monitorear el estado de conservaci de los bienes arqueolicos; para monitorear y controlar el impacto que generan las actividades al interior y/o cercanas a los mismos. Esta Ficha deberá llenarse durante la fase de ejecuci de una obra y/o proyectos de desarrollo, y deberá desarrollarse por cada uno de los monumentos arqueolicos y/o elementos aislados que se encuentren dentro del área de influencia directa y/o indirecta de una obra, proyecto o plan de desarrollo. E! personal responsable del registro de la presente ficha será determinado por el director del proyecto arqueolico. Además, el lapso de tiempo para el registro de las actividades no superará la semana; sin embargo, el intervalo de tiempo para el registro dependerá del tiempo de duraci de la modalidad del proyecto de intervenci.
+
+
+
+La "Ficha de Control de Actividades" deberá contener corno mínimo la siguiente informaci (siendo posible utilizar el modelo de formato
+
+adjunto (Formato Nº 1}: Nero de fícha.M Es el registro interno de fichas por monumento arqueolico y/o elemento aislado. Nombre del proyecto.-Es e! nombre de la intervenci arqueolica (PMA, PRA) que se encuentra en ejecuci. Nombre del bien arqueolico.-En e! cual se deberá indicar el nombre del monumento arqueolico y/o elemento aislado, así como otras denominaciones que se conozcan. Ubicaci.-Se deberá indicar el distrito, provincia y departamento en el que se encuentra ubicado el bien arqueolico. Coordenada UTM {WGS 84).-Se deberá indicar la coordenada UTM del punto central del monumento y/o elemento aislado, datum WGS 84. Responsable del registro.-Se deberá indicar el nombre del profesional que asumirá la responsabllidad de llevar el registro por cada bien arqueolico. Nero.-Se deberá enumerar las actividades que se realicen. Fecha.-Corresponde a la fecha en que se realizla actividad. Actividad realizada.-Se deberá detallar la actívídad realizada, indicando el tipo de actividad: extractiva1, nívelaci2 , acopio de materiales3, transito4, u otros. Responsable de la actividad.-Se deberá indicar el nombre del profesional responsable de la ejecuci de la actividad. Motivo de la intervenci.-Se deberá indicar los motivos por los cuales se realiza la actividad. Resultados.-Se deberá indicar si la realizaci de la actividad gener-una vez concluida-impactos sobre un bien arqueolico. Observaciones.-Se deberá indicar alg suceso fuera de lo normal que se haya producido durante la ejecuci de la actividad. Recomendaciones.-Se deberá indicar las recomendaciones que se podrían suscitarse durante el monitoreo de la actividad realizada; las mismas que deberán informarse al responsable del proyecto arqueolico y de la ejecuci de la obra en desarrollo. Firma.-Es la valídaci del arqueogo residente del proyecto arqueolico.
+
+1 Retiro de materiales, remoci del terreno. 2 Nivelaci de superficies. 3 Acumulaci de materiales. 4 Transito eventual o permanente.
+

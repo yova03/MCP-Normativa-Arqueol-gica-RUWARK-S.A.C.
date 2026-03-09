@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "normativa-ruwark": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["-m", "normativa_ruwark.server"],
+      "cwd": "${workspaceFolder}"
+    }
+  }
+}
